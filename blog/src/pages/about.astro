@@ -3,28 +3,24 @@ import Layout from '../layouts/BlogPost.astro';
 ---
 
 <Layout
-	title="About the Resident"
-	description="A brief history of how I got here."
+	title="The Resident"
+	description="Personnel log for the digital aftermath."
 	pubDate={new Date('January 01 2025')}
-	heroImage={`${import.meta.env.BASE_URL}/avatar.png`}
+	heroImage="/avatar.png"
 >
-	<p>
-		If you're reading this, you've likely stumbled into the digital equivalent of a sigh. I'm a millennial living on a diet of irony, lukewarm coffee, and the constant, vibrating hum of existential dread. 
-	</p>
+	<section class="card">
+		<p>
+			I am the resident of this digital aftermath. A millennial loading bar stuck at 99%, perpetually waiting for a future that was sold to me in 2004 but never delivered.
+		</p>
+		<p>
+			This gallery is not a cry for help. It is a record of successful decline. While you were learning to code or buying crypto, I was mastering the art of the 2 PM dissociative stare. This site contains my findings.
+		</p>
+	</section>
 
-	<p>
-		This blog isn't a platform. It's an autopsy. It's 52 weeks of asking "why?" and being answered with a 404 error. I started this record not to "find myself"—I already know exactly where I am, and it's usually on the floor—but to document the specific, agonizing ways we all choose to dismantle our own potential.
-	</p>
-
-	<p>
-		I live in a city that is too expensive, work a job that is too vague, and own a cactus that is too dead. My hobbies include "optimization" (staring at a spreadsheet until I cry) and "wellness" (buying a juice that tastes like a lawnmower's collection bag).
-	</p>
-
-	<p>
-		The posts you'll find in the archive are real. The incidents are embarrassing. The spirals are unavoidable. 
-	</p>
-
-	<p>
-		Welcome to the downward slope. Grab a seat—there are plenty of uncomfortable stools left.
-	</p>
+	<h3>Operational Status</h3>
+	<ul>
+		<li><strong>Mental Capacity</strong>: Diminished.</li>
+		<li><strong>Optimism</strong>: Depleted.</li>
+		<li><strong>Caffeine Dependence</strong>: Maximum.</li>
+	</ul>
 </Layout>

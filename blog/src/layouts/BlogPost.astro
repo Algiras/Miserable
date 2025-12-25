@@ -1,5 +1,4 @@
 ---
-import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
@@ -15,42 +14,33 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 	<head>
 		<BaseHead title={title} description={description} />
 		<style>
-			main {
-				width: calc(100% - 2em);
-				max-width: 100%;
-				margin: 0;
-			}
-			.hero-image {
-				width: 100%;
-			}
-			.hero-image img {
-				display: block;
-				margin: 0 auto;
-				border-radius: 12px;
-				box-shadow: var(--box-shadow);
-			}
-			.prose {
-				width: 720px;
-				max-width: calc(100% - 2em);
-				margin: auto;
-				padding: 1em;
-				color: rgb(var(--gray-dark));
-			}
-			.title {
-				margin-bottom: 1em;
-				padding: 1em 0;
+			.post-header {
 				text-align: center;
-				line-height: 1;
+				margin-bottom: 4rem;
 			}
-			.title h1 {
-				margin: 0 0 0.5em 0;
+			.hero-img {
+				width: 100vw;
+				position: relative;
+				left: 50%;
+				right: 50%;
+				margin-left: -50vw;
+				margin-right: -50vw;
+				max-height: 70vh;
+				object-fit: cover;
+				margin-bottom: 4rem;
+				border-radius: 0;
+				mask-image: linear-gradient(to bottom, black 80%, transparent);
 			}
-			.date {
-				margin-bottom: 0.5em;
-				color: rgb(var(--gray));
+			.prose-container {
+				max-width: 720px;
+				margin: 0 auto;
 			}
-			.last-updated-on {
-				font-style: italic;
+			.diary-metadata {
+				margin-bottom: 2rem;
+				color: var(--gray);
+				font-size: 0.875rem;
+				text-transform: uppercase;
+				letter-spacing: 0.1em;
 			}
 		</style>
 	</head>
@@ -58,26 +48,22 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 	<body>
 		<Header />
 		<main>
-			<article>
-				<div class="hero-image">
-					{heroImage && <Image width={1020} height={510} src={heroImage} alt="" />}
-				</div>
-				<div class="prose">
-					<div class="title">
-						<div class="date">
-							<FormattedDate date={pubDate} />
-							{
-								updatedDate && (
-									<div class="last-updated-on">
-										Last updated on <FormattedDate date={updatedDate} />
-									</div>
-								)
-							}
+			<article class="reveal">
+				{heroImage && <img src={heroImage} alt="" class="hero-img" />}
+				
+				<div class="prose-container">
+					<header class="post-header">
+						<div class="diary-metadata">
+							Exhibit No. <FormattedDate date={pubDate} />
+							{updatedDate && <span> / REVISED <FormattedDate date={updatedDate} /></span>}
 						</div>
 						<h1>{title}</h1>
-						<hr />
+						<p class="subtitle">{description}</p>
+					</header>
+					
+					<div class="prose">
+						<slot />
 					</div>
-					<slot />
 				</div>
 			</article>
 		</main>

@@ -9,29 +9,54 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			.hero {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				text-align: center;
+				padding: 8rem 0;
+			}
+			.banner-container {
+				width: 100%;
+				position: relative;
+				margin-bottom: 4rem;
+			}
+			.banner-img {
+				width: 100%;
+				max-height: 500px;
+				object-fit: cover;
+				filter: grayscale(0.2) contrast(1.1);
+				mask-image: linear-gradient(to bottom, black 80%, transparent);
+			}
+			.reveal-delay {
+				animation-delay: 0.2s;
+			}
+		</style>
 	</head>
 	<body>
 		<Header />
 		<main>
-			<img src={`${import.meta.env.BASE_URL}/banner.png`} alt="Miserable Blog Banner" style="width: 100%; border-radius: 12px; margin-bottom: 2rem;" />
-			<h1>💀 The Miserable Diary</h1>
-			<p>
-				Welcome to the digital aftermath. This is a week-by-week record of a year spent in the trenches of modern malaise.
-			</p>
-			<p>
-				We were told that if we worked hard, ate our greens, and stayed 'engaged,' things would make sense. They don't. This diary is a testament to the art of the downward spiral—a curated collection of the micro-dramas, sensory failures, and existential rants that define a life lived in the shadows of expectation.
-			</p>
-			<p>
-				<strong>The 2025 Archive:</strong>
-			</p>
-			<ul>
-				<li>52 weeks of documented decline.</li>
-				<li>No "life hacks." No "optimization."</li>
-				<li>Just the raw, unfiltered reality of being a sentient loading bar.</li>
-			</ul>
-			<p>
-				Dive into the <a href={`${import.meta.env.BASE_URL}/blog`}>Archive</a> if you're feeling particularly resilient. Or don't. I'm not here to tell you how to spend your remaining dopamine.
-			</p>
+			<section class="hero reveal">
+				<div class="banner-container">
+					<img src="/banner.png" alt="Exhibit A: The Void" class="banner-img glass-img" />
+				</div>
+				<span class="badge">Millennial Misery Diary</span>
+				<h1>The Vantablack <br/>Gallery</h1>
+				<p class="intro-text">
+					Welcome to the digital aftermath. A week-by-week record of a year spent in the trenches of modern malaise. This is not a blog. It is an autopsy.
+				</p>
+				<a href="/blog" class="btn btn-primary">Open the Archive</a>
+			</section>
+
+			<section class="reveal reveal-delay">
+				<div class="card">
+					<h3>Catalogue of Stagnation</h3>
+					<p>
+						52 exhibits. 52 weeks of expertly curated self-sabotage. Each entry is a testament to the art of the downward spiral—a record of the micro-dramas, sensory failures, and existential rants of 2025.
+					</p>
+				</div>
+			</section>
 		</main>
 		<Footer />
 	</body>

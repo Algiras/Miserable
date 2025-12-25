@@ -1,0 +1,21 @@
+# Quarto
+.quarto/
+_book/
+_site/
+_freeze/
+_output/
+
+# Documents
+*.pdf
+*.epub
+*.docx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.venv/
+env/
+venv/

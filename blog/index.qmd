@@ -1,0 +1,14 @@
+---
+title: "The Miserable Blog"
+---
+
+# Welcome to the Aftermath
+
+This site serves as a companion to the book *Miserable*. While the book provides the recipes, this blog explores the theory behind the techniques.
+
+## Latest Analysis
+
+- [Decoding the Ingredients for Despair](blog-path-to-despair.qmd)
+- [The Science of Isolation](blog-isolation.qmd)
+
+Stay tuned for more updates on how to systematically dismantle your well-being.

@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+This blog is maintained by the research arm of the *Miserable* project. 
+
+Our mission is to provide the academic rigor that your downward spiral deserves.

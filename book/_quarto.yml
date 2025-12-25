@@ -1,0 +1,23 @@
+project:
+  type: book
+  output-dir: ../_book
+
+book:
+  title: "Miserable"
+  subtitle: "A Menu of Life Advice in Reverse"
+  author: "The Reverse Maven"
+  date: "12/25/2025"
+  chapters:
+    - index.qmd
+    - ingredients-for-despair.qmd
+    - serving-of-isolation.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+  pdf:
+    documentclass: scrreprt

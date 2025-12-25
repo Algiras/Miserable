@@ -1,0 +1,9 @@
+---
+title: "The Science of Isolation"
+---
+
+Isolation isn't just about being alone; it's about making sure others feel as uncomfortable as you do. 
+
+We analyze the acoustic properties of a perfect door-slam and the psychological weight of an "I'm fine."
+
+[Read the Recipe in the Book](../book/serving-of-isolation.qmd)

@@ -1,0 +1,41 @@
+---
+title: "The Circadian Shuffle"
+description: "Maven Research #1: The Circadian Shuffle."
+pubDate: "2025-01-01"
+heroImage: "/banner.png"
+---
+
+**Log Entry #1**
+*Researcher: The Reverse Maven*
+
+Progress on the Deluxe Edition continues. The field notes below represent our deepest incursions into the architecture of modern malaise. We have successfully extracted the following protocols for your consideration.
+
+---
+
+**Yields: 24 Hours of Foggy Resentment**
+
+Sleep is the enemy of misery. When you sleep well, your brain clear-cuts the weeds of anxiety. We cannot have that. We need those weeds to grow into a dense, impenetrable forest of "What if?"
+
+#### Ingredients
+- 1 Smartphone (max brightness)
+- 3 Blue light-emitting screens
+- 2 Cups of espresso (consumed after 9 PM)
+- 1 Unresolved argument from 2014
+- 0 Consistent wake-up times
+
+#### The Method
+1. **The Twilight Scroll**: Around 11:30 PM, when you feel a slight urge to sleep, ignore it. Open any social media feed and scroll until you find someone younger than you achieving something you haven't.
+2. **The Blue Light Bath**: Keep the smartphone 4 inches from your face. The goal is to trick your pineal gland into thinking it's High Noon in the Sahara Desert.
+3. **The Midnight Roast**: When the "2:00 AM existential crisis" hits, go to the kitchen. Brew a cup of coffee. Convince yourself you're being "productive" by staring at your bank statement.
+4. **The Ruminative Stir-Fry**: Once back in bed, take your unresolved argument from 2014. Re-fry it. Think of three things you *should* have said. Repeat until 4:45 AM.
+5. **The Delayed Start**: When the sun inevitably rises, hit the "Snooze" button at least six times. This ensures you start the day with a frantic rush, maximizing cortisol levels.
+
+#### A Note from the Chef
+If you accidentally fall asleep before 1:00 AM, do not panic. Simply set an alarm for 3:00 AM to check your email. The stress of a work notification in the middle of the night is the perfect garnish for a ruined tomorrow.
+
+---
+
+### Maven's Post-Script
+This research is now categorized and bound within *Miserable: How to Fail at Life*. The archived data here is merely the surface of the void. 
+
+*174 Pages. No Hope. Available Dec 31.*

@@ -1,0 +1,59 @@
+name: Publish Book to GitHub Releases
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    name: Build and Publish Book
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.4.549
+      
+      - name: Install LaTeX (TinyTeX)
+        run: |
+          quarto install tinytex
+      
+      - name: Render Book (PDF & EPUB)
+        run: |
+          cd book
+          quarto render --to pdf
+          quarto render --to epub
+      
+      - name: Prepare Release Artifacts
+        run: |
+          mkdir -p out
+          cp _book/Miserable.pdf out/Miserable_Deluxe_Masterwork.pdf
+          cp _book/Miserable.epub out/Miserable_Final.epub
+      
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            out/Miserable_Deluxe_Masterwork.pdf
+            out/Miserable_Final.epub
+          body: |
+            ## Miserable: How to Fail at Life (Deluxe Edition)
+            
+            **The Reverse Maven's Masterwork**
+            
+            - 📄 **PDF**: 174 Pages, Palatino Typography, Micro-optimized
+            - 📱 **EPUB**: Reflowable format for Kindle/Apple Books
+            
+            *Read it, or don't. It won't change anything.*
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

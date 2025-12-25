@@ -1,0 +1,29 @@
+# The Infinite Scroll
+
+In Ancient Greek mythology, Sisyphus was condemned for eternity to roll a giant boulder up a hill, only for it to roll back down every time he reached the top. It was the ultimate "Pointless Labor." In the early 20th century, labor movements used the myth of Sisyphus as a metaphor for the repetitive, soul-crushing work of the industrial assembly line.
+
+In the digital age, we have virtualized the boulder. We call it **The Infinite Scroll**.
+
+The "Infinite Scroll"—the interface design that removes the "Stop" button from the bottom of a page—is the most significant architectural achievement in the history of misery. It is the dissolution of the "Endpoint." It ensures that you are never finished, never satisfied, and never allowed to leave.
+
+## The Dissolution of Time
+
+Human perception of time is built on "Markers"—the beginning and end of a task. By removing these markers, the Infinite Scroll creates a state of **Flow-State Paralysis**. You don't realize you've spent three hours scrolling because there were no "pages" to turn. You have entered a digital "Now" that has no yesterday and no tomorrow.
+
+## Instructions for Sisyphean Labor
+
+1.  **The "One More" Fallacy**: Always tell yourself you will "just check one more post." Because there is always another post, this guarantees you will never stop. 
+2.  **The Vertical Descent**: Use the physical motion of scrolling as a form of meditation. Don't read the content; just watch the colors and shapes move up the screen. This achieves the goal of "Sedentary Mastery" (see *Part 1*) while occupying your hands.
+3.  **The Sunk Cost of Attention**: If you've already spent an hour scrolling, feel a subconscious pressure to "find something good" to justify the time spent. This leads to *more* scrolling. You are "gambling" with your attention, always looking for the "Big Win" of a meaningful post that never comes.
+4.  **The Thumb-Cramp Badge**: Ignore the physical discomfort of the scroll. The minor pain in your thumb or the strain in your eyes are signs that you are "The 10,000-Hour Master of Inaction" (see *Part 2*).
+
+## The Result: The Ghost of the Interface
+
+The goal of the Infinite Scroll is to turn you into a **Ghost of the Interface**. You are a person who is physically in a room but psychologically "Falling" through a bottomless pit of content. You have achieved the ultimate digital misery: the ability to spend a whole lifetime looking at the world through a three-inch window, without ever actually seeing it.
+
+::: {.callout-tip}
+## Analytic Note: Doomscrolling Optimization
+In the *Resident's Log (June 17)*, the subject illustrates "Doomscrolling Optimization." They have managed to link the "Infinite Scroll" to their "Outrage Addiction" (see *Algorithm Worship*), creating a perpetual motion machine of digital despair.
+:::
+
+> "A book has a last page. A screen has only a next page. Choose the one that never ends."

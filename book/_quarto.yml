@@ -4,7 +4,7 @@ project:
 
 book:
   title: "Miserable"
-  subtitle: "A Menu of Life Advice in Reverse"
+  subtitle: "How to Fail at Life"
   author: "The Reverse Maven"
   date: "12/25/2025"
   chapters:
@@ -12,34 +12,137 @@ book:
     - part: "Part 1: The Kitchen (Foundations)"
       chapters:
         - foundations-intro.qmd
+        - interlude-1.qmd
         - circadian-shuffle.qmd
         - nutritional-nihilism.qmd
         - sedentary-mastery.qmd
+        - the-desert-strategy.qmd
+        - anesthetic-of-neglect.qmd
+        - cacophony-of-the-city.qmd
+        - architecture-of-anxiety.qmd
+        - chronotypes-of-chaos.qmd
     - part: "Part 2: The Ingredients (Mindset)"
       chapters:
+        - interlude-2.qmd
         - mechanics-of-structural-imbalance.qmd
         - fragility-of-comfort.qmd
         - peak-end-engineering.qmd
+        - numerical-obsession.qmd
+        - antifragility-of-ego.qmd
+        - paradox-of-choice.qmd
+        - sunk-cost-of-personality.qmd
+        - intellectualization-of-avoidance.qmd
         - negative-filtering.qmd
         - vapid-goals.qmd
     - part: "Part 3: The Main Courses (Career & Finance)"
       chapters:
+        - interlude-3.qmd
         - masterclass-of-the-dead-hour.qmd
+        - corporate-gaslighting.qmd
+        - linkedin-mirage.qmd
+        - digital-nomadic-nihilism.qmd
+        - gig-economy-of-the-soul.qmd
+        - resume-of-regrets.qmd
     - part: "Part 4: Serving Others (Relationships)"
       chapters:
+        - interlude-4.qmd
         - serving-of-isolation.qmd
         - broken-window-theory-of-despair.qmd
         - social-ledger-of-resentment.qmd
-    - part: "Part 5: Dessert (The Meaning of it All)"
+        - performative-support.qmd
+        - ghosting-protocol.qmd
+        - family-system-entropy.qmd
+        - intimacy-of-intermittent-reinforcement.qmd
+        - social-credit-of-the-slight.qmd
+    - part: "Part 5: The Digital Wasteland"
       chapters:
+        - interlude-5.qmd
+        - algorithm-worship.qmd
+        - infinite-scroll.qmd
+        - app-based-boredom.qmd
+    - part: "Part 6: The Sensory Desert"
+      chapters:
+        - interlude-6.qmd
+        - monotony-as-art.qmd
+        - architecture-of-blandness.qmd
+    - part: "Part 7: Dessert (The Meaning of it All)"
+      chapters:
+        - interlude-7.qmd
         - mirage-of-completion.qmd
+    - part: "Part 8: Financial Folly"
+      chapters:
+        - interlude-8.qmd
+        - aesthetics-of-debt.qmd
+        - market-mastery-in-reverse.qmd
+        - subscription-trap.qmd
+    - part: "Part 9: The Somatic Shadow"
+      chapters:
+        - interlude-9.qmd
+        - posture-of-the-defeated.qmd
+        - artificial-light.qmd
+        - texture-of-discomfort.qmd
+    - part: "Part 10: Intellectual Despair"
+      chapters:
+        - interlude-10.qmd
+        - library-of-unread-books.qmd
+        - cult-of-the-productivity-hack.qmd
+        - archive-of-incomplete-projects.qmd
+    - part: "Part 11: Social Ruin"
+      chapters:
+        - interlude-11.qmd
+        - dinner-party-of-discomfort.qmd
+        - small-talk-as-a-trench.qmd
+        - art-of-being-boring.qmd
+    - part: "Appendices"
+      chapters:
+        - glossary-of-gaps.qmd
+        - reverse-dictionary-of-grief.qmd
+        - case-study-archives-expanded.qmd
+        - reverse-bibliography-annotated.qmd
     - references.qmd
 
 bibliography: references.bib
+cover-image: cover.png
 
 format:
   html:
     theme:
       - cosmo
+  epub:
+    cover-image: cover.png
+    toc: true
+    number-sections: false
   pdf:
     documentclass: scrreprt
+    papersize: letter
+    fontsize: 11pt
+    linestretch: 1.25
+    geometry:
+      - margin=1in
+      - heightrounded
+    classoption:
+      - DIV=11
+      - numbers=noendperiod
+    header-includes:
+      - \usepackage{mathpazo} 
+      - \usepackage[scaled=0.95]{helvet}
+      - \usepackage{microtype}
+      - \usepackage{mdframed}
+      - \usepackage{etoolbox}
+      - \AtBeginEnvironment{quote}{\itshape\small}
+      - \surroundwithmdframed[linewidth=2pt,linecolor=black,topline=false,rightline=false,bottomline=false,leftmargin=0em,innerleftmargin=1em]{quote}
+      - \KOMAoption{captions}{tableheading}
+      - \setkomafont{chapter}{\sffamily\Huge\bfseries}
+      - \setkomafont{section}{\sffamily\Large\bfseries}
+      - \usepackage{fancyhdr}
+      - \pagestyle{fancy}
+      - \fancyhf{}
+      - \fancyhead[LE,RO]{The Reverse Maven}
+      - \fancyhead[RE,LO]{\leftmark}
+      - \fancyfoot[C]{\thepage}
+      - \renewcommand{\headrulewidth}{0.4pt}
+      - \usepackage{setspace}
+      - \onehalfspacing
+      - \setlength{\parskip}{0.8em}
+      - \setlength{\parindent}{0pt}
+    block-headings: true

@@ -6,30 +6,28 @@ heroImage: "https://picsum.photos/seed/26/1200/630"
 ---
 
 **Mood**: Slightly unhinged  
-**Location**: Sitting in my dimly lit living room while the neighbor's TV syncs through the wall  
-**Mental State**: I'm currently identifying as a sentient pile of unwashed laundry.
+**Location**: Scattered across the floor of my own expectations  
+**Mental State**: Loading... 99% complete (estimated time: infinity)
 
 # The Incident
 
-So, today was a thing. I bought a self-help book about 'Living in the Now' and it's currently buried under a pile of 'things I'll do later'. I thought about how this perfectly encapsulates my current trajectory. Usually, people have a 'glow up', but I think I'm experiencing a 'gray out'. It's like my life is being directed by a very sad European filmmaker who forgot to write a script.
+So, today was a thing. I stood in the 'International' aisle of the supermarket for twenty minutes just to feel like I was traveling. I left with a can of water chestnuts I don't know how to open.
 
-I stood there for a long time, just taking it in. The realization that I am an adult who is allegedly in charge of things is the most recurring nightmare I have. I stood in front of the fridge for ten minutes looking for something that would make me feel whole. I found a jar of pickles. I mean, who allowed this? 
+I stood there for a long time, just taking it in. The realization that I am an adult who is allegedly in charge of things is the most recurring nightmare I have. 
 
 # The Spiral
 
 The theme of the week is **Canceling Plans at the Last Minute**. 
 
-It sounds like a choice, doesn't it? Like I sat down with a planner and some gel pens and decided to lean into the chaos. But it's not. It's an accumulation of every 'I'll deal with that tomorrow' and every 'it's fine' that I've uttered over the last decade. 
+I tried to 'manifest' a better life and all I got was a targeted ad for a weighted blanket. Apparently, the universe thinks I just need to be pinned down.
 
-I saw an ad for a 'productivity hack' that involved getting up at 4 AM to stare at a wall. I'm already staring at a wall at 2 AM for free. Am I an expert? Am I a visionary? Or am I just tired?
-
-I find myself thinking about the version of me I thought I'd be. She had matching luggage and a favorite brand of olive oil. She didn't spend forty-five minutes debating whether a stain on a t-shirt counts as a 'pattern'. We're not even the same species anymore.
+We live in a world where your refrigerator can tell you if you're out of milk, but it can't tell you why your heart feels like a deflated balloon. Technology has solved everything except the meaning of it all.
 
 # The Aftermath
 
-I'm currently trying to decide if I should face the music or just turn the music up until I can't hear my own thoughts. Option B is currently winning by a landslide. 
+It's enough for one-sixteenth of a therapy session. Maybe I'll just ask the barista for advice. They're usually just as tired as I am.
 
-Everything feels like it's made of cardboard and hope, and it's raining. But hey, at least I found a five-dollar bill in my coat pocket. It's enough for half an oat milk latte or one-sixteenth of a therapy session. Decisions, decisions.
+If you see me in public, no you didn't. I'm currently a figment of my own imagination and I'd like to keep it that way.
 
 ***
 

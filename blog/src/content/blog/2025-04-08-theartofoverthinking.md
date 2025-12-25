@@ -6,30 +6,28 @@ heroImage: "https://picsum.photos/seed/14/1200/630"
 ---
 
 **Mood**: Slightly unhinged  
-**Location**: Sitting in the local coffee shop that has zero outlets remaining  
-**Mental State**: I'm currently identifying as a sentient pile of unwashed laundry.
+**Location**: Scattered across the floor of my own expectations  
+**Mental State**: Loading... 99% complete (estimated time: infinity)
 
 # The Incident
 
-So, today was a thing. The person at the checkout said 'Have a nice day' and I replied 'You too' even though it was 11 PM and the day was clearly over. I thought about how this perfectly encapsulates my current trajectory. Usually, people have a 'glow up', but I think I'm experiencing a 'gray out'. It's like my life is being directed by a very sad European filmmaker who forgot to write a script.
+So, today was a thing. I tried to cook a 'healthy' meal and accidentally set off the smoke alarm. The fire department arrived and judged my lack of seasoning. Apparently, salt isn't a vegetable.
 
-I stood there for a long time, just taking it in. The realization that I am an adult who is allegedly in charge of things is the most recurring nightmare I have. I matched with someone on an app who said their hobby was 'optimization'. I've never unmatched so fast in my life. I mean, who allowed this? 
+I stood there for a long time, just taking it in. The realization that I am an adult who is allegedly in charge of things is the most recurring nightmare I have. 
 
 # The Spiral
 
 The theme of the week is **The Art of Overthinking**. 
 
-It sounds like a choice, doesn't it? Like I sat down with a planner and some gel pens and decided to lean into the chaos. But it's not. It's an accumulation of every 'I'll deal with that tomorrow' and every 'it's fine' that I've uttered over the last decade. 
+Is it 'self-care' if you're just avoiding the life you built? I spent the weekend 'recharging', but the battery is leaking and the charger is frayed.
 
-I saw an ad for a 'productivity hack' that involved getting up at 4 AM to stare at a wall. I'm already staring at a wall at 2 AM for free. Am I an expert? Am I a visionary? Or am I just tired?
-
-I find myself thinking about the version of me I thought I'd be. She had matching luggage and a favorite brand of olive oil. She didn't spend forty-five minutes debating whether a stain on a t-shirt counts as a 'pattern'. We're not even the same species anymore.
+I tried to 'manifest' a better life and all I got was a targeted ad for a weighted blanket. Apparently, the universe thinks I just need to be pinned down.
 
 # The Aftermath
 
-I'm currently trying to decide if I should face the music or just turn the music up until I can't hear my own thoughts. Option B is currently winning by a landslide. 
+Everything feels like it's made of cardboard and hope, and it's raining. But hey, at least I found a five-dollar bill in my coat pocket. It's enough for half an oat milk latte.
 
-Everything feels like it's made of cardboard and hope, and it's raining. But hey, at least I found a five-dollar bill in my coat pocket. It's enough for half an oat milk latte or one-sixteenth of a therapy session. Decisions, decisions.
+The sun is coming up, which is a bit rude if you ask me. I didn't give it permission to end the safety of the night.
 
 ***
 

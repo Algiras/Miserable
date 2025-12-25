@@ -1,8 +1,8 @@
 ---
-title: "Vertical Sleeping"
-description: "Entry #13: On vertical sleeping and the general state of things."
-pubDate: "2025-03-26"
-heroImage: "https://picsum.photos/seed/12/1200/630"
+title: "Focus is for Losers"
+description: "Entry #23: On focus is for losers and the general state of things."
+pubDate: "2025-06-03"
+heroImage: "https://picsum.photos/seed/22/1200/630"
 ---
 
 **Mood**: Slightly unhinged  
@@ -17,7 +17,7 @@ I stood there for a long time, just taking it in. The realization that I am an a
 
 # The Spiral
 
-The theme of the week is **Vertical Sleeping**. 
+The theme of the week is **Focus is for Losers**. 
 
 Everything is a 'subscription' now. My gym, my music, my software. I'm waiting for the 'Happiness Pro' tier, but I suspect it's just a 7-day free trial that leads to a bill I can't pay.
 

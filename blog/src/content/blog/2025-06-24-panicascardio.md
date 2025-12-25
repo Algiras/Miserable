@@ -6,30 +6,28 @@ heroImage: "https://picsum.photos/seed/25/1200/630"
 ---
 
 **Mood**: Slightly unhinged  
-**Location**: Sitting in the quiet car of a train that is distinctly not quiet  
-**Mental State**: I have the attention span of a goldfish on espresso.
+**Location**: Scattered across the floor of my own expectations  
+**Mental State**: Loading... 99% complete (estimated time: infinity)
 
 # The Incident
 
-So, today was a thing. I bought a self-help book about 'Living in the Now' and it's currently buried under a pile of 'things I'll do later'. I thought about how this perfectly encapsulates my current trajectory. Usually, people have a 'glow up', but I think I'm experiencing a 'gray out'. It's like my life is being directed by a very sad European filmmaker who forgot to write a script.
+So, today was a thing. I saw an ad for a 'productivity hack' that involved getting up at 4 AM to stare at a wall. I'm already staring at a wall at 2 AM for free. Am I a visionary or just tired?
 
-I stood there for a long time, just taking it in. The realization that I am an adult who is allegedly in charge of things is the most recurring nightmare I have. I stood in front of the fridge for ten minutes looking for something that would make me feel whole. I found a jar of pickles. I mean, who allowed this? 
+I stood there for a long time, just taking it in. The realization that I am an adult who is allegedly in charge of things is the most recurring nightmare I have. 
 
 # The Spiral
 
 The theme of the week is **Panic as Cardio**. 
 
-It sounds like a choice, doesn't it? Like I sat down with a planner and some gel pens and decided to lean into the chaos. But it's not. It's an accumulation of every 'I'll deal with that tomorrow' and every 'it's fine' that I've uttered over the last decade. 
+I'm experiencing a 'gray out'. Usually, people have a 'glow up', but I'm just becoming a background character in my own life. A very sad European film with no subtitles.
 
-The concept of a 'career path' is increasingly hilarious. It's more like a series of stumbles across a dark room full of Lego bricks. You just hope the next step doesn't hurt more than the last one.
-
-I find myself thinking about the version of me I thought I'd be. She had matching luggage and a favorite brand of olive oil. She didn't spend forty-five minutes debating whether a stain on a t-shirt counts as a 'pattern'. We're not even the same species anymore.
+It sounds like a choice, doesn't it? Like I sat down with a planner and some gel pens and decided to lean into the chaos. But it's not. It's an accumulation of every 'it's fine' I've ever uttered.
 
 # The Aftermath
 
-I'm currently trying to decide if I should face the music or just turn the music up until I can't hear my own thoughts. Option B is currently winning by a landslide. 
+I've decided to be at peace with my own destruction. For the next hour, at least. I'm going to stare at a spider on the ceiling and call it 'meditation'.
 
-Everything feels like it's made of cardboard and hope, and it's raining. But hey, at least I found a five-dollar bill in my coat pocket. It's enough for half an oat milk latte or one-sixteenth of a therapy session. Decisions, decisions.
+I've reached a level of apathy that borders on enlightenment. Or maybe I just need to drink some water. Hard to tell the difference these days.
 
 ***
 

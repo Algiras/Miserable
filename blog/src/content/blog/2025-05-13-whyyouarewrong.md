@@ -6,30 +6,28 @@ heroImage: "https://picsum.photos/seed/19/1200/630"
 ---
 
 **Mood**: Slightly unhinged  
-**Location**: Sitting in the parking lot of a Target I walked into for one thing and left with 'vibe'  
-**Mental State**: Existence is currently a series of loading bars that never reach 100%.
+**Location**: Scattered across the floor of my own expectations  
+**Mental State**: Loading... 99% complete (estimated time: infinity)
 
 # The Incident
 
-So, today was a thing. I found a gray hair in my eyebrow and spent twenty minutes researching the cost of cryogenics. I thought about how this perfectly encapsulates my current trajectory. Usually, people have a 'glow up', but I think I'm experiencing a 'gray out'. It's like my life is being directed by a very sad European filmmaker who forgot to write a script.
+So, today was a thing. I bought a self-help book about 'Living in the Now' and it's currently being used as a coaster for a cold cup of coffee. The irony is the only thing keeping me warm.
 
-I stood there for a long time, just taking it in. The realization that I am an adult who is allegedly in charge of things is the most recurring nightmare I have. I bought a self-help book about 'Living in the Now' and it's currently buried under a pile of 'things I'll do later'. I mean, who allowed this? 
+I stood there for a long time, just taking it in. The realization that I am an adult who is allegedly in charge of things is the most recurring nightmare I have. 
 
 # The Spiral
 
 The theme of the week is **Why You Are Wrong**. 
 
-It sounds like a choice, doesn't it? Like I sat down with a planner and some gel pens and decided to lean into the chaos. But it's not. It's an accumulation of every 'I'll deal with that tomorrow' and every 'it's fine' that I've uttered over the last decade. 
+They told us to 'follow our passions' but neglected to mention that passion doesn't pay for health insurance. Now I'm just passionate about lying down in a dark room.
 
-The concept of a 'career path' is increasingly hilarious. It's more like a series of stumbles across a dark room full of Lego bricks. You just hope the next step doesn't hurt more than the last one.
-
-I find myself thinking about the version of me I thought I'd be. She had matching luggage and a favorite brand of olive oil. She didn't spend forty-five minutes debating whether a stain on a t-shirt counts as a 'pattern'. We're not even the same species anymore.
+The concept of a 'career path' is increasingly hilarious. It's more like a series of stumbles across a dark room full of Lego bricks. You just hope the next step doesn't hurt more.
 
 # The Aftermath
 
-I'm currently trying to decide if I should face the music or just turn the music up until I can't hear my own thoughts. Option B is currently winning by a landslide. 
+The sun is coming up, which is a bit rude if you ask me. I didn't give it permission to end the safety of the night.
 
-Everything feels like it's made of cardboard and hope, and it's raining. But hey, at least I found a five-dollar bill in my coat pocket. It's enough for half an oat milk latte or one-sixteenth of a therapy session. Decisions, decisions.
+Everything feels like it's made of cardboard and hope, and it's raining. But hey, at least I found a five-dollar bill in my coat pocket. It's enough for half an oat milk latte.
 
 ***
 

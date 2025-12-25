@@ -1,0 +1,61 @@
+---
+---
+<button id="theme-toggle" class="theme-btn" aria-label="Toggle Theme">
+  <span class="icon void">🌑</span>
+  <span class="icon dim">🌘</span>
+  <span class="icon mist">☀️</span>
+</button>
+
+<style>
+  .theme-btn {
+    background: var(--surface-raised);
+    border: 1px solid var(--border);
+    border-radius: 99px;
+    padding: 0.5rem;
+    cursor: pointer;
+    display: flex;
+    gap: 0.5rem;
+    transition: var(--transition);
+  }
+  
+  .theme-btn:hover {
+    border-color: var(--border-hover);
+    transform: scale(1.1);
+  }
+
+  .icon {
+    font-size: 1.25rem;
+    opacity: 0.2;
+    transition: var(--transition);
+  }
+
+  :global([data-theme="void"]) .icon.void,
+  :global(:not([data-theme])) .icon.void,
+  :global([data-theme="dim"]) .icon.dim,
+  :global([data-theme="mist"]) .icon.mist {
+    opacity: 1;
+    filter: drop-shadow(0 0 8px var(--accent));
+  }
+</style>
+
+<script>
+  const themes = ['void', 'dim', 'mist'];
+  let currentThemeIdx = 0;
+
+  const toggle = document.getElementById('theme-toggle');
+  
+  function setTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    localStorage.setItem('theme', theme);
+    currentThemeIdx = themes.indexOf(theme);
+  }
+
+  // Init
+  const savedTheme = localStorage.getItem('theme') || 'void';
+  setTheme(savedTheme);
+
+  toggle?.addEventListener('click', () => {
+    currentThemeIdx = (currentThemeIdx + 1) % themes.length;
+    setTheme(themes[currentThemeIdx]);
+  });
+</script>

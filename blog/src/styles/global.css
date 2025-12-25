@@ -1,50 +1,58 @@
 :root {
-	/* Colors - The Deep End Palette */
+	/* Default Theme: Deep Void */
 	--bg: #050505;
 	--surface: #0a0a0c;
 	--surface-raised: #111114;
 	--white: #f8fafc;
-	--off-white: #cbd5e1;
-	--gray: #64748b;
+	--off-white: #e2e8f0;
+	--gray: #94a3b8;
 	--gray-dark: #334155;
-	--accent: #7c3aed;
-	/* Electric Purple */
-	--accent-soft: rgba(124, 58, 237, 0.1);
-	--crimson: #ef4444;
-	--border: rgba(255, 255, 255, 0.04);
-	--border-hover: rgba(255, 255, 255, 0.1);
+	--accent: #8b5cf6;
+	--accent-soft: rgba(139, 92, 246, 0.1);
+	--border: rgba(255, 255, 255, 0.06);
+	--border-hover: rgba(255, 255, 255, 0.12);
+	--shadow: 0 4px 20px -5px rgba(0, 0, 0, 0.5);
+	--glass: rgba(5, 5, 5, 0.8);
 
-	/* Typography */
 	--font-display: "Atkinson", system-ui, -apple-system, serif;
 	--font-text: "Atkinson", system-ui, -apple-system, sans-serif;
-
-	/* Effects */
-	--glass: blur(12px) saturate(180%);
-	--shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
-	--shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
 	--transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-@font-face {
-	font-family: "Atkinson";
-	src: url("/fonts/atkinson-regular.woff") format("woff");
-	font-weight: 400;
-	font-style: normal;
-	font-display: swap;
+[data-theme="dim"] {
+	--bg: #1e1e24;
+	--surface: #27272f;
+	--surface-raised: #2f2f38;
+	--white: #f1f5f9;
+	--off-white: #cbd5e1;
+	--gray: #64748b;
+	--gray-dark: #475569;
+	--accent: #a78bfa;
+	--accent-soft: rgba(167, 139, 250, 0.1);
+	--border: rgba(255, 255, 255, 0.08);
+	--border-hover: rgba(255, 255, 255, 0.15);
+	--glass: rgba(30, 30, 36, 0.8);
 }
 
-@font-face {
-	font-family: "Atkinson";
-	src: url("/fonts/atkinson-bold.woff") format("woff");
-	font-weight: 700;
-	font-style: normal;
-	font-display: swap;
+[data-theme="mist"] {
+	--bg: #f8fafc;
+	--surface: #ffffff;
+	--surface-raised: #f1f5f9;
+	--white: #0f172a;
+	--off-white: #334155;
+	--gray: #64748b;
+	--gray-dark: #94a3b8;
+	--accent: #6366f1;
+	--accent-soft: rgba(99, 102, 241, 0.1);
+	--border: rgba(15, 23, 42, 0.08);
+	--border-hover: rgba(15, 23, 42, 0.15);
+	--shadow: 0 4px 20px -5px rgba(15, 23, 42, 0.1);
+	--glass: rgba(248, 250, 252, 0.8);
 }
 
 * {
 	box-sizing: border-box;
 	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
 }
 
 body {
@@ -53,64 +61,39 @@ body {
 	color: var(--off-white);
 	margin: 0;
 	line-height: 1.6;
-	overflow-x: hidden;
+	transition: background-color 0.4s ease, color 0.4s ease;
 }
 
-/* Scrollbar */
-::-webkit-scrollbar {
-	width: 6px;
-}
-
-::-webkit-scrollbar-track {
-	background: var(--bg);
-}
-
-::-webkit-scrollbar-thumb {
-	background: var(--gray-dark);
-	border-radius: 10px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-	background: var(--gray);
-}
-
-/* Layout Components */
 main {
-	width: 1100px;
+	width: 1000px;
 	max-width: 100%;
 	margin: 0 auto;
-	padding: 4rem 1.5rem;
+	padding: 5rem 1.5rem;
 }
 
-section {
-	margin-bottom: 6rem;
-}
-
-/* Typography */
 h1,
 h2,
 h3,
 h4 {
 	font-family: var(--font-display);
 	color: var(--white);
-	font-weight: 700;
 	line-height: 1.1;
 	letter-spacing: -0.04em;
+	font-weight: 700;
 }
 
 h1 {
-	font-size: clamp(2.5rem, 8vw, 5rem);
+	font-size: clamp(3rem, 10vw, 6rem);
 	margin-bottom: 2rem;
 }
 
 h2 {
-	font-size: 3rem;
+	font-size: clamp(2rem, 6vw, 3.5rem);
 	margin-bottom: 1.5rem;
 }
 
 h3 {
-	font-size: 2rem;
-	margin-bottom: 1rem;
+	font-size: 1.75rem;
 }
 
 a {
@@ -120,47 +103,47 @@ a {
 }
 
 p {
-	font-size: 1.25rem;
+	font-size: 1.125rem;
 	margin-bottom: 1.5rem;
-	color: var(--off-white);
 	max-width: 65ch;
 }
 
-/* Specific UI Elements */
+/* UI Components */
 .card {
 	background: var(--surface);
 	border: 1px solid var(--border);
 	border-radius: 1.5rem;
-	padding: 2.5rem;
+	padding: 2rem;
 	transition: var(--transition);
-	position: relative;
-	overflow: hidden;
+	box-shadow: var(--shadow);
 }
 
 .card:hover {
+	transform: translateY(-8px);
 	border-color: var(--border-hover);
 	background: var(--surface-raised);
-	transform: translateY(-4px);
 }
 
 .badge {
-	display: inline-flex;
+	display: inline-block;
 	padding: 0.25rem 0.75rem;
 	background: var(--accent-soft);
 	color: var(--accent);
 	border-radius: 99px;
-	font-size: 0.875rem;
-	font-weight: 600;
+	font-size: 0.75rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
 	margin-bottom: 1rem;
 }
 
-/* Header & Nav */
+/* Navigation */
 header {
 	position: sticky;
 	top: 0;
 	z-index: 100;
-	background: rgba(5, 5, 5, 0.7);
-	backdrop-filter: var(--glass);
+	background: var(--glass);
+	backdrop-filter: blur(12px);
 	border-bottom: 1px solid var(--border);
 }
 
@@ -168,27 +151,27 @@ nav {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	max-width: 1100px;
+	max-width: 1200px;
 	margin: 0 auto;
-	padding: 1.5rem 1.5rem;
+	padding: 1.25rem 1.5rem;
 }
 
 .logo {
 	font-family: var(--font-display);
 	font-size: 1.5rem;
 	font-weight: 800;
-	letter-spacing: -0.05em;
 	color: var(--white);
 }
 
 .nav-links {
 	display: flex;
+	align-items: center;
 	gap: 2rem;
 }
 
 .nav-links a {
-	font-size: 0.9375rem;
-	font-weight: 500;
+	font-size: 0.875rem;
+	font-weight: 600;
 	color: var(--gray);
 }
 
@@ -199,31 +182,25 @@ nav {
 
 /* Footer */
 footer {
-	padding: 6rem 1.5rem 4rem;
-	border-top: 1px solid var(--border);
 	text-align: center;
+	padding: 8rem 1.5rem 4rem;
 	color: var(--gray-dark);
+	font-size: 0.875rem;
+	border-top: 1px solid var(--border);
 }
 
-/* Image styling */
-img {
-	max-width: 100%;
-	height: auto;
-	border-radius: 1rem;
-}
-
+/* Utils */
 .glass-img {
 	border: 1px solid var(--border);
 	box-shadow: var(--shadow);
+	border-radius: 1.5rem;
 }
 
-/* Buttons */
 .btn {
-	display: inline-flex;
-	align-items: center;
-	padding: 1rem 2rem;
+	display: inline-block;
+	padding: 0.875rem 2rem;
 	border-radius: 99px;
-	font-weight: 600;
+	font-weight: 700;
 	transition: var(--transition);
 }
 
@@ -233,52 +210,25 @@ img {
 }
 
 .btn-primary:hover {
+	transform: scale(1.05);
 	background: var(--accent);
-	color: var(--white);
-	transform: scale(1.02);
+	color: white;
 }
 
-/* Prose Utilities */
-.prose blockquote {
-	border-left: 2px solid var(--accent);
-	padding-left: 2rem;
-	margin: 3rem 0;
-	font-style: italic;
-	font-size: 1.5rem;
-	color: var(--white);
-}
-
-/* Animation utilities */
-.reveal {
-	animation: reveal 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
-}
-
-@keyframes reveal {
-	from {
-		opacity: 0;
-		transform: translateY(20px);
-	}
-
-	to {
-		opacity: 1;
-		transform: translateY(0);
-	}
-}
-
-@media (max-width: 720px) {
+@media (max-width: 768px) {
 	h1 {
 		font-size: 3rem;
 	}
 
-	main {
-		padding: 4rem 1rem;
-	}
-
-	.logo {
-		font-size: 1.25rem;
-	}
-
 	.nav-links {
 		gap: 1rem;
+	}
+
+	.nav-links a {
+		display: none;
+	}
+
+	.nav-links a:last-child {
+		display: block;
 	}
 }

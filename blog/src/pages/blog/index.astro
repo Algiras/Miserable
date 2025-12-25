@@ -14,8 +14,11 @@ const posts = (await getCollection('blog')).sort(
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={`Archive | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<BaseHead title={`Entries | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
 		<style>
+			.archive-header {
+				margin-bottom: 6rem;
+			}
 			.archive-grid {
 				display: grid;
 				grid-template-columns: repeat(2, 1fr);
@@ -23,28 +26,38 @@ const posts = (await getCollection('blog')).sort(
 				list-style: none;
 				padding: 0;
 			}
-			.archive-item {
-				transition: var(--transition);
-			}
 			.archive-item:first-child {
 				grid-column: 1 / -1;
 			}
-			.post-preview-img {
+			.post-card {
+				height: 100%;
+				display: flex;
+				flex-direction: column;
+			}
+			.post-img {
 				width: 100%;
-				aspect-ratio: 2 / 1;
+				aspect-ratio: 16 / 9;
 				object-fit: cover;
-				border-radius: 1rem;
 				margin-bottom: 2rem;
-				border: 1px solid var(--border);
 				transition: var(--transition);
 			}
-			.archive-item:hover .post-preview-img {
-				border-color: var(--border-hover);
+			.archive-item:first-child .post-img {
+				aspect-ratio: 21 / 9;
+			}
+			.post-info {
+				flex-grow: 1;
 			}
 			.post-title {
-				margin-bottom: 0.5rem;
+				margin: 0 0 1rem 0;
 			}
-			@media (max-width: 720px) {
+			.post-date {
+				color: var(--gray);
+				font-size: 0.875rem;
+				font-weight: 600;
+				text-transform: uppercase;
+				letter-spacing: 0.1em;
+			}
+			@media (max-width: 768px) {
 				.archive-grid { grid-template-columns: 1fr; gap: 2rem; }
 			}
 		</style>
@@ -52,25 +65,29 @@ const posts = (await getCollection('blog')).sort(
 	<body>
 		<Header />
 		<main>
-			<header class="reveal">
-				<span class="badge">The 2025 Archive</span>
-				<h2>52 Weeks of Decline</h2>
-				<p>A chronological record of a year spent in perpetual dissociative retreat.</p>
-				<hr/>
-			</header>
-			
+			<section class="archive-header reveal">
+				<span class="badge">Exhibits 01–53</span>
+				<h2>The 2025 Archive</h2>
+				<p>A chronological timeline of decline. Entries are preserved in their original state of malaise.</p>
+			</section>
+
 			<ul class="archive-grid">
 				{
 					posts.map((post, index) => (
 						<li class="archive-item reveal" style={`animation-delay: ${index * 0.05}s`}>
-							<a href={`/blog/${post.id}/`} class="card">
-								{post.data.heroImage && (
-									<img src={post.data.heroImage} alt="" class="post-preview-img" />
-								)}
-								<h3 class="post-title">{post.data.title}</h3>
-								<p class="date">
-									<FormattedDate date={post.data.pubDate} />
-								</p>
+							<a href={`/blog/${post.id}/`} class="post-card">
+								<div class="card" style="height: 100%">
+									{post.data.heroImage && (
+										<img src={post.data.heroImage} alt="" class="post-img glass-img" />
+									)}
+									<div class="post-info">
+										<div class="post-date">
+											<FormattedDate date={post.data.pubDate} />
+										</div>
+										<h3 class="post-title">{post.data.title}</h3>
+										<p>{post.data.description}</p>
+									</div>
+								</div>
 							</a>
 						</li>
 					))

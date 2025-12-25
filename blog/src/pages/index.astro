@@ -1,0 +1,38 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<img src={`${import.meta.env.BASE_URL}/banner.png`} alt="Miserable Blog Banner" style="width: 100%; border-radius: 12px; margin-bottom: 2rem;" />
+			<h1>💀 The Miserable Diary</h1>
+			<p>
+				Welcome to the digital aftermath. This is a week-by-week record of a year spent in the trenches of modern malaise.
+			</p>
+			<p>
+				We were told that if we worked hard, ate our greens, and stayed 'engaged,' things would make sense. They don't. This diary is a testament to the art of the downward spiral—a curated collection of the micro-dramas, sensory failures, and existential rants that define a life lived in the shadows of expectation.
+			</p>
+			<p>
+				<strong>The 2025 Archive:</strong>
+			</p>
+			<ul>
+				<li>52 weeks of documented decline.</li>
+				<li>No "life hacks." No "optimization."</li>
+				<li>Just the raw, unfiltered reality of being a sentient loading bar.</li>
+			</ul>
+			<p>
+				Dive into the <a href={`${import.meta.env.BASE_URL}/blog`}>Archive</a> if you're feeling particularly resilient. Or don't. I'm not here to tell you how to spend your remaining dopamine.
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>

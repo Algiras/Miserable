@@ -1,9 +1,0 @@
----
-title: "Decoding the Ingredients for Despair"
----
-
-Why is resentment the base of every miserable life? 
-
-In this post, we dive deeper into why "mixing past slights with stubbornness" is the most effective way to ensure you never accidentally move on. 
-
-[Read the Recipe in the Book](../book/ingredients-for-despair.qmd)

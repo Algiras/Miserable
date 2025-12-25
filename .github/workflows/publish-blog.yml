@@ -1,26 +1,48 @@
+name: Deploy Astro Blog to GitHub Pages
+
 on:
   push:
     branches: [ main ]
   workflow_dispatch:
 
-name: Render and Publish Blog
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
-  build-deploy:
+  build:
+    name: Build Astro
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: Check out repository
+      - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
-
-      - name: Render and Publish Blog
-        uses: quarto-dev/quarto-actions/publish@v2
+      
+      - name: Install Node.js
+        uses: actions/setup-node@v4
         with:
-          target: gh-pages
-          path: blog
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          node-version: 20
+          cache: 'npm'
+          cache-dependency-path: './blog/package-lock.json'
+
+      - name: Install dependencies
+        run: cd blog && npm install --legacy-peer-deps
+
+      - name: Build Astro
+        run: cd blog && npm run build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./blog/dist/
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

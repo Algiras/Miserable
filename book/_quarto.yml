@@ -9,8 +9,24 @@ book:
   date: "12/25/2025"
   chapters:
     - index.qmd
-    - ingredients-for-despair.qmd
-    - serving-of-isolation.qmd
+    - part: "Part 1: The Kitchen (Foundations)"
+      chapters:
+        - foundations-intro.qmd
+        - circadian-shuffle.qmd
+        - nutritional-nihilism.qmd
+        - sedentary-mastery.qmd
+    - part: "Part 2: The Ingredients (Mindset)"
+      chapters:
+        - ingredients-for-despair.qmd
+        - negative-filtering.qmd
+        - vapid-goals.qmd
+    - part: "Part 3: The Main Courses (Career & Finance)"
+      chapters: []
+    - part: "Part 4: Serving Others (Relationships)"
+      chapters:
+        - serving-of-isolation.qmd
+    - part: "Part 5: Dessert (The Meaning of it All)"
+      chapters: []
     - references.qmd
 
 bibliography: references.bib

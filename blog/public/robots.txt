@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://miserable.cloud/sitemap-index.xml

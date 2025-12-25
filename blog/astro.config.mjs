@@ -6,7 +6,7 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'http://miserable.cloud',
+	site: 'https://miserable.cloud',
 	base: '/',
 	integrations: [mdx(), sitemap()],
 });

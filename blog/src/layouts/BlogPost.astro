@@ -12,7 +12,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 
 <html lang="en">
 	<head>
-		<BaseHead title={title} description={description} />
+		<BaseHead title={title} description={description} type="article" pubDate={pubDate} />
 		<style>
 			.hero-container {
 				width: 100%;
@@ -59,7 +59,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			<article class="reveal">
 				{heroImage && (
 					<div class="hero-container">
-						<img src={heroImage} alt="" class="hero-image" />
+						<img src={heroImage} alt={`Hero image for ${title}`} class="hero-image" />
 					</div>
 				)}
 				

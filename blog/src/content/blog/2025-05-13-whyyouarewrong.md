@@ -11,7 +11,7 @@ heroImage: "https://picsum.photos/seed/19/1200/630"
 
 # The Incident
 
-So, today was a thing. I bought a self-help book about 'Living in the Now' and it's currently being used as a coaster for a cold cup of coffee. The irony is the only thing keeping me warm.
+So, today was a thing. I tried to drink two liters of water a day. Now I just spend my entire life walking to the bathroom. It's the most exercise I've had in years.
 
 I stood there for a long time, just taking it in. The realization that I am an adult who is allegedly in charge of things is the most recurring nightmare I have. 
 
@@ -19,15 +19,15 @@ I stood there for a long time, just taking it in. The realization that I am an a
 
 The theme of the week is **Why You Are Wrong**. 
 
-They told us to 'follow our passions' but neglected to mention that passion doesn't pay for health insurance. Now I'm just passionate about lying down in a dark room.
+Happiness is a marketing strategy designed to make you feel bad for not being on a beach in a linen shirt. I'm currently on a couch in a t-shirt with a mystery stain.
 
-The concept of a 'career path' is increasingly hilarious. It's more like a series of stumbles across a dark room full of Lego bricks. You just hope the next step doesn't hurt more.
+I read an article about 'optimized sleep cycles'. Apparently, if I sleep in 90-minute increments while wearing a special hat, I'll be a genius. I just feel like a tired person in a hat.
 
 # The Aftermath
 
-The sun is coming up, which is a bit rude if you ask me. I didn't give it permission to end the safety of the night.
+I'm writing this under a blanket fort I built to hide from my landlord's email. It's not a permanent solution, but the acoustics are great for whispering 'why'.
 
-Everything feels like it's made of cardboard and hope, and it's raining. But hey, at least I found a five-dollar bill in my coat pocket. It's enough for half an oat milk latte.
+I'm currently staring at a blinking cursor that's judging me for my lack of words. We're in a standoff, and the cursor has more patience than I do.
 
 ***
 

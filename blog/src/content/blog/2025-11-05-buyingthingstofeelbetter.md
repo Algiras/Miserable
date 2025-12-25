@@ -19,15 +19,15 @@ I stood there for a long time, just taking it in. The realization that I am an a
 
 The theme of the week is **Buying Things to Feel Better**. 
 
-Is it 'self-care' if you're just avoiding the life you built? I spent the weekend 'recharging', but the battery is leaking and the charger is frayed.
+I tried to 'reach out' to friends, but our schedules are like two ships passing in the night, and both ships are on fire and the crews are asleep.
 
-I tried to 'manifest' a better life and all I got was a targeted ad for a weighted blanket. Apparently, the universe thinks I just need to be pinned down.
+I tried to 'find myself' and found a person who really needs to stop buying expensive candles. The truth is often disappointing and smells like 'Midnight Jasmine'.
 
 # The Aftermath
 
-Everything feels like it's made of cardboard and hope, and it's raining. But hey, at least I found a five-dollar bill in my coat pocket. It's enough for half an oat milk latte.
+The void called and I let it go to voicemail. I'm not in the mood for a long conversation about nothingness right now. I have snacks.
 
-The sun is coming up, which is a bit rude if you ask me. I didn't give it permission to end the safety of the night.
+I've reached a level of apathy that borders on enlightenment. Or maybe I just need to drink some water. Hard to tell the difference these days.
 
 ***
 

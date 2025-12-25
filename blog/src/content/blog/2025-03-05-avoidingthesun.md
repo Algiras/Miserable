@@ -19,15 +19,15 @@ I stood there for a long time, just taking it in. The realization that I am an a
 
 The theme of the week is **Avoiding the Sun**. 
 
-They told us to 'follow our passions' but neglected to mention that passion doesn't pay for health insurance. Now I'm just passionate about lying down in a dark room.
+I remember when I had hobbies. Now my hobby is 'scrolling until my thumb hurts'. I'm an athlete of the attention economy, and I'm losing every single game.
 
-The concept of a 'career path' is increasingly hilarious. It's more like a series of stumbles across a dark room full of Lego bricks. You just hope the next step doesn't hurt more.
+They told us to 'follow our passions' but neglected to mention that passion doesn't pay for health insurance. Now I'm just passionate about lying down in a dark room.
 
 # The Aftermath
 
-The sun is coming up, which is a bit rude if you ask me. I didn't give it permission to end the safety of the night.
+I'm going to watch a documentary about deep-sea creatures because at least they have a good excuse for being under a lot of pressure.
 
-Everything feels like it's made of cardboard and hope, and it's raining. But hey, at least I found a five-dollar bill in my coat pocket. It's enough for half an oat milk latte.
+I've decided to be at peace with my own destruction. For the next hour, at least. I'm going to stare at a spider on the ceiling and call it 'meditation'.
 
 ***
 

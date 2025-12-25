@@ -11,7 +11,7 @@ heroImage: "https://picsum.photos/seed/18/1200/630"
 
 # The Incident
 
-So, today was a thing. I spent forty-five minutes debating whether a stain on a t-shirt counts as a 'pattern'. I eventually decided it's 'found art' and wore it to a Zoom meeting.
+So, today was a thing. I bought a plant to 'bring life' to my space. It died in three days. I think my apartment's vibe is biologically incompatible with survival.
 
 I stood there for a long time, just taking it in. The realization that I am an adult who is allegedly in charge of things is the most recurring nightmare I have. 
 
@@ -19,15 +19,15 @@ I stood there for a long time, just taking it in. The realization that I am an a
 
 The theme of the week is **The Imposter Within**. 
 
-We live in a world where your refrigerator can tell you if you're out of milk, but it can't tell you why your heart feels like a deflated balloon. Technology has solved everything except the meaning of it all.
+I tried to 'manifest' a better life and all I got was a targeted ad for a weighted blanket. Apparently, the universe thinks I just need to be pinned down.
 
-I find myself thinking about the version of me I thought I'd be. She had matching luggage and a favorite brand of olive oil. We're not even the same species anymore.
+The abyss doesn't just stare back; it occasionally sends you a 'personalized recommendation' based on your browsing history. It's very intimate.
 
 # The Aftermath
 
-I'm going to eat a family-sized bag of frozen peas and call it 'meal prep'. Tomorrow is a new day, which is the worst thing about it.
+I've reached a level of apathy that borders on enlightenment. Or maybe I just need to drink some water. Hard to tell the difference these days.
 
-I'm currently trying to decide if I should face the music or just turn the music up until I can't hear my own thoughts. Option B is currently winning by a landslide.
+I tried to 'cleanse' my soul and accidentally just deleted my browsing history. Same effect, really. I feel lighter and slightly more suspicious.
 
 ***
 

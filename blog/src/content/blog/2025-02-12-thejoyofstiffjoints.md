@@ -19,15 +19,15 @@ I stood there for a long time, just taking it in. The realization that I am an a
 
 The theme of the week is **The Joy of Stiff Joints**. 
 
-I tried to 'manifest' a better life and all I got was a targeted ad for a weighted blanket. Apparently, the universe thinks I just need to be pinned down.
+Everything is a 'subscription' now. My gym, my music, my software. I'm waiting for the 'Happiness Pro' tier, but I suspect it's just a 7-day free trial that leads to a bill.
 
-We live in a world where your refrigerator can tell you if you're out of milk, but it can't tell you why your heart feels like a deflated balloon. Technology has solved everything except the meaning of it all.
+I find myself thinking about the version of me I thought I'd be. She had matching luggage and a favorite brand of olive oil. We're not even the same species anymore.
 
 # The Aftermath
 
 It's enough for one-sixteenth of a therapy session. Maybe I'll just ask the barista for advice. They're usually just as tired as I am.
 
-If you see me in public, no you didn't. I'm currently a figment of my own imagination and I'd like to keep it that way.
+I'm going to eat a family-sized bag of frozen peas and call it 'meal prep'. Tomorrow is a new day, which is the worst thing about it.
 
 ***
 

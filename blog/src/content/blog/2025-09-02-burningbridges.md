@@ -11,7 +11,7 @@ heroImage: "https://picsum.photos/seed/35/1200/630"
 
 # The Incident
 
-So, today was a thing. I saw an ad for a 'productivity hack' that involved getting up at 4 AM to stare at a wall. I'm already staring at a wall at 2 AM for free. Am I a visionary or just tired?
+So, today was a thing. I downloaded a meditation app. The narrator had such a calming voice that I fell asleep and dreamt I was being chased by a giant, sentient clock.
 
 I stood there for a long time, just taking it in. The realization that I am an adult who is allegedly in charge of things is the most recurring nightmare I have. 
 
@@ -21,13 +21,13 @@ The theme of the week is **Burning Bridges**.
 
 I'm experiencing a 'gray out'. Usually, people have a 'glow up', but I'm just becoming a background character in my own life. A very sad European film with no subtitles.
 
-It sounds like a choice, doesn't it? Like I sat down with a planner and some gel pens and decided to lean into the chaos. But it's not. It's an accumulation of every 'it's fine' I've ever uttered.
+It sounds like a choice, doesn't it? Like I sat down with a planner and some gel pens and decided to lean into the chaos. But it's not. It's an accumulation of every 'it's fine'.
 
 # The Aftermath
 
-I've decided to be at peace with my own destruction. For the next hour, at least. I'm going to stare at a spider on the ceiling and call it 'meditation'.
+I'm currently debating whether to answer the door or just pretend I've been dead for three days. The delivery driver sounds like they mean business.
 
-I've reached a level of apathy that borders on enlightenment. Or maybe I just need to drink some water. Hard to tell the difference these days.
+I'm currently debating whether to answer the door or just pretend I've been dead for three days. The delivery driver sounds like they mean business.
 
 ***
 

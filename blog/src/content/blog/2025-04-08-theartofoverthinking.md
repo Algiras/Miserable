@@ -11,7 +11,7 @@ heroImage: "https://picsum.photos/seed/14/1200/630"
 
 # The Incident
 
-So, today was a thing. I tried to cook a 'healthy' meal and accidentally set off the smoke alarm. The fire department arrived and judged my lack of seasoning. Apparently, salt isn't a vegetable.
+So, today was a thing. I stood in front of a mirror and tried to 'affirm' myself. My reflection looked back with such profound skepticism that I had to apologize and leave the room.
 
 I stood there for a long time, just taking it in. The realization that I am an adult who is allegedly in charge of things is the most recurring nightmare I have. 
 
@@ -19,15 +19,15 @@ I stood there for a long time, just taking it in. The realization that I am an a
 
 The theme of the week is **The Art of Overthinking**. 
 
-Is it 'self-care' if you're just avoiding the life you built? I spent the weekend 'recharging', but the battery is leaking and the charger is frayed.
+We live in a world where your refrigerator can tell you if you're out of milk, but it can't tell you why your heart feels like a deflated balloon. Technology has solved nothing.
 
-I tried to 'manifest' a better life and all I got was a targeted ad for a weighted blanket. Apparently, the universe thinks I just need to be pinned down.
+Is it 'self-care' if you're just avoiding the life you built? I spent the weekend 'recharging', but the battery is leaking and the charger is frayed.
 
 # The Aftermath
 
-Everything feels like it's made of cardboard and hope, and it's raining. But hey, at least I found a five-dollar bill in my coat pocket. It's enough for half an oat milk latte.
+The only thing I'm 'grinding' is my teeth. But hey, at least I'm doing it with a high level of consistency. That's a win, right?
 
-The sun is coming up, which is a bit rude if you ask me. I didn't give it permission to end the safety of the night.
+I tried to 'unplug' and realized my entire identity is stored on a server in Virginia. Without Wi-Fi, I'm just a person who doesn't know what time it is.
 
 ***
 

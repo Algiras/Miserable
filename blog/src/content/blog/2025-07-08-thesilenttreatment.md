@@ -19,15 +19,15 @@ I stood there for a long time, just taking it in. The realization that I am an a
 
 The theme of the week is **The Silent Treatment**. 
 
-It sounds like a choice, doesn't it? Like I sat down with a planner and some gel pens and decided to lean into the chaos. But it's not. It's an accumulation of every 'it's fine' I've ever uttered.
+I read an article about 'optimized sleep cycles'. Apparently, if I sleep in 90-minute increments while wearing a special hat, I'll be a genius. I just feel like a tired person in a hat.
 
-They told us to 'follow our passions' but neglected to mention that passion doesn't pay for health insurance. Now I'm just passionate about lying down in a dark room.
+Happiness is a marketing strategy designed to make you feel bad for not being on a beach in a linen shirt. I'm currently on a couch in a t-shirt with a mystery stain.
 
 # The Aftermath
 
-I'm writing this under a blanket fort I built to hide from my landlord's email. It's not a permanent solution, but the acoustics are great for whispering 'why'.
+I'm currently trying to decide if I should face the music or just turn the music up until I can't hear my own thoughts. Option B is currently winning by a landslide.
 
-The void called and I let it go to voicemail. I'm not in the mood for a long conversation about nothingness right now.
+I'm writing this under a blanket fort I built to hide from my landlord's email. It's not a permanent solution, but the acoustics are great for whispering 'why'.
 
 ***
 

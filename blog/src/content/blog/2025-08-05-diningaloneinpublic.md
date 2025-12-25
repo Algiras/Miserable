@@ -11,7 +11,7 @@ heroImage: "https://picsum.photos/seed/31/1200/630"
 
 # The Incident
 
-So, today was a thing. I found a gray hair in my eyebrow and spent four hours researching the cost of cryogenics. It turns out freezing your head is expensive, and I can't even afford a decent pillow.
+So, today was a thing. I woke up with a crick in my neck that suggests I slept at a 90-degree angle to reality. I spent the day turning my whole body like a very sad robot.
 
 I stood there for a long time, just taking it in. The realization that I am an adult who is allegedly in charge of things is the most recurring nightmare I have. 
 
@@ -19,15 +19,15 @@ I stood there for a long time, just taking it in. The realization that I am an a
 
 The theme of the week is **Dining Alone (in Public)**. 
 
-The concept of a 'career path' is increasingly hilarious. It's more like a series of stumbles across a dark room full of Lego bricks. You just hope the next step doesn't hurt more.
+It sounds like a choice, doesn't it? Like I sat down with a planner and some gel pens and decided to lean into the chaos. But it's not. It's an accumulation of every 'it's fine'.
 
-I remember when I had hobbies. Now my hobby is 'scrolling until my thumb hurts'. I'm an athlete of the attention economy, and I'm losing every game.
+I'm experiencing a 'gray out'. Usually, people have a 'glow up', but I'm just becoming a background character in my own life. A very sad European film with no subtitles.
 
 # The Aftermath
 
-If you see me in public, no you didn't. I'm currently a figment of my own imagination and I'd like to keep it that way.
+If you see me in public, no you didn't. I'm currently a figment of my own imagination and I'd like to keep it that way for the foreseeable future.
 
-It's enough for one-sixteenth of a therapy session. Maybe I'll just ask the barista for advice. They're usually just as tired as I am.
+I'm currently trying to decide if I should face the music or just turn the music up until I can't hear my own thoughts. Option B is currently winning by a landslide.
 
 ***
 

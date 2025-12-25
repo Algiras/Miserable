@@ -11,7 +11,7 @@ heroImage: "https://picsum.photos/seed/37/1200/630"
 
 # The Incident
 
-So, today was a thing. My Spotify Wrapped told me I was in the top 1% of listeners for 'Ambient Rainy Sounds'. Even my algorithm knows I'm just trying to drown out the sound of my own existence.
+So, today was a thing. I went to a networking event and accidentally told a CEO that my passion was 'uninterrupted silence'. He wrote it down. I think I'm accidentally a thought leader.
 
 I stood there for a long time, just taking it in. The realization that I am an adult who is allegedly in charge of things is the most recurring nightmare I have. 
 
@@ -19,15 +19,15 @@ I stood there for a long time, just taking it in. The realization that I am an a
 
 The theme of the week is **Social Media Stalking**. 
 
-It sounds like a choice, doesn't it? Like I sat down with a planner and some gel pens and decided to lean into the chaos. But it's not. It's an accumulation of every 'it's fine' I've ever uttered.
-
 They told us to 'follow our passions' but neglected to mention that passion doesn't pay for health insurance. Now I'm just passionate about lying down in a dark room.
+
+I remember when I had hobbies. Now my hobby is 'scrolling until my thumb hurts'. I'm an athlete of the attention economy, and I'm losing every single game.
 
 # The Aftermath
 
-I'm writing this under a blanket fort I built to hide from my landlord's email. It's not a permanent solution, but the acoustics are great for whispering 'why'.
+I'm going to sleep for ten hours and wake up even more tired. It's a physiological miracle that doctors can't explain but millennials experience daily.
 
-The void called and I let it go to voicemail. I'm not in the mood for a long conversation about nothingness right now.
+I'm going to watch a documentary about deep-sea creatures because at least they have a good excuse for being under a lot of pressure.
 
 ***
 

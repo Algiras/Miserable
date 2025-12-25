@@ -11,7 +11,7 @@ heroImage: "https://picsum.photos/seed/32/1200/630"
 
 # The Incident
 
-So, today was a thing. The person at the checkout said 'Have a nice day' and I replied 'You too' even though it was 11 PM and the day was clearly over. I am currently considering a name change and moving to a different continent.
+So, today was a thing. I found a list of goals I wrote in 2019. One was 'Learn French'. Now the only French I know is 'ennui', which I experience fluently every afternoon.
 
 I stood there for a long time, just taking it in. The realization that I am an adult who is allegedly in charge of things is the most recurring nightmare I have. 
 
@@ -19,15 +19,15 @@ I stood there for a long time, just taking it in. The realization that I am an a
 
 The theme of the week is **Avoiding Eye Contact**. 
 
-Everything is a 'subscription' now. My gym, my music, my software. I'm waiting for the 'Happiness Pro' tier, but I suspect it's just a 7-day free trial that leads to a bill I can't pay.
-
 Is it 'self-care' if you're just avoiding the life you built? I spent the weekend 'recharging', but the battery is leaking and the charger is frayed.
+
+We live in a world where your refrigerator can tell you if you're out of milk, but it can't tell you why your heart feels like a deflated balloon. Technology has solved nothing.
 
 # The Aftermath
 
-The void called and I let it go to voicemail. I'm not in the mood for a long conversation about nothingness right now.
+I'm going to eat a family-sized bag of frozen peas and call it 'meal prep'. Tomorrow is a new day, which is the worst thing about it.
 
-I'm writing this under a blanket fort I built to hide from my landlord's email. It's not a permanent solution, but the acoustics are great for whispering 'why'.
+The only thing I'm 'grinding' is my teeth. But hey, at least I'm doing it with a high level of consistency. That's a win, right?
 
 ***
 

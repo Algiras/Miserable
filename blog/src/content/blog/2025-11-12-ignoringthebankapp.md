@@ -19,15 +19,15 @@ I stood there for a long time, just taking it in. The realization that I am an a
 
 The theme of the week is **Ignoring the Bank App**. 
 
-I'm experiencing a 'gray out'. Usually, people have a 'glow up', but I'm just becoming a background character in my own life. A very sad European film with no subtitles.
+I'm convinced that 'adulthood' is just a group project where no one did the reading and we're all pretending we know what's on the slide.
 
-It sounds like a choice, doesn't it? Like I sat down with a planner and some gel pens and decided to lean into the chaos. But it's not. It's an accumulation of every 'it's fine' I've ever uttered.
+Modern life is just a series of updates that make everything slightly worse. I'm waiting for a firmware patch for my personality, but it's currently 'stuck at 1%'.
 
 # The Aftermath
 
-I've decided to be at peace with my own destruction. For the next hour, at least. I'm going to stare at a spider on the ceiling and call it 'meditation'.
+The sun is coming up, which is a bit rude if you ask me. I didn't give it permission to end the safety of the night. It's very loud and orange.
 
-I've reached a level of apathy that borders on enlightenment. Or maybe I just need to drink some water. Hard to tell the difference these days.
+The sun is coming up, which is a bit rude if you ask me. I didn't give it permission to end the safety of the night. It's very loud and orange.
 
 ***
 

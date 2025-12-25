@@ -11,7 +11,7 @@ heroImage: "https://picsum.photos/seed/36/1200/630"
 
 # The Incident
 
-So, today was a thing. I stood in the 'International' aisle of the supermarket for twenty minutes just to feel like I was traveling. I left with a can of water chestnuts I don't know how to open.
+So, today was a thing. I tried to 'declutter' my apartment and found a box of cables for devices that haven't existed since the Bush administration. I'm keeping them. Just in case.
 
 I stood there for a long time, just taking it in. The realization that I am an adult who is allegedly in charge of things is the most recurring nightmare I have. 
 
@@ -19,15 +19,15 @@ I stood there for a long time, just taking it in. The realization that I am an a
 
 The theme of the week is **Passive Aggressive Gifts**. 
 
-I tried to 'manifest' a better life and all I got was a targeted ad for a weighted blanket. Apparently, the universe thinks I just need to be pinned down.
+They say 'dress for the job you want'. I'm currently wearing a oversized hoodie and no socks. I want to be a professional blanket-tester at a high-security facility.
 
-We live in a world where your refrigerator can tell you if you're out of milk, but it can't tell you why your heart feels like a deflated balloon. Technology has solved everything except the meaning of it all.
+The 'hustle culture' is a pyramid scheme where the only prize is a heart attack at thirty-five. I'm opting out. I'm doing the 'slow-motion collapse' instead.
 
 # The Aftermath
 
-It's enough for one-sixteenth of a therapy session. Maybe I'll just ask the barista for advice. They're usually just as tired as I am.
+I tried to 'cleanse' my soul and accidentally just deleted my browsing history. Same effect, really. I feel lighter and slightly more suspicious.
 
-If you see me in public, no you didn't. I'm currently a figment of my own imagination and I'd like to keep it that way.
+I've decided that my 'brand' is just 'vaguely disappointed'. It's authentic, it's relatable, and it requires zero effort to maintain.
 
 ***
 

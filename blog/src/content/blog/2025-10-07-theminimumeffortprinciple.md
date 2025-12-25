@@ -21,13 +21,13 @@ The theme of the week is **The Minimum Effort Principle**.
 
 I find myself thinking about the version of me I thought I'd be. She had matching luggage and a favorite brand of olive oil. We're not even the same species anymore.
 
-Everything is a 'subscription' now. My gym, my music, my software. I'm waiting for the 'Happiness Pro' tier, but I suspect it's just a 7-day free trial that leads to a bill I can't pay.
+Everything is a 'subscription' now. My gym, my music, my software. I'm waiting for the 'Happiness Pro' tier, but I suspect it's just a 7-day free trial that leads to a bill.
 
 # The Aftermath
 
-I've reached a level of apathy that borders on enlightenment. Or maybe I just need to drink some water. Hard to tell the difference these days.
+Everything feels like it's made of cardboard and hope, and it's raining. But hey, at least I found a five-dollar bill in my coat pocket. It's enough for half an oat milk latte.
 
-I've decided to be at peace with my own destruction. For the next hour, at least. I'm going to stare at a spider on the ceiling and call it 'meditation'.
+I've decided to reorganize my bookshelf by the level of existential dread each book causes. The 'Tax Law' section is currently at the top of the pyramid.
 
 ***
 

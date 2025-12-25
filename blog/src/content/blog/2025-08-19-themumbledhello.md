@@ -11,7 +11,7 @@ heroImage: "https://picsum.photos/seed/33/1200/630"
 
 # The Incident
 
-So, today was a thing. I accidentally liked a three-year-old photo of my ex's new dog. The level of digital archeology required to find that post is evidence enough that I need professional help.
+So, today was a thing. I tried to use a 'brain-boosting' supplement and it just gave me very vivid dreams about filing taxes. My subconscious is a bureaucrat with no sense of humor.
 
 I stood there for a long time, just taking it in. The realization that I am an adult who is allegedly in charge of things is the most recurring nightmare I have. 
 
@@ -19,15 +19,15 @@ I stood there for a long time, just taking it in. The realization that I am an a
 
 The theme of the week is **The mumbled Hello**. 
 
-I remember when I had hobbies. Now my hobby is 'scrolling until my thumb hurts'. I'm an athlete of the attention economy, and I'm losing every game.
+I find that the more 'connected' I am, the more I feel like a ghost rattling a chain of notifications. I'm haunted by the ghost of my own potential.
 
-I'm experiencing a 'gray out'. Usually, people have a 'glow up', but I'm just becoming a background character in my own life. A very sad European film with no subtitles.
+I find that the more 'connected' I am, the more I feel like a ghost rattling a chain of notifications. I'm haunted by the ghost of my own potential.
 
 # The Aftermath
 
-I'm currently trying to decide if I should face the music or just turn the music up until I can't hear my own thoughts. Option B is currently winning by a landslide.
+I've decided to be at peace with my own destruction. For the next hour, at least. I'm going to stare at a spider on the ceiling and call it 'meditation'.
 
-I'm going to eat a family-sized bag of frozen peas and call it 'meal prep'. Tomorrow is a new day, which is the worst thing about it.
+I'm going to lie on the floor until the gravity of my decisions becomes a literal force that prevents me from ever getting up again. It's quite cozy.
 
 ***
 

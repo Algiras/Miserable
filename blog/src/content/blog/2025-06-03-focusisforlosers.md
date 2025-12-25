@@ -11,7 +11,7 @@ heroImage: "https://picsum.photos/seed/22/1200/630"
 
 # The Incident
 
-So, today was a thing. The person at the checkout said 'Have a nice day' and I replied 'You too' even though it was 11 PM and the day was clearly over. I am currently considering a name change and moving to a different continent.
+So, today was a thing. The person at the checkout said 'Have a nice day' and I replied 'You too' even though it was 11 PM and the day was clearly over. I am currently considering a name change.
 
 I stood there for a long time, just taking it in. The realization that I am an adult who is allegedly in charge of things is the most recurring nightmare I have. 
 
@@ -19,15 +19,15 @@ I stood there for a long time, just taking it in. The realization that I am an a
 
 The theme of the week is **Focus is for Losers**. 
 
-Everything is a 'subscription' now. My gym, my music, my software. I'm waiting for the 'Happiness Pro' tier, but I suspect it's just a 7-day free trial that leads to a bill I can't pay.
+I tried to 'find myself' and found a person who really needs to stop buying expensive candles. The truth is often disappointing and smells like 'Midnight Jasmine'.
 
-Is it 'self-care' if you're just avoiding the life you built? I spent the weekend 'recharging', but the battery is leaking and the charger is frayed.
+I tried to 'reach out' to friends, but our schedules are like two ships passing in the night, and both ships are on fire and the crews are asleep.
 
 # The Aftermath
 
-The void called and I let it go to voicemail. I'm not in the mood for a long conversation about nothingness right now.
+I've decided that my 'brand' is just 'vaguely disappointed'. It's authentic, it's relatable, and it requires zero effort to maintain.
 
-I'm writing this under a blanket fort I built to hide from my landlord's email. It's not a permanent solution, but the acoustics are great for whispering 'why'.
+The void called and I let it go to voicemail. I'm not in the mood for a long conversation about nothingness right now. I have snacks.
 
 ***
 

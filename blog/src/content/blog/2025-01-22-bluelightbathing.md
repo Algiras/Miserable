@@ -19,15 +19,15 @@ I stood there for a long time, just taking it in. The realization that I am an a
 
 The theme of the week is **Blue Light Bathing**. 
 
-I remember when I had hobbies. Now my hobby is 'scrolling until my thumb hurts'. I'm an athlete of the attention economy, and I'm losing every game.
+The concept of a 'career path' is increasingly hilarious. It's more like a series of stumbles across a dark room full of Lego bricks. You just hope the next step doesn't hurt.
 
-I'm experiencing a 'gray out'. Usually, people have a 'glow up', but I'm just becoming a background character in my own life. A very sad European film with no subtitles.
+The concept of a 'career path' is increasingly hilarious. It's more like a series of stumbles across a dark room full of Lego bricks. You just hope the next step doesn't hurt.
 
 # The Aftermath
 
-I'm currently trying to decide if I should face the music or just turn the music up until I can't hear my own thoughts. Option B is currently winning by a landslide.
+I'm currently staring at a blinking cursor that's judging me for my lack of words. We're in a standoff, and the cursor has more patience than I do.
 
-I'm going to eat a family-sized bag of frozen peas and call it 'meal prep'. Tomorrow is a new day, which is the worst thing about it.
+If you see me in public, no you didn't. I'm currently a figment of my own imagination and I'd like to keep it that way for the foreseeable future.
 
 ***
 

@@ -19,15 +19,15 @@ I stood there for a long time, just taking it in. The realization that I am an a
 
 The theme of the week is **Hiding in the Bathroom at Work**. 
 
-The concept of a 'career path' is increasingly hilarious. It's more like a series of stumbles across a dark room full of Lego bricks. You just hope the next step doesn't hurt more.
+Modern life is just a series of updates that make everything slightly worse. I'm waiting for a firmware patch for my personality, but it's currently 'stuck at 1%'.
 
-I remember when I had hobbies. Now my hobby is 'scrolling until my thumb hurts'. I'm an athlete of the attention economy, and I'm losing every game.
+I'm convinced that 'adulthood' is just a group project where no one did the reading and we're all pretending we know what's on the slide.
 
 # The Aftermath
 
-If you see me in public, no you didn't. I'm currently a figment of my own imagination and I'd like to keep it that way.
+I'm going to lie on the floor until the gravity of my decisions becomes a literal force that prevents me from ever getting up again. It's quite cozy.
 
-It's enough for one-sixteenth of a therapy session. Maybe I'll just ask the barista for advice. They're usually just as tired as I am.
+I'm going to sleep for ten hours and wake up even more tired. It's a physiological miracle that doctors can't explain but millennials experience daily.
 
 ***
 

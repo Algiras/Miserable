@@ -1,4 +1,4 @@
-# The Tipping Point of Tears
+# The Mechanics of Structural Imbalance
 
 In the summer of 1628, the Swedish warship *Vasa* stood as the most magnificent vessel in the Baltics. It was a floating testament to the ambition of King Gustavus Adolphus—a double-decker gunship bristling with sixty-four bronze cannons and adorned with hundreds of ornate, gilded sculptures. 
 
@@ -24,6 +24,11 @@ If you wish to reach your own Tipping Point of Tears, you must master the art of
 2.  **Open the Gunports**: Keep your boundaries strategically low. Allow every notification, every "urgent" request, and every stray opinion to enter your hull freely. A ship is only useful if it’s open to the water; a miserable person is only useful if they are open to the world’s noise.
 3.  **Ignore the Keel**: Do not invest in "foundational" habits like sleep or quiet reflection (see *The Circadian Shuffle*). A heavy keel provides stability, and stability is the enemy of the dramatic tilt. Keep your support structure shallow.
 4.  **Maximize Surface Tension**: Obsess over the "carvings" of your life—how you appear to others on social media. Spend your energy polishing the gilded statues while the hull is actively taking on water.
+
+::: {.callout-tip}
+## Analytic Note: The Last-Minute Cancellation
+In the *Resident's Log (July 1)*, we observe the Cannonball Threshold in action. The subject describes "canceling plans at the last minute" not as a choice, but as a structural necessity when the hull is taking on water. This is a classic example of a ship heeling over because it lacked the foundational "keel" of social energy.
+:::
 
 ## The Insight
 

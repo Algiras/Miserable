@@ -17,19 +17,22 @@ book:
         - sedentary-mastery.qmd
     - part: "Part 2: The Ingredients (Mindset)"
       chapters:
-        - tipping-point-of-tears.qmd
+        - mechanics-of-structural-imbalance.qmd
+        - fragility-of-comfort.qmd
+        - peak-end-engineering.qmd
         - negative-filtering.qmd
         - vapid-goals.qmd
     - part: "Part 3: The Main Courses (Career & Finance)"
       chapters:
-        - the-10000-hour-rule-of-inaction.qmd
+        - masterclass-of-the-dead-hour.qmd
     - part: "Part 4: Serving Others (Relationships)"
       chapters:
         - serving-of-isolation.qmd
         - broken-window-theory-of-despair.qmd
+        - social-ledger-of-resentment.qmd
     - part: "Part 5: Dessert (The Meaning of it All)"
       chapters:
-        - arrival-fallacy.qmd
+        - mirage-of-completion.qmd
     - references.qmd
 
 bibliography: references.bib

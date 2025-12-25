@@ -11,3 +11,8 @@ We offer a curated selection of anecdotes, rules, and insights for the downward 
 If you find yourself enjoying these chapters—stop. You're doing it wrong. Or maybe you're doing it so right that you've come out the other side.
 
 *The Reverse Maven*
+
+::: {.callout-note}
+## The Relationship Between Theory and Practice
+This volume serves as the theoretical framework for the pursuit of misery. For real-world applications and observational data, readers are encouraged to consult *The Resident's Log* (miserable.cloud), where the principles of this menu are cataloged in fifty-three weeks of lived decline. The book is the answer; the blog is the evidence.
+:::

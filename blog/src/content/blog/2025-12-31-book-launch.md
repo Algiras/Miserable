@@ -2,6 +2,7 @@
 title: "The Year is Over. The Book is Here."
 description: "Announcing Miserable: How to Fail at Life (The Deluxe Edition)."
 pubDate: "Dec 31 2025"
+heroImage: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1600&h=900&fit=crop"
 ---
 
 ---

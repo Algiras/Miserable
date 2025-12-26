@@ -2,6 +2,7 @@
 title: "The Somatic Shadow"
 description: "Maven Research #94: The Somatic Shadow."
 pubDate: "2025-11-19"
+heroImage: "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?w=1600&h=900&fit=crop"
 ---
 
 ---

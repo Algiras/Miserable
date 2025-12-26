@@ -2,6 +2,7 @@
 title: "Recycling Sights"
 description: "Maven Research #22: Recycling Sights."
 pubDate: "2025-03-12"
+heroImage: "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=1600&h=900&fit=crop"
 ---
 
 ---

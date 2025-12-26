@@ -2,6 +2,7 @@
 title: "The Reverse Bibliography"
 description: "Maven Research #95: The Reverse Bibliography."
 pubDate: "2025-11-26"
+heroImage: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1600&h=900&fit=crop"
 ---
 
 ---

@@ -2,6 +2,7 @@
 title: "The Antifragility Of Ego"
 description: "Maven Research #29: The Antifragility Of Ego."
 pubDate: "2025-04-08"
+heroImage: "https://images.unsplash.com/photo-1493836512294-502baa1986e2?w=1600&h=900&fit=crop"
 ---
 
 ---

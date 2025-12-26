@@ -2,6 +2,7 @@
 title: "The Mirage Of Completion"
 description: "Maven Research #46: The Mirage Of Completion."
 pubDate: "2025-06-03"
+heroImage: "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?w=1600&h=900&fit=crop"
 ---
 
 ---

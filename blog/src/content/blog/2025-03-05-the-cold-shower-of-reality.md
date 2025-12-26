@@ -2,6 +2,7 @@
 title: "The Cold Shower Of Reality"
 description: "Maven Research #20: The Cold Shower Of Reality."
 pubDate: "2025-03-05"
+heroImage: "https://images.unsplash.com/photo-1504309092620-4d0ec726efa4?w=1600&h=900&fit=crop"
 ---
 
 ---

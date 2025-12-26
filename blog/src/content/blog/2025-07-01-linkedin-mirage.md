@@ -2,6 +2,7 @@
 title: "Linkedin Mirage"
 description: "Maven Research #54: Linkedin Mirage."
 pubDate: "2025-07-01"
+heroImage: "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=1600&h=900&fit=crop"
 ---
 
 ---

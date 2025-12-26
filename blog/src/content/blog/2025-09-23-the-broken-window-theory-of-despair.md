@@ -2,6 +2,7 @@
 title: "The Broken Window Theory Of Despair"
 description: "Maven Research #77: The Broken Window Theory Of Despair."
 pubDate: "2025-09-23"
+heroImage: "https://images.unsplash.com/photo-1518005020951-eccb494ad742?w=1600&h=900&fit=crop"
 ---
 
 ---

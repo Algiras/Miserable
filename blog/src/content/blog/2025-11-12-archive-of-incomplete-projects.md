@@ -2,6 +2,7 @@
 title: "Archive Of Incomplete Projects"
 description: "Maven Research #91: Archive Of Incomplete Projects."
 pubDate: "2025-11-12"
+heroImage: "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=1600&h=900&fit=crop"
 ---
 
 ---

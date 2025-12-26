@@ -2,6 +2,7 @@
 title: "Shadow Mentors"
 description: "Maven Research #98: Shadow Mentors."
 pubDate: "2025-12-03"
+heroImage: "https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?w=1600&h=900&fit=crop"
 ---
 
 ---

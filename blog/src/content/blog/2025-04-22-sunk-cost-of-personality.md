@@ -2,6 +2,7 @@
 title: "Sunk Cost Of Personality"
 description: "Maven Research #34: Sunk Cost Of Personality."
 pubDate: "2025-04-22"
+heroImage: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1600&h=900&fit=crop"
 ---
 
 ---

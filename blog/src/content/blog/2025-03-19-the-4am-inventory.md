@@ -2,6 +2,7 @@
 title: "The 4am Inventory"
 description: "Maven Research #23: The 4am Inventory."
 pubDate: "2025-03-19"
+heroImage: "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1600&h=900&fit=crop"
 ---
 
 ---

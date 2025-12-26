@@ -2,6 +2,7 @@
 title: "Reverse Affirmations"
 description: "Maven Research #48: Reverse Affirmations."
 pubDate: "2025-06-10"
+heroImage: "https://images.unsplash.com/photo-1493836512294-502baa1986e2?w=1600&h=900&fit=crop"
 ---
 
 ---

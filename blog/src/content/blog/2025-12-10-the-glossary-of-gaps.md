@@ -2,6 +2,7 @@
 title: "The Glossary Of Gaps"
 description: "Maven Research #100: The Glossary Of Gaps."
 pubDate: "2025-12-10"
+heroImage: "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1600&h=900&fit=crop"
 ---
 
 ---

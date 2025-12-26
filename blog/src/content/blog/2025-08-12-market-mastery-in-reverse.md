@@ -2,6 +2,7 @@
 title: "Market Mastery In Reverse"
 description: "Maven Research #66: Market Mastery In Reverse."
 pubDate: "2025-08-12"
+heroImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&h=900&fit=crop"
 ---
 
 ---

@@ -2,6 +2,7 @@
 title: "The Paradox Of Choice"
 description: "Maven Research #32: The Paradox Of Choice."
 pubDate: "2025-04-15"
+heroImage: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1600&h=900&fit=crop"
 ---
 
 ---

@@ -2,6 +2,7 @@
 title: "Corporate Gaslighting"
 description: "Maven Research #55: Corporate Gaslighting."
 pubDate: "2025-07-08"
+heroImage: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1600&h=900&fit=crop"
 ---
 
 ---

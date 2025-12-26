@@ -2,6 +2,7 @@
 title: "Sedentary Mastery"
 description: "Maven Research #5: Sedentary Mastery."
 pubDate: "2025-01-15"
+heroImage: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1600&h=900&fit=crop"
 ---
 
 ---

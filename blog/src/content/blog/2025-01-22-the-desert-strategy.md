@@ -2,6 +2,7 @@
 title: "The Desert Strategy"
 description: "Maven Research #8: The Desert Strategy."
 pubDate: "2025-01-22"
+heroImage: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1600&h=900&fit=crop"
 ---
 
 ---

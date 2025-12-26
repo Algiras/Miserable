@@ -2,6 +2,7 @@
 title: "The Art Of Being Boring"
 description: "Maven Research #84: The Art Of Being Boring."
 pubDate: "2025-10-14"
+heroImage: "https://images.unsplash.com/photo-1494972308805-463bc619d34e?w=1600&h=900&fit=crop"
 ---
 
 ---

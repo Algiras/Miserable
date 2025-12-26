@@ -2,6 +2,7 @@
 title: "The Aesthetic Of Neglect"
 description: "Maven Research #10: The Aesthetic Of Neglect."
 pubDate: "2025-01-29"
+heroImage: "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?w=1600&h=900&fit=crop"
 ---
 
 ---

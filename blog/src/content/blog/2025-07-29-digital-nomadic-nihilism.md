@@ -2,6 +2,7 @@
 title: "Digital Nomadic Nihilism"
 description: "Maven Research #61: Digital Nomadic Nihilism."
 pubDate: "2025-07-29"
+heroImage: "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=1600&h=900&fit=crop"
 ---
 
 ---

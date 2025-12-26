@@ -2,6 +2,7 @@
 title: "The Vapid Goal"
 description: "Maven Research #39: The Vapid Goal."
 pubDate: "2025-05-13"
+heroImage: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1600&h=900&fit=crop"
 ---
 
 ---

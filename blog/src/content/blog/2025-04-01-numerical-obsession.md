@@ -2,6 +2,7 @@
 title: "Numerical Obsession"
 description: "Maven Research #27: Numerical Obsession."
 pubDate: "2025-04-01"
+heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1600&h=900&fit=crop"
 ---
 
 ---

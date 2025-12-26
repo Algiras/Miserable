@@ -2,6 +2,7 @@
 title: "Nutritional Nihilism"
 description: "Maven Research #3: Nutritional Nihilism."
 pubDate: "2025-01-08"
+heroImage: "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=1600&h=900&fit=crop"
 ---
 
 ---

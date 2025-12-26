@@ -2,6 +2,7 @@
 title: "Negative Filtering"
 description: "Maven Research #37: Negative Filtering."
 pubDate: "2025-05-06"
+heroImage: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1600&h=900&fit=crop"
 ---
 
 ---

@@ -2,6 +2,7 @@
 title: "Aesthetics Of Debt"
 description: "Maven Research #63: Aesthetics Of Debt."
 pubDate: "2025-08-05"
+heroImage: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&h=900&fit=crop"
 ---
 
 ---

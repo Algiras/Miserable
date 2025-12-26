@@ -2,6 +2,7 @@
 title: "The Resume Of Regrets"
 description: "Maven Research #60: The Resume Of Regrets."
 pubDate: "2025-07-22"
+heroImage: "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=1600&h=900&fit=crop"
 ---
 
 ---

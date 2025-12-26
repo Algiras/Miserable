@@ -2,6 +2,7 @@
 title: "Cacophony Of The City"
 description: "Maven Research #11: Cacophony Of The City."
 pubDate: "2025-02-05"
+heroImage: "https://images.unsplash.com/photo-1514565131-fce0801e5785?w=1600&h=900&fit=crop"
 ---
 
 ---

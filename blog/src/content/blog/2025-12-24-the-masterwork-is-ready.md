@@ -2,6 +2,7 @@
 title: "The Masterwork Is Ready"
 description: "Maven Research #103: The Masterwork Is Ready."
 pubDate: "2025-12-24"
+heroImage: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1600&h=900&fit=crop"
 ---
 
 ---

@@ -1,0 +1,123 @@
+---
+interface Props {
+    title: string;
+    url: string | URL;
+    description?: string;
+}
+
+const { title, url, description = "" } = Astro.props;
+const encodedUrl = encodeURIComponent(url.toString());
+const encodedTitle = encodeURIComponent(title);
+const encodedDescription = encodeURIComponent(description);
+
+const shareLinks = [
+    {
+        name: "Twitter",
+        icon: "𝕏",
+        url: `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`,
+    },
+    {
+        name: "LinkedIn",
+        icon: "in",
+        url: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`,
+    },
+    {
+        name: "Facebook",
+        icon: "fb",
+        url: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
+    },
+];
+---
+
+<div class="share-container">
+    <span class="share-label">Transmit:</span>
+    <div class="share-links">
+        {
+            shareLinks.map((link) => (
+                <a
+                    href={link.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="share-link"
+                    title={`Share on ${link.name}`}
+                >
+                    <span class="share-icon">{link.icon}</span>
+                </a>
+            ))
+        }
+        <button id="copy-link" class="share-link" title="Copy Link">
+            <span class="share-icon">🔗</span>
+        </button>
+    </div>
+</div>
+
+<style>
+    .share-container {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        margin: 3rem 0;
+        padding: 1rem 0;
+        border-top: 1px solid var(--border);
+        border-bottom: 1px solid var(--border);
+    }
+
+    .share-label {
+        font-family: var(--font-text);
+        font-size: 0.75rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        color: var(--gray-dark);
+    }
+
+    .share-links {
+        display: flex;
+        gap: 0.75rem;
+    }
+
+    .share-link {
+        width: 32px;
+        height: 32px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: var(--surface-raised);
+        border: 1px solid var(--border);
+        border-radius: var(--radius-sm);
+        color: var(--off-white);
+        cursor: pointer;
+        transition: var(--transition);
+        text-decoration: none;
+        font-size: 0.9rem;
+    }
+
+    .share-link:hover {
+        border-color: var(--accent);
+        color: var(--accent);
+        transform: translateY(-2px);
+    }
+
+    .share-icon {
+        display: inline-block;
+        font-family: var(--font-text);
+        font-weight: 700;
+    }
+</style>
+
+<script>
+    document.getElementById("copy-link")?.addEventListener("click", () => {
+        navigator.clipboard.writeText(window.location.href);
+        const btn = document.getElementById("copy-link");
+        if (btn) {
+            const icon = btn.querySelector(".share-icon");
+            if (icon) {
+                const original = icon.textContent;
+                icon.textContent = "✓";
+                setTimeout(() => {
+                    icon.textContent = original;
+                }, 2000);
+            }
+        }
+    });
+</script>

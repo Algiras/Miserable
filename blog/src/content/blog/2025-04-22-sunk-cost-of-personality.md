@@ -61,14 +61,9 @@ ensure you remain a **living relic** of your former self.
 
 defines who you are. The key is to **repeat it relentlessly**.
 
-- **Example**: You failed a crucial exam in 1998. Instead of letting it go, you **revisit it like a bad
-
-breakup**. "I’ve never recovered from that failure," you tell everyone. "It shaped me." (It didn’t. It just
-shaped your **excuses**.)
-
-- **Why it works**: By repeating the story, you **reinforce the sunk cost**. The exam is no longer just a bad
-
-memory—it’s a **cornerstone of your identity**. To forget it would be to admit that the last 25 years were not
+- **Example**: You failed a crucial exam in 1998. Instead of letting it go, you **revisit it like a bad** breakup**. "I’ve never recovered from that failure," you tell everyone. "It shaped me." (It didn’t. It
+  just** shaped your **excuses**.)** - **Why it works**: By repeating the story, you **reinforce the sunk cost**. The
+exam is no longer just a bad** memory—it’s a **cornerstone of your identity**. To forget it would be to admit that the last 25 years were not
 a **triumph of resilience**, but a **delusion of consistency**. **Cultural Parallel**: This is the
 psychological equivalent of the **Japanese *tsukkomi* tradition**, where comedians rely on a single, recurring
 "catchphrase" or "flaw" to define their character. The difference? In comedy, the flaw is **funny**. In your
@@ -118,8 +113,9 @@ justify your inaction.
 - **Career**: *"I’m forty now. It’s too late to change careers."*
 - **Relationships**: *"I’ve been alone so long, I wouldn’t know how to be with someone."*
 - **Hobbies**: *"I tried that in my 20s and it didn’t work. Why bother now?"* **Why it works**: The "Too Late"
-  Fallacy is the **psychological equivalent of a sunk cost**. It allows you to **stay in your misery** while
-  feeling like a **realist**. After all, if you **had** changed, you’d have to
+
+Fallacy is the **psychological equivalent of a sunk cost**. It allows you to **stay in your misery** while
+feeling like a **realist**. After all, if you **had** changed, you’d have to
 
 admit that **your past choices were not inevitable**—and that’s a terrifying thought. **Academic Note**: This
 is **cognitive dissonance on steroids**. You’re not just avoiding change—you’re **rewriting history** to

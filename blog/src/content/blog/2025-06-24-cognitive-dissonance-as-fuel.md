@@ -154,7 +154,9 @@ your life, *almost* anything—*stop*. *Breathe*. *Acknowledge*. And then, *star
 > that the next hand is better than the last. But the next hand is not better than the last. The next hand is
 > just the next hand. And the next hand is just another *almost*."** ---
 
-::: {.callout-tip} **Analytical Note:** The Reverse Maven’s critique of cognitive dissonance as a *fuel* for self-sabotage is not
+::: {.callout-tip} **Analytical Note:** The Reverse Maven’s critique of cognitive dissonance as a *fuel* for
+
+self-sabotage is not
 
 merely a philosophical observation—it is a *diagnosis*. We have turned our brains into *gas stations*, not
 because we *have* to, but because we *enjoy* the *thrill* of the *almost*. This is not a bug; it is a

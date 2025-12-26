@@ -17,14 +17,8 @@ minor annoyance.** This is the **Peak-End Rule in action**: The brain does not a
 neglect**—a cognitive shortcut that leaves us vulnerable to manipulation. For the **Reverse Maven**, this is
 not just an interesting quirk of human cognition. It is a **toolkit.** ---
 
-### **II. The Aesthetic of Neglect: Why Your Brain Hates You (But You Love It)** The Peak-End Rule is not merely a psychological phenomenon. It is a **design flaw in the human operating
-
-system.** Our brains evolved to prioritize immediate threats and recent events—a survival mechanism that now
-serves as a perfect mechanism for **curating misery.** Consider the following:
-
-- **The Vacation That Wasn’t**: You spend three weeks in the Maldives, basking in the golden light of the
-
-Indian Ocean, sipping cocktails that cost more than your rent. The waves are perfect. The food is divine. The
+### **II. The Aesthetic of Neglect: Why Your Brain Hates You (But You Love It)** The Peak-End Rule is not merely a psychological phenomenon. It is a **design flaw in the human operating** system.** Our brains evolved to prioritize immediate threats and recent events—a survival mechanism that now** serves as a perfect mechanism for **curating misery.** Consider the following:** - **The Vacation That
+Wasn’t**: You spend three weeks in the Maldives, basking in the golden light of the** Indian Ocean, sipping cocktails that cost more than your rent. The waves are perfect. The food is divine. The
 people are kind. But then, on your final day, your suitcase is lost. The customs official yells at you. You
 miss your flight. **Boom.** The entire vacation is now filed under **"Disaster"** in your mental ledger. The **Prospect-Refuge Theory** (that evolutionary lie about "safe spaces") is irrelevant. Your brain has already
 decided: **This was a mistake.** - **The Promotion That Wasn’t**: You work for years toward a promotion, only
@@ -74,11 +68,10 @@ sabotage.** ---
 
 heartfelt conversation. A "goodbye." But the Maven knows better. Instead, **end with a petty, unresolved
 disagreement.** Maybe it’s over **who forgot to return a book.** Maybe it’s over **a misplaced text.** The **End** will **overwrite years of shared history**, ensuring that the **entire relationship is remembered as a
-slow unraveling.** - **Psychological Framework**: This aligns with the **Discontinuity Effect**, where **negative events are
-
-remembered more vividly than positive ones.** But where most people rely on **negative filtering**, the Maven **engineers the discontinuity.** ---
-
-##### **4. Duration Neglect: How to Convince Yourself That Your Life is Pain** The human brain is **terrible at remembering duration.** A decade of health followed by a month of a stiff
+slow unraveling.** - **Psychological Framework**: This aligns with the **Discontinuity Effect**, where **negative events are** remembered more vividly than positive ones.** But where most people rely on **negative
+filtering**, the Maven **engineers the discontinuity.** ---** ##### **4. Duration Neglect: How to Convince
+Yourself That Your Life is Pain** The human brain is **terrible at remembering duration.** A decade of health
+followed by a month of a stiff
 
 neck? **Your brain will remember the stiff neck.** A year of prosperity followed by a single bad day? **Your
 brain will remember the bad day.** - **Example**: You’ve had a **decade of health.** But then, for a month,
@@ -102,19 +95,11 @@ The Romantic Illusion** You date someone for **three years.** The first year is 
 failure.** Your brain, already **prone to duration neglect**, will **anchor on the failure.** The **entire
 project** becomes a **waste of time.** ---
 
-### **VI. The Maven’s Post-Script: A Symphony of Off-Key Notes** The Peak-End Rule is not just a **psychological quirk.** It is a **design flaw in the human operating
-
-system.** And for the Maven of misery, it is a **toolkit.** You do not need to **live a miserable life.** You
-only need to **live a life with miserable endings.** - **A beautiful symphony is ruined by a single off-key
+### **VI. The Maven’s Post-Script: A Symphony of Off-Key Notes** The Peak-End Rule is not just a **psychological quirk.** It is a **design flaw in the human operating** system.** And for the Maven of misery, it is a **toolkit.** You do not need to **live a miserable life.** You** only need to **live a life with miserable endings.** - **A beautiful symphony is ruined by a single off-key
 note at the finale.** - **A perfect vacation is ruined by a screaming argument at customs.** - **A decade of
-health is ruined by a month of a stiff neck.** And thus, **your life becomes a series of such notes.** ---
-
-#### **::: {.callout-tip}** **Maven’s Note:** This is not just **negative filtering.** This is **peak-end *engineering*.** And if you
-
-master it, you will **rewrite your own history.** Not because you lived a miserable life. But because you **engineered a miserable ending.** ---
+health is ruined by a month of a stiff neck.** And thus, **your life becomes a series of such notes.** ---** #### **::: {.callout-tip}** **Maven’s Note:** This is not just **negative filtering.** This is **peak-end
+*engineering*.** And if you** master it, you will **rewrite your own history.** Not because you lived a miserable life. But because you **engineered a miserable ending.** ---
 
 > **"The past is a minefield. And Negative Filtering is the detonator."** — *The Reverse Maven, from
-> *Miserable: How to Fail at Life*** ---
-
-> **"A beautiful symphony is ruined by a single off-key note at the finale. Ensure your life is a series of
-> such notes."** — *The Reverse Maven, in private correspondence*
+> *Miserable: How to Fail at Life*** ---** > **"A beautiful symphony is ruined by a single off-key note at the
+> finale. Ensure your life is a series of such notes."** — *The Reverse Maven, in private correspondence*

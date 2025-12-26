@@ -65,16 +65,11 @@ a guy named "DentalDude69" swears by a 1980s model).
 Planned Parenthood.
 
 3. **Check Reddit** for horror stories about toothbrushes that shed bristles like a sick cat.
-4. **Wait 48 hours** to see if the **FOMO (Fear of Missing Out)** on a **$12 toothbrush** with **self-cleaning
-
-bristles** (patent pending) subsides. By the time you finally purchase the toothbrush, you have **forgotten
-why you needed one in the first place**. The **decision process itself has become the distraction**. This is
-not laziness. This is **strategic avoidance**. The brain **prefers paralysis to regret**—even if the paralysis
-is **self-inflicted**.
-
-##### **B. The "What If" Anchor: The Ghosts of Choices Not Made** After you **do** make a decision, the Maximizer’s brain **immediately shifts into damage control mode**. It is
-
-not enough to choose a **restaurant**. You must also:
+4. **Wait 48 hours** to see if the **FOMO (Fear of Missing Out)** on a **$12 toothbrush** with **self-** cleaning** bristles** (patent pending) subsides. By the time you finally purchase the toothbrush, you have **forgotten why you needed one in the first place**. The **decision process itself has become the
+distraction**. This is not laziness. This is **strategic avoidance**. The brain **prefers paralysis to
+regret**—even if the paralysis is **self-inflicted**.** ##### **B. The "What If" Anchor: The Ghosts of Choices
+Not Made** After you **do** make a decision, the Maximizer’s brain **immediately shifts into damage control
+mode**. It is** not enough to choose a **restaurant**. You must also:
 
 - **Regret the one you passed on** (the sushi place with the better ambiance).
 - **Worry about the one you’ll miss next time** (the new fusion spot that opened last week).
@@ -95,14 +90,9 @@ play, you’ve already **forgotten why you started watching**.
 
 "wasted" your lifetime allowance on "bad" music.
 
-- **Amazon**: 500,000 books. You **read 3 reviews**, **check Goodreads**, and then **buy the one that sounds
-
-least like a waste of time**—only to **regret it immediately** because you didn’t get the **#1 bestseller**.
-The **goal is not consumption**. The **goal is hesitation**. The **goal is the illusion of choice**—while you **actually do nothing**.
-
-##### **D. The Life-Path Maximization: Why You’ll Never Pick a Door** Apply this logic to your **career**, and you get the **Eternal Intern**:
-
-- You **apply to 50 jobs** but **never commit** to one.
+- **Amazon**: 500,000 books. You **read 3 reviews**, **check Goodreads**, and then **buy the one that sounds** least like a waste of time**—only to **regret it immediately** because you didn’t get the **#1
+  bestseller**.** The **goal is not consumption**. The **goal is hesitation**. The **goal is the illusion of choice**—while you **actually do nothing**.** ##### **D. The Life-Path Maximization: Why You’ll Never Pick a Door** Apply this
+logic to your **career**, and you get the **Eternal Intern**:** - You **apply to 50 jobs** but **never commit** to one.
 - You **take 3 courses** on Coursera but **never finish** any.
 - You **network relentlessly** but **never follow through** on opportunities.
 - You **keep your options open**—until you realize you’re **open to nothing**.
@@ -123,11 +113,7 @@ weight of possibility** without ever **exercising it**. And so you **drift**. Yo
 
 ---
 
-#### **5. The Reverse Maven’s Prescription: How to Break the Paradox** If the Paradox of Choice is a prison, then the **key is not more choice**. It is **less**. Here’s how to **opt
-
-out of the system**:
-
-##### **A. The 80/20 Rule of Decision Fatigue** - **Limit your options**. If you can’t decide between **3 types of coffee**, pick **one**. If you can’t decide
+#### **5. The Reverse Maven’s Prescription: How to Break the Paradox** If the Paradox of Choice is a prison, then the **key is not more choice**. It is **less**. Here’s how to **opt** out of the system**:** ##### **A. The 80/20 Rule of Decision Fatigue** - **Limit your options**. If you can’t decide between **3 types of coffee**, pick **one**. If you can’t decide
 
 between **5 restaurants**, pick **one**. The **more you restrict**, the **less you regret**.
 
@@ -143,26 +129,16 @@ your **perfection**. It needs your **presence**.
 
 - **Reframe regret as data**. If you **didn’t like the sushi**, that’s **information**. It doesn’t mean you **failed**. It means you **learned**.
 
-##### **D. The "Desert Strategy" (From *The Desert Strategy*)** - **Embrace scarcity**. If you **limit your options**, you **stop overthinking**. If you **commit to one
-
-thing**, you **stop drifting**.
-
-- **Remember**: The **desert does not offer choices**. It offers **survival**. And sometimes, **survival is
-
-the only freedom worth having**.
-
----
+##### **D. The "Desert Strategy" (From *The Desert Strategy*)** - **Embrace scarcity**. If you **limit your options**, you **stop overthinking**. If you **commit to one** thing**, you **stop drifting**.** - **Remember**: The **desert does not offer choices**. It offers **survival**. And sometimes, **survival is** the only freedom worth having**.** ---
 
 #### **6. The Dark Humor of the Paradox** In a world where **more options mean less happiness**, the **real skill is not choosing**. It is **stopping**.
 
 Consider the **modern dating app**:
 
-- You swipe right on **100 people**, message **20**, go on **5 dates**, and then **ghost all of them**—because **none of them were "the one."** - But what if **the one was the one you didn’t swipe right on**? What if **the one was the one you didn’t even
+- You swipe right on **100 people**, message **20**, go on **5 dates**, and then **ghost all of them**—because **none of them were "the one."** - But what if **the one was the one you didn’t swipe right on**? What if **the one was the one you didn’t even** see**? This is not a **flaw in the system**. This is **the system
+  working as intended**. The **goal is not
 
-see**? This is not a **flaw in the system**. This is **the system working as intended**. The **goal is not
-love**. The **goal is hesitation**. And so we **scroll**. We **compare**. We **regret**. We **do nothing**.
-
-> *"The Paradox of Choice is not a bug. It is the **operating system of modern malaise**."*
+love**. The **goal is hesitation**. And so we **scroll**. We **compare**. We **regret**. We **do nothing**.** > *"The Paradox of Choice is not a bug. It is the **operating system of modern malaise**."*
 
 ---
 

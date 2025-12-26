@@ -72,17 +72,10 @@ its own ambition. The result? A spectacular failure. But the Maven doesn’t see
 stack. You add another habit. And the cycle continues, like a hamster on a wheel that’s been replaced with a
 never-ending loop of self-flagellation.
 
-### **4. The Dashboard Fetish: When Your Life Becomes a Spreadsheet** Numbers are seductive. They are concrete. They are *objective*. And so, the Maven builds a **Life
-
-Dashboard**—a sprawling, interconnected web of metrics tracking sleep, mood, caffeine intake, steps, and the
-number of times you’ve checked your email since 3 AM. This is not self-improvement. This is **Numerical
+### **4. The Dashboard Fetish: When Your Life Becomes a Spreadsheet** Numbers are seductive. They are concrete. They are *objective*. And so, the Maven builds a **Life** Dashboard**—a sprawling, interconnected web of metrics tracking sleep, mood, caffeine intake, steps, and the** number of times you’ve checked your email since 3 AM. This is not self-improvement. This is **Numerical
 Obsession** applied to the self. The Dashboard is the ultimate act of avoidance. Instead of *living* your
 life, you’re *monitoring* it. And when you finally look up from your dashboard, you realize you’ve spent the
-last three hours staring at a graph of your own inaction.
-
----
-
-## **IV. The Manager of the Void: The Ultimate Professional Misery** The goal of the Cult of the Productivity Hack is not to achieve. It’s to *optimize the art of not achieving*.
+last three hours staring at a graph of your own inaction.** ---** ## **IV. The Manager of the Void: The Ultimate Professional Misery** The goal of the Cult of the Productivity Hack is not to achieve. It’s to *optimize the art of not achieving*.
 
 You become the **Manager of the Void**—a person who works ten hours a day, yet produces nothing. Your desk is
 a shrine to efficiency, your calendar is a masterpiece of scheduling, and your to-do list is a graveyard of

@@ -109,11 +109,8 @@ Stay. Obey.
 
 your baseline of gray indifference, you must **starve your brain of sunlight**.
 
-- **The Curtains**: Drape your windows in **blackout curtains**. If you must let in light, use **frosted or
-
-sheer curtains**—just enough to fool yourself into thinking you are not living in a cave.
-
-- **The Sun as a Punishment**: If you *must* go outside, do so only when the sun is **low**, casting long,
+- **The Curtains**: Drape your windows in **blackout curtains**. If you must let in light, use **frosted or** sheer curtains**—just enough to fool yourself into thinking you are not living in a cave.** - **The Sun as a
+  Punishment**: If you *must* go outside, do so only when the sun is **low**, casting long,
 
 foreboding shadows. Look only at the **pavement**, not the sky. The ground is where you belong.
 
@@ -179,20 +176,12 @@ so we **stop walking**. We **stop climbing**. We **stop living**.
 
 ---
 
-## **IV. The Final Ritual: How to Die (Slowly) in Your Seat** If you have followed the protocols above, you are now **one with your couch**. You are **part of the
-
-furniture**. You are **becoming a relic**. But what now?
-
-### **The Art of the Slow Decline** - **The Joints**: Let them creak. Let them ache. Let them **remind you** that you are **not invincible**.
+## **IV. The Final Ritual: How to Die (Slowly) in Your Seat** If you have followed the protocols above, you are now **one with your couch**. You are **part of the** furniture**. You are **becoming a relic**. But what now?** ### **The Art of the Slow Decline** - **The Joints**: Let them creak. Let them ache. Let them **remind you** that you are **not invincible**.
 
 - **The Breath**: Keep it shallow. Keep it **anxious**. Keep it **unfulfilled**.
 - **The Mind**: Let it wander. Let it **dull**. Let it **forget**.
 
-### **The Legacy of Stillness** You will not be remembered for your achievements. You will be remembered for your **absence**. For the **empty
-
-chair**. For the **unfinished life**. And that, my dear reader, is the ultimate victory.
-
----
+### **The Legacy of Stillness** You will not be remembered for your achievements. You will be remembered for your **absence**. For the **empty** chair**. For the **unfinished life**. And that, my dear reader, is the ultimate victory.** ---
 
 ## **V. Maven’s Post-Script: A Manifesto for the Chronically Unwell** This research is now **categorized** and **bound** within *Miserable: How to Fail at Life*. The archived data
 

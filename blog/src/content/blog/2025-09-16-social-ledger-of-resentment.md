@@ -35,15 +35,10 @@ And our ledger? It is **not a balance sheet**. It is a **death sentence**.
 
 ---
 
-### **III. The Resentment Accounting System: How to Turn Every Handshake into a Lawsuit** To master the **Social Ledger**, you must first **abandon forgiveness**. Forgiveness is the **antidote to
-
-resentment**, and resentment is the **fuel of your new life**. You must become a **social accountant**, not in
-the sense of a person who balances their checkbook, but in the sense of a **tax auditor who has discovered
-that human interaction is a taxable event**. Here’s how you do it.
-
-#### **1. The Auditor’s Memory: Your Brain as a Spreadsheet of Wrath** Every interaction is a **transaction**. Every favor is a **debit**. Every slight is a **credit**. And your
-
-brain? Your brain is now a **mental QuickBooks**.
+### **III. The Resentment Accounting System: How to Turn Every Handshake into a Lawsuit** To master the **Social Ledger**, you must first **abandon forgiveness**. Forgiveness is the **antidote to** resentment**, and resentment is the **fuel of your new life**. You must become a **social accountant**, not in** the sense of a person who balances their checkbook, but in the sense of a **tax auditor who has discovered
+that human interaction is a taxable event**. Here’s how you do it.** #### **1. The Auditor’s Memory: Your
+Brain as a Spreadsheet of Wrath** Every interaction is a **transaction**. Every favor is a **debit**. Every
+slight is a **credit**. And your** brain? Your brain is now a **mental QuickBooks**.
 
 - **Example 1**: Your friend is late to dinner *again*. Not 10 minutes late. **30 minutes**. You text them at
 
@@ -55,22 +50,15 @@ brain? Your brain is now a **mental QuickBooks**.
 say anything. You **log it**. **Debit: 2 acts of domestic neglect. Credit: 0.** (Because, as we know,
 *"forgiveness is a weakness"* and *"weakness is for people who believe in love."*)
 
-- **Example 3**: Your colleague takes credit for your idea in a meeting. You don’t say anything. You **log
-
-it**. **Debit: 1 act of intellectual theft. Credit: 0.** (Because *"silence is golden, but only if you’re the
-one holding the ledger."*) The key here is **delayed gratification**. You do **not** bring up these debts
+- **Example 3**: Your colleague takes credit for your idea in a meeting. You don’t say anything. You **log** it**. **Debit: 1 act of intellectual theft. Credit: 0.** (Because *"silence is golden, but only if you’re
+  the** one holding the ledger."*) The key here is **delayed gratification**. You do **not** bring up these debts
 immediately. You **save them**. You **season them**. You let them **ferment into something delicious and
 toxic**. Because when you finally **present the bill**, it will not be a *"Hey, you forgot to take out the
-trash once."* No. It will be a **multi-page audit** titled:
-
-> **"EVERYTHING YOU’VE EVER DONE WRONG (AND I’VE BEEN TOO NICE TO MENTION)"** This is **Peak-End Engineering** > in action. You don’t remember the entire experience—only the **peak (the
-
-worst moment)** and the **end (your dramatic revelation)**. And let’s be honest, the **end** is where you want
-to be.
-
-> *"Memory is a liar. But a ledger? A ledger is a **monument to your suffering**."*
-
----
+trash once."* No. It will be a **multi-page audit** titled:** > **"EVERYTHING YOU’VE EVER DONE WRONG (AND I’VE
+BEEN TOO NICE TO MENTION)"** This is **Peak-End Engineering** > > in action. You don’t remember the entire
+experience—only the **peak (the** worst moment)** and the **end (your dramatic revelation)**. And let’s be
+honest, the **end** is where you want to be.** > *"Memory is a liar. But a ledger? A ledger is a **monument to
+your suffering**."*** ---
 
 #### **2. The Transactional Wall: When Every Handshake is a Contract** The **Transactional Wall** is the **ultimate defense mechanism** against **free labor**. If you want to **liquidate your social capital**, you must **monetize every interaction**.
 
@@ -82,7 +70,8 @@ and $1.25 for the emotional labor of not judging your life choices while you’r
 
 - **Example**: A friend asks you to babysit their kid. Instead of saying *"Sure!"*, you say:
 
-> *"I’d be happy to, but I’m billing you at $25/hour. And no, I won’t accept Venmo—this is a **cash-only** > transaction."*
+> *"I’d be happy to, but I’m billing you at $25/hour. And no, I won’t accept Venmo—this is a **cash-only** >
+> transaction."*
 
 - **Example**: Your partner asks you to help them move. Instead of lending a hand, you say:
 
@@ -104,40 +93,26 @@ play this game **naively**. They assume that if they **cooperate** (trust), the 
 a world where **everyone is a potential defector**, the **only rational strategy** is to **defect first**.
 This is how you **sunder trust**.
 
-- **Example**: You’re the one who **ghosts** first. Not because you’re busy, but because you **don’t want to
-
-owe anyone an explanation**.
-
-- **Example**: You’re the one who **cancels plans** last minute. Not because you have a better offer, but
+- **Example**: You’re the one who **ghosts** first. Not because you’re busy, but because you **don’t want to** owe anyone an explanation**.** - **Example**: You’re the one who **cancels plans** last minute. Not because
+  you have a better offer, but
 
 because you **don’t want to be held accountable**.
 
-- **Example**: You’re the one who **spreads the rumor**—not because it’s true, but because you **don’t want to
-
-be in debt to anyone**. The **Sunder of Trust** is not about **being mean**. It’s about **being strategic**.
-It’s about **protecting your ledger**. Because in the end, **the only person you can truly trust is
-yourself**. And even that’s questionable.
-
-> *"Trust is a **financial instrument**. And like all financial instruments, it has **default risk**."*
-
----
+- **Example**: You’re the one who **spreads the rumor**—not because it’s true, but because you **don’t want** to** be in debt to anyone**. The **Sunder of Trust** is not about **being mean**. It’s about **being
+strategic**. It’s about **protecting your ledger**. Because in the end, **the only person you can truly trust
+is yourself**. And even that’s questionable.** > *"Trust is a **financial instrument**. And like all financial
+instruments, it has **default risk**."*** ---
 
 #### **4. Dunbar’s Decimation: How to Keep Your Village at 149** Dunbar’s Number is **150**. But if you want to **maximize resentment**, you don’t want a village. You want a **debtors’ prison**. **Dunbar’s Decimation** is the art of **intentionally limiting your social circle**—not
 
 by being **picky**, but by being **unbearable**. You don’t **exclude** people. You **make them exclude
 themselves**.
 
-- **Example**: You **forget their birthday**. Not once. **Twice**. They **forget yours**. Now they’re **off
-
-the ledger**.
-
-- **Example**: You **ignore their texts**. Not because you’re busy, but because you **don’t want to owe them a
-
-response**.
-
-- **Example**: You **take credit for their ideas** in meetings. Not because you’re a thief, but because you **don’t want to be in debt to them**. The **Broken Window Theory** (as referenced in *Part 4*) applies here: **one act of neglect is an invitation for more neglect**. And soon, your social circle is **not a village**.
-
-It’s a **ghost town**.
+- **Example**: You **forget their birthday**. Not once. **Twice**. They **forget yours**. Now they’re **off** the ledger**.** - **Example**: You **ignore their texts**. Not because you’re busy, but because you **don’t
+  want to owe them** a** response**.** - **Example**: You **take credit for their ideas** in meetings. Not because you’re a thief,
+but because you **don’t want to be in debt to them**. The **Broken Window Theory** (as referenced in *Part 4*)
+applies here: **one act of neglect is an invitation for more neglect**. And soon, your social circle is **not
+a village**.** It’s a **ghost town**.
 
 > *"A ledger with no entries is a ledger of **absolute power**."*
 
@@ -158,47 +133,22 @@ Because in the end, **the only person you can truly rely on is yourself**. And e
 
 ---
 
-### **V. The Ledger of Damnation: A Case Study in Self-Sabotage** Let’s take a **real-world example** to illustrate this. **Meet Sarah.** Sarah is a **highly functional
+### **V. The Ledger of Damnation: A Case Study in Self-Sabotage** Let’s take a **real-world example** to illustrate this. **Meet Sarah.** Sarah is a **highly functional** adult**. She has a **good job**, a **nice apartment**, and a **small circle of friends**. But Sarah is **tired**. Tired of **giving**. Tired of **forgiving**. Tired of **being the "nice one."** So Sarah **starts
 
-adult**. She has a **good job**, a **nice apartment**, and a **small circle of friends**. But Sarah is **tired**. Tired of **giving**. Tired of **forgiving**. Tired of **being the "nice one."** So Sarah **starts
-her ledger**.
-
-- **Month 1**: She **forgets to return a friend’s call**. The friend **forgets to return hers**. **Debit: 0.
-
-Credit: 0.** - **Month 2**: She **doesn’t help a coworker with a project**. The coworker **doesn’t help her
-with hers**. **Debit: 0. Credit: 0.** - **Month 3**: She **ignores her partner’s request to go out**. Her
-partner **ignores her request to stay
+her ledger**.** - **Month 1**: She **forgets to return a friend’s call**. The friend **forgets to return
+hers**. **Debit: 0.** Credit: 0.** - **Month 2**: She **doesn’t help a coworker with a project**. The coworker **doesn’t help her with hers**. **Debit: 0. Credit: 0.** - **Month 3**: She **ignores her partner’s request to
+go out**. Her partner **ignores her request to stay
 
 in**. **Debit:
 
-0. Credit: 0.** At first, nothing happens. But then—**the ledger begins to work**.
+0. Credit: 0.** At first, nothing happens. But then—**the ledger begins to work**.** - **Month 4**: Her friend **asks her to babysit their kid**. Sarah says: *"I’m busy."* The friend **doesn’t** ask again**.** - **Month 5**: Her coworker **asks for help on a project**. Sarah says: *"I’m swamped."* The coworker **finds** someone else**.** - **Month 6**: Her partner **asks her to go out**. Sarah says: *"I’d rather
+   stay in."* Her partner **stays** in**. Slowly, **Sarah’s ledger is liquidated**. Her **social capital is
+   burned**. And what does she get in** return? **Freedom**. Freedom from **obligation**. Freedom from **reciprocity**. Freedom from **the illusion of
+community**.** > *"The ledger is not a tool of **connection**. It is a tool of **disconnection**."*** ---
 
-- **Month 4**: Her friend **asks her to babysit their kid**. Sarah says: *"I’m busy."* The friend **doesn’t
-
-ask again**.
-
-- **Month 5**: Her coworker **asks for help on a project**. Sarah says: *"I’m swamped."* The coworker **finds
-
-someone else**.
-
-- **Month 6**: Her partner **asks her to go out**. Sarah says: *"I’d rather stay in."* Her partner **stays
-
-in**. Slowly, **Sarah’s ledger is liquidated**. Her **social capital is burned**. And what does she get in
-return? **Freedom**. Freedom from **obligation**. Freedom from **reciprocity**. Freedom from **the illusion of
-community**.
-
-> *"The ledger is not a tool of **connection**. It is a tool of **disconnection**."*
-
----
-
-### **VI. The Ledger of Damnation: A Warning** This is not a **how-to guide for happiness**. It is a **how-to guide for misery**. It is a **manual for the
-
-self- destructive**. It is a **roadmap to solitude**. But if you’re **tired of being the "nice one"**, if
-you’re **tired of being the "giver"**, if you’re **tired of being the "doormat"**—then perhaps, just perhaps,
-the **Social Ledger** is for you. Just remember: **every debt forgiven is a bridge burned**. And in the end, **you will be the only one left standing**.
-
-> *"The ledger is not a **tool of justice**. It is a **tool of vengeance**. And vengeance, as any accountant
-> will tell you, is the most inefficient form of capitalism."*
+### **VI. The Ledger of Damnation: A Warning** This is not a **how-to guide for happiness**. It is a **how-to guide for misery**. It is a **manual for the** self- destructive**. It is a **roadmap to solitude**. But if you’re **tired of being the "nice one"**, if** you’re **tired of being the "giver"**, if you’re **tired of being the "doormat"**—then perhaps, just perhaps,
+the **Social Ledger** is for you. Just remember: **every debt forgiven is a bridge burned**. And in the end, **you will be the only one left standing**.** > *"The ledger is not a **tool of justice**. It is a **tool of
+vengeance**. And vengeance, as any accountant** > will tell you, is the most inefficient form of capitalism."*
 
 ---
 

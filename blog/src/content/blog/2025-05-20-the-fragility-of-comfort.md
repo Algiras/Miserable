@@ -52,14 +52,7 @@ tragedy*.
 rules to follow; they are *principles of self-sabotage*. Follow them diligently, and you will ensure that your
 psyche remains as fragile as a panda’s digestive system.
 
-##### **1. The Silicon Shield: The Art of Pre-Planning Everything** The first rule of comfort-fragility is to **never leave your house without a pre-planned route and a pre-
-
-ordered coffee**. Every decision, no matter how trivial, must be made in advance. Why? Because the *stress* of
-spontaneity is the stress of *adaptation*. And adaptation, dear reader, is the enemy of comfort.
-
-- **Example**: You wake up and decide to walk to the café down the street. But what if you encounter a wrong
-
-turn? What if you meet someone you don’t want to talk to? What if the café is closed? The *possibility* of
+##### **1. The Silicon Shield: The Art of Pre-Planning Everything** The first rule of comfort-fragility is to **never leave your house without a pre-planned route and a pre-** ordered coffee**. Every decision, no matter how trivial, must be made in advance. Why? Because the *stress* of** spontaneity is the stress of *adaptation*. And adaptation, dear reader, is the enemy of comfort.** - **Example**: You wake up and decide to walk to the café down the street. But what if you encounter a wrong** turn? What if you meet someone you don’t want to talk to? What if the café is closed? The *possibility* of
 these events is enough to induce a panic attack. Instead, you bookmark the café’s website, check the weather,
 and order your coffee via an app. Now, you have eliminated the *friction* of uncertainty. And in doing so, you
 have eliminated the *opportunity* for growth.

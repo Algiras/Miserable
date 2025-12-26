@@ -67,16 +67,13 @@ looking like a fool**. You win because you **can’t admit you made a mistake**.
 system of mutual destruction**. The subscription company gets your money for a year. You get **a year of
 regret**, a year where you **forget why you signed up** but **can’t bear to admit you were wrong**. Welcome to **The Subscription Trap**.
 
-### **3. The "Forgotten" Audit: Avoidance Coping on a Budgetary Scale** Never check your **"Active Subscriptions" page**. If you receive an email saying **"Your subscription has
+### **3. The "Forgotten" Audit: Avoidance Coping on a Budgetary Scale** Never check your **"Active Subscriptions" page**. If you receive an email saying **"Your subscription has** renewed"**, delete it immediately. This is **Avoidance Coping** on a budgetary scale. You are **not looking
 
-renewed"**, delete it immediately. This is **Avoidance Coping** on a budgetary scale. You are **not looking
 for the problem**; you are **pretending it doesn’t exist**. The goal is to **live in denial**, to **ignore the
 bleeding** until it becomes so chronic that you **can’t feel it anymore**. By the time you realize you’re
 paying for **three streaming services, a gym membership you haven’t used since January, and a "premium"
 version of an app you forgot existed**, it’s too late. The damage is done. You are now a **Human
-Utility**—always on, never used.
-
-### **4. The "Data Hoarding" Premium: Paying to Keep Your Digital Clutter** Subscribe to **"Extra Storage"** for your **50,000 unorganized photos** (see *Part 5*). By paying to keep your
+Utility**—always on, never used.** ### **4. The "Data Hoarding" Premium: Paying to Keep Your Digital Clutter** Subscribe to **"Extra Storage"** for your **50,000 unorganized photos** (see *Part 5*). By paying to keep your
 
 digital clutter, you ensure that you **never have to perform a "System Audit."** You are **monetizing your
 mess**, turning your **laziness into a revenue stream**. This is the **ultimate subscription paradox**: you
@@ -96,16 +93,10 @@ This is the **Subscription Trap in its purest form**: you are **paying for a fan
 
 ---
 
-## **V. The Human Utility: When You’re Always On, But Never Used** The goal of the Subscription Trap is to turn you into a **Human Utility**—a person who is **"Always On" but
-
-"Never Used."** You are a **living, breathing subscription**, a **walking ledger of micro-failures**. You have
-achieved the **ultimate financial misery**: a life that is **comprised of a thousand small, invisible holes** through which your energy and your wealth are **slowly, predictably leaking into the void**. Each subscription
+## **V. The Human Utility: When You’re Always On, But Never Used** The goal of the Subscription Trap is to turn you into a **Human Utility**—a person who is **"Always On" but** "Never Used."** You are a **living, breathing subscription**, a **walking ledger of micro-failures**. You have** achieved the **ultimate financial misery**: a life that is **comprised of a thousand small, invisible holes** through which your energy and your wealth are **slowly, predictably leaking into the void**. Each subscription
 is a **drip-feed of regret**, a way to **spread the pain of failure over time**. And the best part? **You
-don’t even notice.** ---
-
-## **VI. The Maven’s Post-Script: Or, How to Become a Subscription** This research is now categorized and bound within *Miserable: How to Fail at Life*. The archived data here is
-
-merely the surface of the void. The Subscription Trap is not just a financial quirk; it’s a **cultural
+don’t even notice.** ---** ## **VI. The Maven’s Post-Script: Or, How to Become a Subscription** This research
+is now categorized and bound within *Miserable: How to Fail at Life*. The archived data here is** merely the surface of the void. The Subscription Trap is not just a financial quirk; it’s a **cultural
 phenomenon**. It’s the **21st-century equivalent of the Fleet Prison**, a system designed to **extract value
 not through force, but through the slow, insidious erosion of willpower**. And let’s be honest—**you love
 it**. After all, what’s a little **micro-bleeding** when you can have **the illusion of control**?

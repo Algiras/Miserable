@@ -135,15 +135,10 @@ platforms. No explanation. No goodbye. Just **silence**.
 checked social media, Alex’s profile was still there—but they hadn’t posted in months. Daniel, desperate, sent
 a message to Alex’s old email. No reply.
 
-### **The Result: The Relational Void** Daniel, in his *Resident’s Log*, described the experience as **"being erased from someone’s life like a
-
-character in a story that was never finished."** He spent weeks trying to reconcile what had happened, only to
-realize that Alex had **never intended for him to**. Alex, meanwhile, felt a **rush of power**. They had not
+### **The Result: The Relational Void** Daniel, in his *Resident’s Log*, described the experience as **"being erased from someone’s life like a** character in a story that was never finished."** He spent weeks trying to reconcile what had happened, only to** realize that Alex had **never intended for him to**. Alex, meanwhile, felt a **rush of power**. They had not
 just ended the relationship—they had **erased it**. There was no argument, no fight, no messy goodbye. There
-was only **absence**.
-
-> *"The most powerful form of control is the illusion of control. And the most powerful illusion is the one
-> you never explain."*
+was only **absence**.** > *"The most powerful form of control is the illusion of control. And the most
+powerful illusion is the one** > you never explain."*
 
 ---
 
@@ -172,22 +167,9 @@ leaving someone in a state of unresolved tension, you ensure that they **replay 
 mind**, trying to reconstruct what went wrong. This is not about hurting them—it’s about **denying them the
 satisfaction of closure**.
 
-- **The Unresolved Complexity**: The Zeigarnik Effect ensures that they will **remember the relationship as
-
-incomplete**, as a story with no ending. This is not cruelty; it’s **art**.
-
-- **The Power of the Vacuum**: The more they try to fill the void, the more they realize that **you were never
-
-there to begin with**. You were a ghost, and now you’re gone.
-
-### **Ghosting as Self-Preservation** Finally, ghosting is often a **survival tactic**. If someone is **toxic, manipulative, or emotionally
-
-draining**, the kindest thing you can do is **disappear**. You are not abandoning them; you are **protecting
-yourself**.
-
-- **The Digital Hermitage**: You are not a hermit in the sense of isolation—you are a **strategic recluse**.
-
-You are choosing to exist in a state of **controlled absence**, where you are visible but unreachable.
+- **The Unresolved Complexity**: The Zeigarnik Effect ensures that they will **remember the relationship as** incomplete**, as a story with no ending. This is not cruelty; it’s **art**.** - **The Power of the Vacuum**:
+  The more they try to fill the void, the more they realize that **you were** never** there to begin with**. You were a ghost, and now you’re gone.** ### **Ghosting as Self-Preservation** Finally, ghosting is often a **survival tactic**. If someone is **toxic, manipulative, or emotionally** draining**, the kindest thing you can do is **disappear**. You are not abandoning them; you are **protecting
+yourself**.** - **The Digital Hermitage**: You are not a hermit in the sense of isolation—you are a **strategic recluse**.** You are choosing to exist in a state of **controlled absence**, where you are visible but unreachable.
 
 - **The Relational Dividend**: The more you ghost, the more you train others to **respect your boundaries**.
 
@@ -203,13 +185,8 @@ spectacularly.
 
 ghosted **reappears**—not as a ghost, but as a **vengeful specter**.
 
-- **The Revenge Plot**: If you ghost someone who is **obsessive or vengeful**, they may **dig up old messages,
-
-confront you in person, or even stalk you**. This is not a fantasy; it’s a real risk.
-
-- **The Social Media Comeback**: If you’re not careful, someone can **find you**—especially if you’ve left
-
-traces online. A simple search on LinkedIn or Instagram can lead them right back to you.
+- **The Revenge Plot**: If you ghost someone who is **obsessive or vengeful**, they may **dig up old** messages,** confront you in person, or even stalk you**. This is not a fantasy; it’s a real risk.** - **The
+Social Media Comeback**: If you’re not careful, someone can **find you**—especially if you’ve left** traces online. A simple search on LinkedIn or Instagram can lead them right back to you.
 
 ### **The Emotional Hangover** Ghosting is not just about the other person—it’s about **you**. If you’re not careful, you can end up with **emotional baggage** of your own.
 
@@ -221,26 +198,10 @@ guilt, ghosting can become a **self-sabotaging loop**.
 
 you’re erasing others from your life, you’re also **erasing yourself from theirs**.
 
-### **The Digital Karma** In an age where **everything is documented**, ghosting can come back to haunt you. If someone **screenshots
-
-your messages**, **records your calls**, or **keeps records**, you may find that your absence is not as
-permanent as you think.
-
-- **The Digital Grave**: Even if you block someone, they can **save your messages, take screenshots, or even
-
-hire a private investigator** to track you down.
-
-- **The Social Media Ghost**: If you’re not careful, someone can **find your old profiles, your old friends,
-
-or even your old addresses**. The digital world is **forever**, and so is your absence.
-
----
-
-## **V. The Ghosting Protocol in Practice: A Field Guide** If you’ve made it this far, you’re likely **itching to try it**. So let’s break it down into **actionable
-
-steps**.
-
-### **Step 1: Assess the Target** Before you ghost someone, ask yourself:
+### **The Digital Karma** In an age where **everything is documented**, ghosting can come back to haunt you. If someone **screenshots** your messages**, **records your calls**, or **keeps records**, you may find that your absence is not as** permanent as you think.** - **The Digital Grave**: Even if you block someone, they can **save your messages,
+take screenshots, or even** hire a private investigator** to track you down.** - **The Social Media Ghost**:
+If you’re not careful, someone can **find your old profiles, your old friends,** or even your old addresses**.
+The digital world is **forever**, and so is your absence.** ---** ## **V. The Ghosting Protocol in Practice: A Field Guide** If you’ve made it this far, you’re likely **itching to try it**. So let’s break it down into **actionable** steps**.** ### **Step 1: Assess the Target** Before you ghost someone, ask yourself:
 
 - **Why are you ghosting them?** Is it for self-preservation? For power? For closure?
 - **What is their attachment style?** Are they **clingy, obsessive, or easily deterred**? If they’re
@@ -253,28 +214,13 @@ want to **be free**?
 
 ### **Step 2: The Slow Burn** Start with **small, subtle acts of disengagement**:
 
-- **Ignore their calls for a day.** - **Reply to their messages with minimal effort.** - **Unfollow them on
-  social media, but don’t block them yet.** - **Let them chase you for a while.** ### **Step 3: The Final
-  Exit** Once you’ve established the vacuum, it’s time to **go full hermit**:
-
-- **Delete their number from your contacts.** - **Block them on all platforms.** - **Change your number, if
-  necessary.** - **Stop engaging with their content.** ### **Step 4: The Aftermath** After you’ve ghosted
-  someone, **do not look back**:
-
-- **Do not check their social media.** - **Do not reply to their messages.** - **Do not let guilt creep in.** Instead, **replace them with something new**. The goal is not to **mourn the loss**—it’s to **celebrate your
-
-freedom**.
-
----
-
-## **VI. The Maven’s Post-Script: Or, How to Become a Relational Ghost** The Ghosting Protocol is not about **being cruel**; it’s about **being strategic**. It’s about **taking back
-
-control** of your life, your energy, and your peace of mind. In *Miserable: How to Fail at Life*, we explore
-the **dark arts of relational engineering**—how to **curate a life of perpetual dissatisfaction**, how to **weaponize your absence**, and how to **turn your own erasure into an art form**. But remember: **ghosting is
-not the end**. It’s just the beginning.
-
-> *"The most powerful form of love is the love you never give. The most powerful form of hate is the hate you
-> never show."*
+- **Ignore their calls for a day.** - **Reply to their messages with minimal effort.** - **Unfollow them on** social media, but don’t block them yet.** - **Let them chase you for a while.** ### **Step 3: The Final
+  Exit** Once you’ve established the vacuum, it’s time to **go full hermit**:** - **Delete their number from
+  your contacts.** - **Block them on all platforms.** - **Change your number, if** necessary.** - **Stop
+  engaging with their content.** ### **Step 4: The Aftermath** After you’ve ghosted** someone, **do not look back**:** - **Do not check their social media.** - **Do not reply to their messages.** - **Do not let guilt creep in.** Instead, **replace them with something new**. The goal is not to **mourn the
+loss**—it’s to **celebrate your** freedom**.** ---** ## **VI. The Maven’s Post-Script: Or, How to Become a Relational Ghost** The Ghosting Protocol is not about **being cruel**; it’s about **being strategic**. It’s about **taking back** control** of your life, your energy, and your peace of mind. In *Miserable: How to Fail at Life*, we explore** the **dark arts of relational engineering**—how to **curate a life of perpetual dissatisfaction**, how to **weaponize your absence**, and how to **turn your own erasure into an art form**. But remember: **ghosting is
+not the end**. It’s just the beginning.** > *"The most powerful form of love is the love you never give. The
+most powerful form of hate is the hate you** > never show."*
 
 ---
 
@@ -287,10 +233,7 @@ wondering. And when they ask, *"Where did you go?"* you can simply say: *"I was 
 
 ::: {.callout-tip}
 
-### **Analytic Note: The Ghosting Economy** In the *Resident’s Log (Sep 3)*, a subject documented the **"Ghosting Economy"**—how ghosting has become a **currency of modern relationships**. The more you ghost, the more you **train others to respect your
+### **Analytic Note: The Ghosting Economy** In the *Resident’s Log (Sep 3)*, a subject documented the **"Ghosting Economy"**—how ghosting has become a **currency of modern relationships**. The more you ghost, the more you **train others to respect your** boundaries**. The more you disappear, the more you **become a legend**. But beware: **the ghost who stays gone
 
-boundaries**. The more you disappear, the more you **become a legend**. But beware: **the ghost who stays gone
-is the ghost who wins.** :::
-
---- **Next up in *Miserable*: *The Art of the Bitter End*—how to turn every relationship into a masterpiece of
-regret.**
+is the ghost who wins.**:::** --- **Next up in *Miserable*: *The Art of the Bitter End*—how to turn every
+relationship into a masterpiece of regret.**

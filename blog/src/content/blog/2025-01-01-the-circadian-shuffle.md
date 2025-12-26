@@ -89,7 +89,7 @@ patient and the therapist who *definitely* has a conflict of interest. This is n
 
 Seven if you’re feeling particularly masochistic. Let your body wake up to the sound of its own alarm
 screaming like a banshee. Let your cortisol levels spike like a thermometer in a sauna. This is not laziness.
-This is *strategic self- sabotage*. You are not starting your day. You are *starting your day late, because
+This is *strategic self-sabotage*. You are not starting your day. You are *starting your day late, because
 you enjoy the feeling of being behind*.
 
 ---
@@ -170,12 +170,8 @@ once, *don’t panic* when you fall asleep before 1 AM. Because that’s when th
 
 ---
 
-::: {.callout-tip} **Analytical Note**: The Circadian Shuffle is not just a personal failing—it is a *cultural one*. It is the
-
-result of a society that has *normalized* exhaustion, that has *rewarded* self-sabotage, and that has
-*forgotten* what it means to *rest*. The Reverse Maven’s mission is to remind us that we are not machines. We
-are not *supposed* to run on caffeine and despair. And we are *definitely* not supposed to enjoy it.
-
+::: {.callout-tip}
+**Analytical Note**: The Circadian Shuffle is not just a personal failing—it is a *cultural one*. It is the result of a society that has *normalized* exhaustion, that has *rewarded* self-sabotage, and that has *forgotten* what it means to *rest*. The Reverse Maven’s mission is to remind us that we are not machines. We are not *supposed* to run on caffeine and despair. And we are *definitely* not supposed to enjoy it.
 :::
 
 ---

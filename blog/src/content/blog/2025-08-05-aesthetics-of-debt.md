@@ -77,11 +77,8 @@ always **one paycheck away from disaster**.
 
 not a sign of wealth—it is a sign of **financial discipline (or stupidity)**.
 
-- **The Productivity Myth**: The more debt you "manage," the more **productive** you feel. This is the **low-
-
-margin, high-volume life**—where you are always **busy being broke**.
-
-> *"A credit score is not a measure of your worth. It is a measure of your *obedience*."*
+- **The Productivity Myth**: The more debt you "manage," the more **productive** you feel. This is the **low-** margin, high-volume life**—where you are always **busy being broke**.** > *"A credit score is not a
+  measure of your worth. It is a measure of your *obedience*."*
 
 ### **3. The Subscription Bleed: The Art of the Slow Drain** In *The Subscription Trap*, we explored how modern life is a **cacophony of micro-payments**. But the Maven
 

@@ -1,8 +1,8 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Footer from '../components/Footer.astro';
-import Header from '../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import BaseHead from "../components/BaseHead.astro";
+import Footer from "../components/Footer.astro";
+import Header from "../components/Header.astro";
+import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
 ---
 
 <!doctype html>
@@ -14,7 +14,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 				display: flex;
 				flex-direction: column;
 				align-items: center;
-				padding: 10rem 0 6rem;
+				padding: 4rem 0 6rem;
 				text-align: center;
 			}
 			.banner-wrap {
@@ -49,12 +49,17 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 		<main>
 			<section class="hero reveal">
 				<div class="banner-wrap">
-					<img src="/banner.png" alt="Dark moody banner showing urban decay and atmospheric malaise" class="banner-img glass-img" />
+					<img
+						src="/banner.png"
+						alt="Dark moody banner showing urban decay and atmospheric malaise"
+						class="banner-img glass-img"
+					/>
 				</div>
 				<span class="badge">How to Fail at Life</span>
-				<h1>The Official Archive of<br/>The Reverse Maven.</h1>
+				<h1>The Official Archive of<br />The Reverse Maven.</h1>
 				<p class="tagline">
-					A 174-page curriculum in expertly curated self-sabotage. From the "Anti-Mentors" to the "Somatic Shadow."
+					A 174-page curriculum in expertly curated self-sabotage.
+					From the "Anti-Mentors" to the "Somatic Shadow."
 				</p>
 				<a href="/blog" class="btn btn-primary">Enter the Void</a>
 			</section>
@@ -63,12 +68,19 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 				<div class="card">
 					<span class="badge">The Masterwork</span>
 					<h3>174 Pages of Failure</h3>
-					<p>A Deluxe Volume including "The Anti-Mentors," "The Monolith" cover, and the "Wall of Text." No hope, just typography.</p>
+					<p>
+						A Deluxe Volume including "The Anti-Mentors," "The
+						Monolith" cover, and the "Wall of Text." No hope, just
+						typography.
+					</p>
 				</div>
 				<div class="card">
 					<span class="badge">The Persona</span>
 					<h3>The Reverse Maven</h3>
-					<p>Counter-programming to Gladwell, Taleb, and Clear. Because success is just a lack of imagination.</p>
+					<p>
+						Counter-programming to Gladwell, Taleb, and Clear.
+						Because success is just a lack of imagination.
+					</p>
 				</div>
 			</div>
 		</main>

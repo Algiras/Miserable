@@ -14,5 +14,8 @@
     "@astrojs/sitemap": "^3.6.0",
     "astro": "latest",
     "sharp": "^0.34.3"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.47.0"
   }
 }

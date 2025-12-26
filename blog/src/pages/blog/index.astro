@@ -1,12 +1,12 @@
 ---
-import { getCollection } from 'astro:content';
-import BaseHead from '../../components/BaseHead.astro';
-import Footer from '../../components/Footer.astro';
-import FormattedDate from '../../components/FormattedDate.astro';
-import Header from '../../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
+import { getCollection } from "astro:content";
+import BaseHead from "../../components/BaseHead.astro";
+import Footer from "../../components/Footer.astro";
+import FormattedDate from "../../components/FormattedDate.astro";
+import Header from "../../components/Header.astro";
+import { SITE_DESCRIPTION, SITE_TITLE } from "../../consts";
 
-const posts = (await getCollection('blog')).sort(
+const posts = (await getCollection("blog")).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 ---
@@ -14,7 +14,10 @@ const posts = (await getCollection('blog')).sort(
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={`Entries | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<BaseHead
+			title={`Entries | ${SITE_TITLE}`}
+			description={SITE_DESCRIPTION}
+		/>
 		<style>
 			.archive-header {
 				margin-bottom: 6rem;
@@ -58,7 +61,10 @@ const posts = (await getCollection('blog')).sort(
 				letter-spacing: 0.1em;
 			}
 			@media (max-width: 768px) {
-				.archive-grid { grid-template-columns: 1fr; gap: 2rem; }
+				.archive-grid {
+					grid-template-columns: 1fr;
+					gap: 2rem;
+				}
 			}
 		</style>
 	</head>
@@ -68,23 +74,38 @@ const posts = (await getCollection('blog')).sort(
 			<section class="archive-header reveal">
 				<span class="badge">Exhibits 01–53</span>
 				<h2>The 2025 Archive</h2>
-				<p>A chronological timeline of decline. Entries are preserved in their original state of malaise.</p>
+				<p>
+					A chronological timeline of decline. Entries are preserved
+					in their original state of malaise.
+				</p>
 			</section>
 
 			<ul class="archive-grid">
 				{
 					posts.map((post, index) => (
-						<li class="archive-item reveal" style={`animation-delay: ${index * 0.05}s`}>
+						<li
+							class="archive-item reveal"
+							style={`animation-delay: ${index * 0.05}s`}
+						>
 							<a href={`/blog/${post.id}/`} class="post-card">
 								<div class="card" style="height: 100%">
-									{post.data.heroImage && (
-										<img src={post.data.heroImage} alt={`Visual representation for ${post.data.title}`} class="post-img glass-img" />
-									)}
+									<img
+										src={
+											post.data.heroImage ||
+											"/default-hero.png"
+										}
+										alt={`Visual representation for ${post.data.title}`}
+										class="post-img glass-img"
+									/>
 									<div class="post-info">
 										<div class="post-date">
-											<FormattedDate date={post.data.pubDate} />
+											<FormattedDate
+												date={post.data.pubDate}
+											/>
 										</div>
-										<h3 class="post-title">{post.data.title}</h3>
+										<h3 class="post-title">
+											{post.data.title}
+										</h3>
 										<p>{post.data.description}</p>
 									</div>
 								</div>

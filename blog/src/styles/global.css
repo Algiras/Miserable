@@ -16,12 +16,12 @@
 	--gray-dark: #78716c;
 	/* Stone 500 */
 
-	/* Accent: Clinical/Pathological Rust */
-	--accent: #ea580c;
-	/* Orange 600 */
-	--accent-hover: #c2410c;
-	/* Orange 700 */
-	--accent-soft: rgba(234, 88, 12, 0.1);
+	/* Accent: Soft Sage (gentle on eyes) */
+	--accent: #a3a692;
+	/* Muted sage green */
+	--accent-hover: #8a8d7a;
+	/* Darker sage */
+	--accent-soft: rgba(163, 166, 146, 0.12);
 
 	--border: rgba(231, 229, 228, 0.1);
 	--border-hover: rgba(231, 229, 228, 0.2);
@@ -164,8 +164,8 @@ a:hover {
 .card:hover {
 	border-color: var(--accent);
 	transform: translateY(-2px);
-	box-shadow: 0 4px 20px -5px rgba(234, 88, 12, 0.15);
-	/* Orange glow */
+	box-shadow: 0 4px 20px -5px rgba(163, 166, 146, 0.15);
+	/* Sage glow */
 }
 
 .badge {

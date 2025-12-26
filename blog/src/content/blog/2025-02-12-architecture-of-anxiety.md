@@ -2,7 +2,6 @@
 title: "Architecture Of Anxiety"
 description: "Maven Research #13: Architecture Of Anxiety."
 pubDate: "2025-02-12"
-heroImage: "/banner.png"
 ---
 
 ---

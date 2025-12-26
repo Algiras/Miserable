@@ -2,7 +2,6 @@
 title: "Ghosting Protocol"
 description: "Maven Research #69: Ghosting Protocol."
 pubDate: "2025-08-26"
-heroImage: "/banner.png"
 ---
 
 ---

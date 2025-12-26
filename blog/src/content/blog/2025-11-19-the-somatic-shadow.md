@@ -2,7 +2,6 @@
 title: "The Somatic Shadow"
 description: "Maven Research #94: The Somatic Shadow."
 pubDate: "2025-11-19"
-heroImage: "/banner.png"
 ---
 
 ---

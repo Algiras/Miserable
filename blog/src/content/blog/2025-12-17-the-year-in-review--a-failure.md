@@ -2,7 +2,6 @@
 title: "The Year In Review  A Failure"
 description: "Maven Research #101: The Year In Review  A Failure."
 pubDate: "2025-12-17"
-heroImage: "/banner.png"
 ---
 
 ---

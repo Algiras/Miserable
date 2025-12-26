@@ -2,7 +2,6 @@
 title: "The Fragility Of Comfort"
 description: "Maven Research #42: The Fragility Of Comfort."
 pubDate: "2025-05-20"
-heroImage: "/banner.png"
 ---
 
 ---

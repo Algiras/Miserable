@@ -2,7 +2,6 @@
 title: "The Small Talk Trench"
 description: "Maven Research #81: The Small Talk Trench."
 pubDate: "2025-10-07"
-heroImage: "/banner.png"
 ---
 
 ---

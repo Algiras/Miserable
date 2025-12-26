@@ -2,7 +2,6 @@
 title: "Gig Economy Of The Soul"
 description: "Maven Research #57: Gig Economy Of The Soul."
 pubDate: "2025-07-15"
-heroImage: "/banner.png"
 ---
 
 ---

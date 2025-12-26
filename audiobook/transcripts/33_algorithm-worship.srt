@@ -1,0 +1,344 @@
+1
+00:00:00,000 --> 00:00:04,940
+The pigeons in B.F. Skinner's box didn't just peck at a lever, they became fanatics.
+
+2
+00:00:05,759 --> 00:00:13,140
+Starved for certainty, they threw themselves against the glass, desperate for the next crumb, even when the food never came.
+
+3
+00:00:13,619 --> 00:00:17,239
+Skinner called it intermittent reinforcement. We call it addiction.
+
+4
+00:00:18,280 --> 00:00:19,940
+And now, we're the pigeons.
+
+5
+00:00:20,660 --> 00:00:24,239
+The lever is the for-you feed. The box is the screen.
+
+6
+00:00:24,600 --> 00:00:28,440
+The crumbs, whatever the algorithm decides to drop into our laps at random.
+
+7
+00:00:28,440 --> 00:00:31,480
+We don't even know what we're hungry for anymore. The machine does.
+
+8
+00:00:32,500 --> 00:00:36,880
+This is algorithm worship, the slow surrender of your mind to a recommendation engine.
+
+9
+00:00:37,560 --> 00:00:40,780
+You don't choose what you watch. You don't choose what you think.
+
+10
+00:00:41,299 --> 00:00:46,060
+The algorithm does. And it doesn't care about truth. It cares about you.
+
+11
+00:00:47,140 --> 00:00:49,039
+It starts with serendipity's death.
+
+12
+00:00:50,039 --> 00:00:57,100
+Remember the old days, when you stumbled upon a song on the radio or a book in a dusty corner of a shop, and it changed you?
+
+13
+00:00:57,100 --> 00:01:00,939
+That was chance. Now, chance is a crime.
+
+14
+00:01:01,640 --> 00:01:04,760
+Algorithms don't want you to discover anything unexpected.
+
+15
+00:01:05,359 --> 00:01:13,680
+They want you trapped in a filter, bubble a digital womb, where every thought, every image, every outrage is tailored to confirm what you already believe.
+
+16
+00:01:14,939 --> 00:01:17,780
+Personalization? No. Intellectual claustrophobia.
+
+17
+00:01:18,680 --> 00:01:21,180
+You're not being served. You're being optimized.
+
+18
+00:01:21,180 --> 00:01:23,219
+Here's how it works.
+
+19
+00:01:24,140 --> 00:01:25,560
+First, you stop searching.
+
+20
+00:01:26,120 --> 00:01:28,180
+You never type a single word into that bar.
+
+21
+00:01:28,680 --> 00:01:31,620
+You just click the first thing the algorithm shoves in front of you.
+
+22
+00:01:32,340 --> 00:01:33,060
+Let it decide.
+
+23
+00:01:33,780 --> 00:01:36,200
+Before long, you forget what you actually like.
+
+24
+00:01:36,599 --> 00:01:38,239
+The machine knows better than you do.
+
+25
+00:01:39,120 --> 00:01:40,780
+Then, you feed the outrage.
+
+26
+00:01:41,040 --> 00:01:43,420
+The angrier you get, the more it gives you.
+
+27
+00:01:43,680 --> 00:01:45,120
+Every like, every share,
+
+28
+00:01:45,400 --> 00:01:46,620
+every furious reply.
+
+29
+00:01:46,959 --> 00:01:47,819
+It's all data.
+
+30
+00:01:47,819 --> 00:01:49,900
+The algorithm doesn't want you to think.
+
+31
+00:01:50,260 --> 00:01:51,239
+It wants you reacting.
+
+32
+00:01:51,640 --> 00:01:52,400
+You're not questioning.
+
+33
+00:01:52,799 --> 00:01:54,719
+And if you're reacting, you're not questioning.
+
+34
+00:01:55,159 --> 00:01:55,799
+You're not growing.
+
+35
+00:01:56,299 --> 00:01:59,180
+You're just another data point in a never-ending loop of conflict.
+
+36
+00:02:00,140 --> 00:02:01,680
+Next, you purge the dissent.
+
+37
+00:02:02,459 --> 00:02:03,760
+If someone disagrees with you,
+
+38
+00:02:04,079 --> 00:02:05,840
+mute, block, delete.
+
+39
+00:02:06,260 --> 00:02:07,640
+Your feed becomes a mirror,
+
+40
+00:02:08,020 --> 00:02:09,979
+reflecting only your own voice polished,
+
+41
+00:02:10,319 --> 00:02:11,460
+amplified, safe.
+
+42
+00:02:11,840 --> 00:02:13,219
+No contradictions allowed.
+
+43
+00:02:13,539 --> 00:02:14,319
+No surprises.
+
+44
+00:02:14,319 --> 00:02:16,419
+Just the echo of your own certainty,
+
+45
+00:02:16,740 --> 00:02:18,060
+growing louder with every like.
+
+46
+00:02:19,020 --> 00:02:20,819
+Finally, you worship the metrics.
+
+47
+00:02:21,500 --> 00:02:23,259
+If the algorithm doesn't boost your post,
+
+48
+00:02:23,659 --> 00:02:24,520
+that's not a glitch.
+
+49
+00:02:24,919 --> 00:02:25,620
+That's failure.
+
+50
+00:02:26,280 --> 00:02:28,400
+Your worth isn't measured in ideas anymore.
+
+51
+00:02:28,840 --> 00:02:30,219
+It's measured in engagement,
+
+52
+00:02:30,879 --> 00:02:31,620
+in shares,
+
+53
+00:02:32,020 --> 00:02:33,000
+in time spent.
+
+54
+00:02:33,759 --> 00:02:35,319
+The numbers are your God.
+
+55
+00:02:35,699 --> 00:02:36,479
+And the algorithm?
+
+56
+00:02:37,000 --> 00:02:38,020
+It's the high priest,
+
+57
+00:02:38,240 --> 00:02:39,340
+whispering in your ear,
+
+58
+00:02:39,800 --> 00:02:40,620
+you're not enough.
+
+59
+00:02:40,960 --> 00:02:42,020
+But we can fix that.
+
+60
+00:02:42,020 --> 00:02:44,240
+And what do you get in the end?
+
+61
+00:02:45,240 --> 00:02:46,680
+An optimized consumer.
+
+62
+00:02:47,719 --> 00:02:48,259
+You're predictable.
+
+63
+00:02:48,699 --> 00:02:49,340
+You're engaged.
+
+64
+00:02:49,840 --> 00:02:50,680
+You're profitable.
+
+65
+00:02:51,599 --> 00:02:53,080
+You're a ghost in the machine
+
+66
+00:02:53,080 --> 00:02:55,000
+known better than you know yourself,
+
+67
+00:02:55,439 --> 00:02:57,340
+fed just enough to keep you pecking,
+
+68
+00:02:57,860 --> 00:02:59,379
+just enough to keep you there.
+
+69
+00:03:00,419 --> 00:03:02,120
+The algorithm doesn't want you to be happy.
+
+70
+00:03:02,360 --> 00:03:03,439
+It wants you to be present,
+
+71
+00:03:03,800 --> 00:03:04,599
+always present,
+
+72
+00:03:05,000 --> 00:03:05,680
+always clicking,
+
+73
+00:03:06,319 --> 00:03:08,319
+always waiting for the next drop of dopamine,
+
+74
+00:03:08,520 --> 00:03:10,039
+the next scrap of validation.
+
+75
+00:03:10,039 --> 00:03:12,259
+Doomscrolling for breakfast,
+
+76
+00:03:12,639 --> 00:03:12,979
+lunch,
+
+77
+00:03:13,379 --> 00:03:13,620
+dinner.
+
+78
+00:03:13,960 --> 00:03:15,400
+The algorithm sets your baseline
+
+79
+00:03:15,400 --> 00:03:16,659
+before you even wake up.
+
+80
+00:03:16,960 --> 00:03:17,340
+Addicted,
+
+81
+00:03:17,500 --> 00:03:18,560
+that's the default now.
+
+82
+00:03:19,539 --> 00:03:20,780
+The pigeons in Skinner's box
+
+83
+00:03:20,780 --> 00:03:21,800
+never learn to stop.
+
+84
+00:03:22,240 --> 00:03:22,979
+Neither will you.
+
+85
+00:03:23,960 --> 00:03:25,979
+Because the lever doesn't just give you food.
+
+86
+00:03:26,960 --> 00:03:28,479
+It gives you nothing at all.
+

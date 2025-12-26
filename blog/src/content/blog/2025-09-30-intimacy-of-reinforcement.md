@@ -2,7 +2,6 @@
 title: "Intimacy Of Reinforcement"
 description: "Maven Research #79: Intimacy Of Reinforcement."
 pubDate: "2025-09-30"
-heroImage: "/banner.png"
 ---
 
 ---

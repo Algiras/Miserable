@@ -2,7 +2,6 @@
 title: "Peak End Engineering"
 description: "Maven Research #43: Peak End Engineering."
 pubDate: "2025-05-27"
-heroImage: "/banner.png"
 ---
 
 ---

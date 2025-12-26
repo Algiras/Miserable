@@ -2,7 +2,6 @@
 title: "The Subscription Trap"
 description: "Maven Research #67: The Subscription Trap."
 pubDate: "2025-08-19"
-heroImage: "/banner.png"
 ---
 
 ---

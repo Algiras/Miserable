@@ -2,7 +2,6 @@
 title: "Archive Of Incomplete Projects"
 description: "Maven Research #91: Archive Of Incomplete Projects."
 pubDate: "2025-11-12"
-heroImage: "/banner.png"
 ---
 
 ---

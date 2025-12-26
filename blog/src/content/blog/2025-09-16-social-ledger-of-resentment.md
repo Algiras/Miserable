@@ -2,7 +2,6 @@
 title: "Social Ledger Of Resentment"
 description: "Maven Research #75: Social Ledger Of Resentment."
 pubDate: "2025-09-16"
-heroImage: "/banner.png"
 ---
 
 ---

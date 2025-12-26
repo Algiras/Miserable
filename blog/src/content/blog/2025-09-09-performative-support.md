@@ -2,7 +2,6 @@
 title: "Performative Support"
 description: "Maven Research #74: Performative Support."
 pubDate: "2025-09-09"
-heroImage: "/banner.png"
 ---
 
 ---

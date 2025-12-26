@@ -2,7 +2,6 @@
 title: "Aesthetics Of Debt"
 description: "Maven Research #63: Aesthetics Of Debt."
 pubDate: "2025-08-05"
-heroImage: "/banner.png"
 ---
 
 ---

@@ -2,7 +2,6 @@
 title: "Cognitive Dissonance As Fuel"
 description: "Maven Research #51: Cognitive Dissonance As Fuel."
 pubDate: "2025-06-24"
-heroImage: "/banner.png"
 ---
 
 ---

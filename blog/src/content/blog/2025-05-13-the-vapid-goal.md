@@ -2,7 +2,6 @@
 title: "The Vapid Goal"
 description: "Maven Research #39: The Vapid Goal."
 pubDate: "2025-05-13"
-heroImage: "/banner.png"
 ---
 
 ---

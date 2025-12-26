@@ -2,7 +2,6 @@
 title: "The Cult Of The Problem"
 description: "Maven Research #50: The Cult Of The Problem."
 pubDate: "2025-06-17"
-heroImage: "/banner.png"
 ---
 
 ---

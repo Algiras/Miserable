@@ -2,7 +2,6 @@
 title: "Library Of Unread Books"
 description: "Maven Research #87: Library Of Unread Books."
 pubDate: "2025-10-29"
-heroImage: "/banner.png"
 ---
 
 ---

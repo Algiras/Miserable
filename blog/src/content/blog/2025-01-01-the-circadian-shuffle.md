@@ -2,7 +2,6 @@
 title: "The Circadian Shuffle"
 description: "Maven Research #1: The Circadian Shuffle."
 pubDate: "2025-01-01"
-heroImage: "/banner.png"
 ---
 
 ---

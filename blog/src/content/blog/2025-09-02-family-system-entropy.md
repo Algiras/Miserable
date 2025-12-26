@@ -2,7 +2,6 @@
 title: "Family System Entropy"
 description: "Maven Research #72: Family System Entropy."
 pubDate: "2025-09-02"
-heroImage: "/banner.png"
 ---
 
 ---

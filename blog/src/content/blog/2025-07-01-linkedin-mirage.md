@@ -2,7 +2,6 @@
 title: "Linkedin Mirage"
 description: "Maven Research #54: Linkedin Mirage."
 pubDate: "2025-07-01"
-heroImage: "/banner.png"
 ---
 
 ---

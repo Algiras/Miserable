@@ -2,7 +2,6 @@
 title: "Sedentary Mastery"
 description: "Maven Research #5: Sedentary Mastery."
 pubDate: "2025-01-15"
-heroImage: "/banner.png"
 ---
 
 ---

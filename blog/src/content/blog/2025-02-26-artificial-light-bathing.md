@@ -2,7 +2,6 @@
 title: "Artificial Light Bathing"
 description: "Maven Research #17: Artificial Light Bathing."
 pubDate: "2025-02-26"
-heroImage: "/banner.png"
 ---
 
 ---

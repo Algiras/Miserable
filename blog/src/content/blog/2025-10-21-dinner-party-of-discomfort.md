@@ -2,7 +2,6 @@
 title: "Dinner Party Of Discomfort"
 description: "Maven Research #85: Dinner Party Of Discomfort."
 pubDate: "2025-10-21"
-heroImage: "/banner.png"
 ---
 
 ---

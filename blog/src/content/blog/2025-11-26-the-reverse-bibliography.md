@@ -2,7 +2,6 @@
 title: "The Reverse Bibliography"
 description: "Maven Research #95: The Reverse Bibliography."
 pubDate: "2025-11-26"
-heroImage: "/banner.png"
 ---
 
 ---

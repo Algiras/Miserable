@@ -2,7 +2,6 @@
 title: "Chronotypes Of Chaos"
 description: "Maven Research #15: Chronotypes Of Chaos."
 pubDate: "2025-02-19"
-heroImage: "/banner.png"
 ---
 
 ---

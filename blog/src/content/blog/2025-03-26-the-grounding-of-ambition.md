@@ -2,7 +2,6 @@
 title: "The Grounding Of Ambition"
 description: "Maven Research #25: The Grounding Of Ambition."
 pubDate: "2025-03-26"
-heroImage: "/banner.png"
 ---
 
 ---

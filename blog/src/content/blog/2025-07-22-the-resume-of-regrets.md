@@ -2,7 +2,6 @@
 title: "The Resume Of Regrets"
 description: "Maven Research #60: The Resume Of Regrets."
 pubDate: "2025-07-22"
-heroImage: "/banner.png"
 ---
 
 ---

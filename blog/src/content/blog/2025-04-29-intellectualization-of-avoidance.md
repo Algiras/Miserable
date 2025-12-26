@@ -2,7 +2,6 @@
 title: "Intellectualization Of Avoidance"
 description: "Maven Research #36: Intellectualization Of Avoidance."
 pubDate: "2025-04-29"
-heroImage: "/banner.png"
 ---
 
 ---

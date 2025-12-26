@@ -2,7 +2,6 @@
 title: "Cult Of The Productivity Hack"
 description: "Maven Research #90: Cult Of The Productivity Hack."
 pubDate: "2025-11-05"
-heroImage: "/banner.png"
 ---
 
 ---

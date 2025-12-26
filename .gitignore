@@ -19,3 +19,21 @@ Thumbs.db
 .venv/
 env/
 venv/
+
+# MCP & Config
+audiobook/mcp.json
+**/.mcp/
+
+# Python
+**/__pycache__/
+**/*.pyc
+
+# Caches
+audiobook/cache/
+blog/cache/
+blog_cache/
+mcp_data/
+mcp_host_install/
+
+# Tmp
+blog/test-ga-syntax.js

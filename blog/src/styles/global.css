@@ -1,53 +1,67 @@
 :root {
-	/* Default Theme: Deep Void */
-	--bg: #050505;
-	--surface: #0a0a0c;
-	--surface-raised: #111114;
-	--white: #f8fafc;
-	--off-white: #e2e8f0;
-	--gray: #94a3b8;
-	--gray-dark: #334155;
-	--accent: #8b5cf6;
-	--accent-soft: rgba(139, 92, 246, 0.1);
-	--border: rgba(255, 255, 255, 0.06);
-	--border-hover: rgba(255, 255, 255, 0.12);
-	--shadow: 0 4px 20px -5px rgba(0, 0, 0, 0.5);
-	--glass: rgba(5, 5, 5, 0.8);
+	/* Theme: The Warm Void (Reverse Maven Default) */
+	--bg: #0c0a09;
+	/* Warm black (Stone 950) */
+	--surface: #1c1917;
+	/* Stone 900 */
+	--surface-raised: #292524;
+	/* Stone 800 */
 
-	--font-display: "Atkinson", system-ui, -apple-system, serif;
-	--font-text: "Atkinson", system-ui, -apple-system, sans-serif;
-	--transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+	--white: #e7e5e4;
+	/* Stone 200: Soft, old-paper white */
+	--off-white: #d6d3d1;
+	/* Stone 300 */
+	--gray: #a8a29e;
+	/* Stone 400 */
+	--gray-dark: #78716c;
+	/* Stone 500 */
+
+	/* Accent: Clinical/Pathological Rust */
+	--accent: #ea580c;
+	/* Orange 600 */
+	--accent-hover: #c2410c;
+	/* Orange 700 */
+	--accent-soft: rgba(234, 88, 12, 0.1);
+
+	--border: rgba(231, 229, 228, 0.1);
+	--border-hover: rgba(231, 229, 228, 0.2);
+	--shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.5);
+	/* Flat, minimal shadow */
+
+	--font-display: "Merriweather", serif;
+	/* Academic, literary */
+	--font-text: "Inter", system-ui, sans-serif;
+	/* Clean, clinical */
+
+	--radius-sm: 2px;
+	--radius-md: 4px;
+	--radius-lg: 8px;
+	/* Sharper corners */
+
+	--transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+	--glass: rgba(12, 10, 9, 0.9);
 }
 
-[data-theme="dim"] {
-	--bg: #1e1e24;
-	--surface: #27272f;
-	--surface-raised: #2f2f38;
-	--white: #f1f5f9;
-	--off-white: #cbd5e1;
-	--gray: #64748b;
-	--gray-dark: #475569;
-	--accent: #a78bfa;
-	--accent-soft: rgba(167, 139, 250, 0.1);
-	--border: rgba(255, 255, 255, 0.08);
-	--border-hover: rgba(255, 255, 255, 0.15);
-	--glass: rgba(30, 30, 36, 0.8);
-}
-
+/* Optional Light Mode: The Clinic */
 [data-theme="mist"] {
-	--bg: #f8fafc;
+	--bg: #f5f5f4;
+	/* Stone 50 */
 	--surface: #ffffff;
-	--surface-raised: #f1f5f9;
-	--white: #0f172a;
-	--off-white: #334155;
-	--gray: #64748b;
-	--gray-dark: #94a3b8;
-	--accent: #6366f1;
-	--accent-soft: rgba(99, 102, 241, 0.1);
-	--border: rgba(15, 23, 42, 0.08);
-	--border-hover: rgba(15, 23, 42, 0.15);
-	--shadow: 0 4px 20px -5px rgba(15, 23, 42, 0.1);
-	--glass: rgba(248, 250, 252, 0.8);
+	--surface-raised: #e7e5e4;
+
+	--white: #0c0a09;
+	/* Inverted for text */
+	--off-white: #1c1917;
+	--gray: #57534e;
+	--gray-dark: #a8a29e;
+
+	--accent: #0f766e;
+	/* Teal 700 - Clinical contrast */
+	--accent-soft: rgba(15, 118, 110, 0.1);
+
+	--border: rgba(12, 10, 9, 0.1);
+	--border-hover: rgba(12, 10, 9, 0.2);
+	--glass: rgba(245, 245, 244, 0.9);
 }
 
 * {
@@ -60,68 +74,98 @@ body {
 	background-color: var(--bg);
 	color: var(--off-white);
 	margin: 0;
-	line-height: 1.6;
+	line-height: 1.7;
+	/* Slightly looser for readability */
+	letter-spacing: -0.01em;
 	transition: background-color 0.4s ease, color 0.4s ease;
 }
 
 main {
-	width: 1000px;
+	width: 900px;
+	/* Slightly narrower reading column */
 	max-width: 100%;
 	margin: 0 auto;
-	padding: 5rem 1.5rem;
+	padding: 6rem 1.5rem;
 }
 
+/* Typography */
 h1,
 h2,
 h3,
-h4 {
+h4,
+h5,
+h6 {
 	font-family: var(--font-display);
 	color: var(--white);
-	line-height: 1.1;
-	letter-spacing: -0.04em;
+	line-height: 1.2;
+	margin-bottom: 1rem;
 	font-weight: 700;
 }
 
 h1 {
-	font-size: clamp(3rem, 10vw, 6rem);
+	font-size: clamp(2.5rem, 8vw, 4.5rem);
+	letter-spacing: -0.03em;
 	margin-bottom: 2rem;
 }
 
 h2 {
-	font-size: clamp(2rem, 6vw, 3.5rem);
-	margin-bottom: 1.5rem;
+	font-size: clamp(1.75rem, 5vw, 2.5rem);
+	letter-spacing: -0.02em;
+	margin-top: 3rem;
+	padding-bottom: 0.5rem;
+	border-bottom: 1px solid var(--border);
 }
 
 h3 {
-	font-size: 1.75rem;
+	font-size: 1.5rem;
+	margin-top: 2rem;
+	font-style: italic;
+	/* Literary touch */
+}
+
+p {
+	margin-bottom: 1.5rem;
+	font-size: 1.1rem;
+	max-width: 70ch;
+	/* Optimal reading length */
 }
 
 a {
 	color: inherit;
 	text-decoration: none;
 	transition: var(--transition);
+	border-bottom: 1px solid transparent;
 }
 
-p {
-	font-size: 1.125rem;
-	margin-bottom: 1.5rem;
-	max-width: 65ch;
+a:hover {
+	color: var(--accent);
 }
 
-/* UI Components */
+/* Content Links */
+.prose a {
+	color: var(--accent);
+	border-bottom: 1px solid var(--accent-soft);
+}
+
+.prose a:hover {
+	border-bottom-color: var(--accent);
+	background: var(--accent-soft);
+}
+
+/* Components */
 .card {
 	background: var(--surface);
 	border: 1px solid var(--border);
-	border-radius: 1.5rem;
+	border-radius: var(--radius-md);
 	padding: 2rem;
 	transition: var(--transition);
-	box-shadow: var(--shadow);
 }
 
 .card:hover {
-	transform: translateY(-8px);
-	border-color: var(--border-hover);
-	background: var(--surface-raised);
+	border-color: var(--accent);
+	transform: translateY(-2px);
+	box-shadow: 0 4px 20px -5px rgba(234, 88, 12, 0.15);
+	/* Orange glow */
 }
 
 .badge {
@@ -129,12 +173,40 @@ p {
 	padding: 0.25rem 0.75rem;
 	background: var(--accent-soft);
 	color: var(--accent);
-	border-radius: 99px;
-	font-size: 0.75rem;
+	border: 1px solid var(--accent);
+	border-radius: var(--radius-sm);
+	/* Sharp badge */
+	font-family: var(--font-text);
+	font-size: 0.7rem;
 	font-weight: 700;
 	text-transform: uppercase;
-	letter-spacing: 0.05em;
+	letter-spacing: 0.1em;
 	margin-bottom: 1rem;
+}
+
+.btn {
+	display: inline-block;
+	padding: 0.75rem 2rem;
+	border-radius: var(--radius-sm);
+	/* Sharp button */
+	font-family: var(--font-text);
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	transition: var(--transition);
+	border: 1px solid transparent;
+}
+
+.btn-primary {
+	background: var(--white);
+	color: var(--bg);
+	border-color: var(--white);
+}
+
+.btn-primary:hover {
+	background: var(--accent);
+	border-color: var(--accent);
+	color: white;
 }
 
 /* Navigation */
@@ -143,7 +215,7 @@ header {
 	top: 0;
 	z-index: 100;
 	background: var(--glass);
-	backdrop-filter: blur(12px);
+	backdrop-filter: blur(8px);
 	border-bottom: 1px solid var(--border);
 }
 
@@ -153,82 +225,107 @@ nav {
 	justify-content: space-between;
 	max-width: 1200px;
 	margin: 0 auto;
-	padding: 1.25rem 1.5rem;
+	padding: 1rem 1.5rem;
 }
 
 .logo {
 	font-family: var(--font-display);
-	font-size: 1.5rem;
-	font-weight: 800;
+	font-size: 1.25rem;
+	font-weight: 900;
+	letter-spacing: -0.02em;
 	color: var(--white);
 }
 
 .nav-links {
 	display: flex;
-	align-items: center;
 	gap: 2rem;
+	align-items: center;
 }
 
 .nav-links a {
-	font-size: 0.875rem;
-	font-weight: 600;
+	font-family: var(--font-text);
+	font-size: 0.85rem;
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
 	color: var(--gray);
 }
 
 .nav-links a:hover,
 .nav-links a.active {
-	color: var(--white);
+	color: var(--accent);
 }
 
 /* Footer */
 footer {
 	text-align: center;
-	padding: 8rem 1.5rem 4rem;
+	padding: 6rem 1.5rem 4rem;
 	color: var(--gray-dark);
-	font-size: 0.875rem;
+	font-family: var(--font-text);
+	font-size: 0.8rem;
 	border-top: 1px solid var(--border);
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
 }
 
 /* Utils */
 .glass-img {
 	border: 1px solid var(--border);
-	box-shadow: var(--shadow);
-	border-radius: 1.5rem;
+	border-radius: var(--radius-sm);
+	filter: grayscale(0.2) contrast(1.1);
+	/* Cinematic look */
+	transition: filter 0.5s ease;
 }
 
-.btn {
-	display: inline-block;
-	padding: 0.875rem 2rem;
-	border-radius: 99px;
-	font-weight: 700;
-	transition: var(--transition);
+.glass-img:hover {
+	filter: grayscale(0) contrast(1);
 }
 
-.btn-primary {
-	background: var(--white);
-	color: var(--bg);
+/* Markdown Content Styling */
+.prose blockquote {
+	border-left: 2px solid var(--accent);
+	padding-left: 1.5rem;
+	margin: 2rem 0;
+	font-style: italic;
+	color: var(--gray);
+	font-family: var(--font-display);
 }
 
-.btn-primary:hover {
-	transform: scale(1.05);
-	background: var(--accent);
-	color: white;
+.prose ul,
+.prose ol {
+	margin-bottom: 1.5rem;
+	padding-left: 1.5rem;
 }
 
-@media (max-width: 768px) {
-	h1 {
-		font-size: 3rem;
-	}
+.prose li {
+	margin-bottom: 0.5rem;
+}
 
-	.nav-links {
-		gap: 1rem;
-	}
+.prose strong {
+	color: var(--white);
+	font-weight: 600;
+}
 
-	.nav-links a {
-		display: none;
-	}
+/* Callouts (Astro adaptation) */
+.callout-tip {
+	background: var(--surface-raised);
+	border: 1px solid var(--border);
+	border-left: 4px solid var(--accent);
+	padding: 1.5rem;
+	margin: 2rem 0;
+	border-radius: var(--radius-sm);
+}
 
-	.nav-links a:last-child {
-		display: block;
-	}
+.callout-tip h3 {
+	color: var(--accent);
+	margin-top: 0;
+	font-size: 1rem;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+}
+
+hr {
+	border: 0;
+	border-top: 1px solid var(--border);
+	margin: 4rem 0;
 }

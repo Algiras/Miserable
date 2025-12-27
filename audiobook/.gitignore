@@ -21,3 +21,6 @@ reference_audio/*.mp3
 !output/.gitkeep
 !cache/.gitkeep
 !preprocessed/.gitkeep
+
+# Allow SRT transcripts
+!transcripts/*.srt

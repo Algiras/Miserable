@@ -35,5 +35,12 @@ blog_cache/
 mcp_data/
 mcp_host_install/
 
+# Blog backups and test directories
+blog/backup_originals/
+blog/simplified/
+
+# Generated reports
+proofread_report.txt
+
 # Tmp
 blog/test-ga-syntax.js

@@ -18,6 +18,11 @@ from chatterbox.tts_turbo import ChatterboxTurboTTS
 sys.path.insert(0, str(Path(__file__).parent))
 from tts_helpers import generate_long_audio
 
+# Delayed import for module starting with number
+def generate_captions(*args, **kwargs):
+    video_mod = __import__('4_generate_youtube_video')
+    return video_mod.generate_captions(*args, **kwargs)
+
 AUDIOBOOK_DIR = Path(__file__).parent
 
 # Audiobook intro text
@@ -144,7 +149,7 @@ def run_stage(stage_number, script_name, description, extra_args=None):
     return stream_subprocess(cmd, description)
 
 def generate_intro_outro(reference_audio=None):
-    """Generate intro and outro with optional voice cloning."""
+    """Generate intro and outro with optional voice cloning and captions."""
     print("\n" + "="*60)
     print("STAGE 0: Audiobook Introduction & Outro")
     print("="*60 + "\n")
@@ -171,7 +176,7 @@ def generate_intro_outro(reference_audio=None):
         output_dir.mkdir(parents=True, exist_ok=True)
         
         # Generate intro
-        intro_path = output_dir / "00_intro.wav"
+        intro_path = output_dir / "000_intro.wav"
         if not intro_path.exists():
             print(f"\n🎵 Generating introduction...")
             generate_long_audio(
@@ -184,6 +189,11 @@ def generate_intro_outro(reference_audio=None):
             )
         else:
             print(f"✓ Intro already exists: {intro_path.name}")
+        
+        # Generate intro captions
+        intro_srt = AUDIOBOOK_DIR / "transcripts" / "000_intro.srt"
+        if not intro_srt.exists():
+            generate_captions(intro_path, intro_srt)
         
         # Generate outro
         outro_path = output_dir / "99_outro.wav"
@@ -199,6 +209,11 @@ def generate_intro_outro(reference_audio=None):
             )
         else:
             print(f"✓ Outro already exists: {outro_path.name}")
+        
+        # Generate outro captions
+        outro_srt = AUDIOBOOK_DIR / "transcripts" / "99_outro.srt"
+        if not outro_srt.exists():
+            generate_captions(outro_path, outro_srt)
         
         print("\n✅ Intro & Outro complete!")
         # Clean up model to free VRAM for subprocesses

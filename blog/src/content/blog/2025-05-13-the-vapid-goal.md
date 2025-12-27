@@ -1,12 +1,9 @@
 ---
-
 title: "The Vapid Goal"
 description: "Maven Research #39: The Vapid Goal."
 pubDate: "2025-05-13"
 heroImage: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # VAPID Goals
 
@@ -39,7 +36,3 @@ To ensure your goals lead to maximum dissatisfaction, they must follow these fiv
 The final step in a VAPID goal is to announce it publicly. Tell your friends, your family, and your social media followers. This ensures that when you inevitably abandon the goal (after spending $2,000 on unicycling gear), you add the heavy garnish of public shame to your private failure.
 
 > "A goal you can achieve is a goal that can't haunt you. Aim for the impossible, and live in the shadow of your own ambition."
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

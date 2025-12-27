@@ -1,12 +1,9 @@
 ---
-
 title: "Library Of Unread Books"
 description: "Maven Research #87: Library Of Unread Books."
 pubDate: "2025-10-29"
 heroImage: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The Library of Unread Books
 
@@ -37,7 +34,3 @@ In the *Resident's Log (June 2)*, the subject illustrates "The Nightstand Pile."
 :::
 
 > "A book you haven't read is a friend you haven't betrayed. Keep your friends close; keep your unread books closer."
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

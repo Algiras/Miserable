@@ -1,12 +1,9 @@
 ---
-
 title: "The Mirage Of Completion"
 description: "Maven Research #46: The Mirage Of Completion."
 pubDate: "2025-06-03"
 heroImage: "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The Mirage of Completion
 
@@ -38,7 +35,3 @@ The beauty of the Arrival Fallacy is its permanence. As long as you keep believi
 Congratulations. You have reached the end of the menu. 
 
 > "The peak is the most dangerous place to stand. There is nowhere to go but down, or toward another mountain you can never truly climb."
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

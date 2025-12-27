@@ -1,12 +1,9 @@
 ---
-
 title: "Artificial Light Bathing"
 description: "Maven Research #17: Artificial Light Bathing."
 pubDate: "2025-02-26"
 heroImage: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # Artificial Light as a Spiritual Guide
 
@@ -37,7 +34,3 @@ In the *Resident's Log (March 19)*, we see the subject bath in "Artificial Light
 :::
 
 > "The sun is for those who have a destination. The light-bulb is for those who have a screen."
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

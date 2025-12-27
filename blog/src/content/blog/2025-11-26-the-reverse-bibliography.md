@@ -1,12 +1,9 @@
 ---
-
 title: "The Reverse Bibliography"
 description: "Maven Research #95: The Reverse Bibliography."
 pubDate: "2025-11-26"
 heroImage: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # Reverse Bibliography (Annotated)
 
@@ -55,7 +52,3 @@ This bibliography lists the foundational texts and "evidence" used by the Revers
 
 **Zeigarnik, B. (1927). "On Finished and Unfinished Tasks." *Psychologische Forschung*.**
 > *Maven's Note*: Zeigarnik identified the mental "itch" of the unfinished. We use it to ensure your mind is never at rest. See *The Gig Economy of the Soul*.
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

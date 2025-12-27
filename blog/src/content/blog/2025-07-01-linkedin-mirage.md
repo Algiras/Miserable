@@ -1,12 +1,9 @@
 ---
-
 title: "Linkedin Mirage"
 description: "Maven Research #54: Linkedin Mirage."
 pubDate: "2025-07-01"
 heroImage: "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The LinkedIn Mirage
 
@@ -37,7 +34,3 @@ In the *Resident's Log (Oct 14)*, we see the subject engaging in the "Mirage." W
 :::
 
 > "A resume is a list of things you have done. A LinkedIn profile is a list of things you wish people believed you had done."
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

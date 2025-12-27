@@ -1,12 +1,9 @@
 ---
-
 title: "Digital Nomadic Nihilism"
 description: "Maven Research #61: Digital Nomadic Nihilism."
 pubDate: "2025-07-29"
 heroImage: "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # Digital Nomadic Nihilism
 
@@ -37,7 +34,3 @@ In the *Resident's Log (April 1)*, the subject illustrates "Worrying About Next 
 :::
 
 > "Travel is a fool's paradise. If we are not at home when we travel, we will not be at home when we return."
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

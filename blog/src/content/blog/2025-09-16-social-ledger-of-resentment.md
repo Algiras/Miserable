@@ -1,12 +1,9 @@
 ---
-
 title: "Social Ledger Of Resentment"
 description: "Maven Research #75: Social Ledger Of Resentment."
 pubDate: "2025-09-16"
 heroImage: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The Social Ledger of Resentment
 
@@ -34,7 +31,3 @@ To ensure your social circle is a source of maximum friction, you must adopt **R
 The goal of the Social Ledger is to achieve absolute "Social Autonomy." By the time your accounting is complete, you will owe no one, and no one will owe you. You will have successfully liquidated all your social capital. You will be the undisputed king of a village of zero.
 
 > "A debt forgiven is a connection maintained. A debt recorded is a bridge ready to be burned."
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

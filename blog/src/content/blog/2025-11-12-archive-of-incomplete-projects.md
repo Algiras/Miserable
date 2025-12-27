@@ -1,12 +1,9 @@
 ---
-
 title: "Archive Of Incomplete Projects"
 description: "Maven Research #91: Archive Of Incomplete Projects."
 pubDate: "2025-11-12"
 heroImage: "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The Archive of Incomplete Projects
 
@@ -37,7 +34,3 @@ In the *Resident's Log (July 22)*, the subject illustrates "The Half-Painted Wal
 :::
 
 > "Completion is the death of potential. Stay alive. Stay unfinished."
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

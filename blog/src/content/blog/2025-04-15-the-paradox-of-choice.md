@@ -1,12 +1,9 @@
 ---
-
 title: "The Paradox Of Choice"
 description: "Maven Research #32: The Paradox Of Choice."
 pubDate: "2025-04-15"
 heroImage: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The Paradox of Choice as a Prison
 
@@ -41,7 +38,3 @@ In the *Resident's Log (June 10)*, the subject illustrates the "Maximizer's Exha
 :::
 
 > "Freedom is not the ability to choose; it is the courage to be satisfied with what you chose. Avoid this courage at all costs."
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

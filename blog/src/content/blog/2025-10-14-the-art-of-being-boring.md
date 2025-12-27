@@ -1,12 +1,9 @@
 ---
-
 title: "The Art Of Being Boring"
 description: "Maven Research #84: The Art Of Being Boring."
 pubDate: "2025-10-14"
 heroImage: "https://images.unsplash.com/photo-1494972308805-463bc619d34e?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The Art of Being Boring
 
@@ -37,7 +34,3 @@ In the *Resident's Log (Oct 2)*, the subject illustrates "The Habit of 'Fine'." 
 :::
 
 > "The most interesting thing you can do is to become so boring that even you forget you are there."
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

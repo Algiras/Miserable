@@ -1,12 +1,9 @@
 ---
-
 title: "Negative Filtering"
 description: "Maven Research #37: Negative Filtering."
 pubDate: "2025-05-06"
 heroImage: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # Negative Filtering
 
@@ -40,7 +37,3 @@ To achieve a consistent state of self-sabotage, you must refine your filter usin
 The goal of Negative Filtering is not to be a pessimist. A pessimist expects the worst. A Negative Filterer *finds* the worst, even when it’s hidden in a pile of gold. It is a refined, academic pursuit of the dark side.
 
 > "To see the world in a grain of sand is poetry. To see the apocalypse in a cold cup of tea is mastery."
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

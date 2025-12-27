@@ -1,12 +1,9 @@
 ---
-
 title: "The Glossary Of Gaps"
 description: "Maven Research #100: The Glossary Of Gaps."
 pubDate: "2025-12-10"
 heroImage: "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # Glossary of Gaps
 
@@ -43,7 +40,3 @@ Welcome to another installment in our ongoing series: *Miserable: How to Fail at
 **VAPID Goals**: Objectives that are Vague, Amorphous, Perpetual, Impractical, and Distant. The ultimate tools of procrastination.
 
 **Zeigarnik Loop**: The mental state of carrying fifty unfinished tasks to ensure a baseline of chronic anxiety.
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

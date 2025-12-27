@@ -1,12 +1,9 @@
 ---
-
 title: "Corporate Gaslighting"
 description: "Maven Research #55: Corporate Gaslighting."
 pubDate: "2025-07-08"
 heroImage: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # Corporate Gaslighting
 
@@ -39,7 +36,3 @@ In the *Resident's Log (Oct 14)*, the subject illustrates the "Architecture of s
 :::
 
 > "The prisoner who loves his cell does not need a guard. The employee who loves the 'culture' does not need a raise."
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

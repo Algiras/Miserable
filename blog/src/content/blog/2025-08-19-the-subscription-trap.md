@@ -1,12 +1,9 @@
 ---
-
 title: "The Subscription Trap"
 description: "Maven Research #67: The Subscription Trap."
 pubDate: "2025-08-19"
 heroImage: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The Subscription Trap
 
@@ -37,7 +34,3 @@ In the *Resident's Log (Jan 15)*, the subject illustrates "The Unused Gym Member
 :::
 
 > "A subscription is a promise you made to a version of yourself that no longer exists. Keep the promise."
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

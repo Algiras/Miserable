@@ -1,12 +1,9 @@
 ---
-
 title: "Aesthetics Of Debt"
 description: "Maven Research #63: Aesthetics Of Debt."
 pubDate: "2025-08-05"
 heroImage: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The Aesthetics of Debt
 
@@ -37,7 +34,3 @@ In the *Resident's Log (Nov 5)*, the subject illustrates "The Retail Therapy Loo
 :::
 
 > "A man with no debt has too much room in his mind. Fill the room with interest rates."
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

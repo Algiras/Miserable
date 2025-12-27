@@ -1,12 +1,9 @@
 ---
-
 title: "The Antifragility Of Ego"
 description: "Maven Research #29: The Antifragility Of Ego."
 pubDate: "2025-04-08"
 heroImage: "https://images.unsplash.com/photo-1493836512294-502baa1986e2?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The Antifragility of Ego
 
@@ -37,7 +34,3 @@ In the *Resident's Log (May 6)*, the subject illustrates the "Iatrogenics" of th
 :::
 
 > "A tree that does not bend in the wind shall eventually become firewood. Be the firewood."
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

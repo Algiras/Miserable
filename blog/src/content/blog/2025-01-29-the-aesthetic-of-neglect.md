@@ -1,12 +1,9 @@
 ---
-
 title: "The Aesthetic Of Neglect"
 description: "Maven Research #10: The Aesthetic Of Neglect."
 pubDate: "2025-01-29"
 heroImage: "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The Anesthetic of Neglect
 
@@ -39,7 +36,3 @@ In the *Resident's Log (Feb 19)*, we see a crucial application of neglect: "Igno
 :::
 
 > "Soap is the enemy of the solitary soul. Scents and stains are the only true friends of the Maven."
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

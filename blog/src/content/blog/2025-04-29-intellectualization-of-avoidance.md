@@ -1,12 +1,9 @@
 ---
-
 title: "Intellectualization Of Avoidance"
 description: "Maven Research #36: Intellectualization Of Avoidance."
 pubDate: "2025-04-29"
 heroImage: "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The Intellectualization of Avoidance
 
@@ -37,7 +34,3 @@ In the *Resident's Log (April 8)*, the subject illustrates "The Art of Overthink
 :::
 
 > "Philosophy is the art of building a bridge across a river and then deciding to never cross it. Build the bridge."
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

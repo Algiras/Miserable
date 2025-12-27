@@ -1,12 +1,9 @@
 ---
-
 title: "The Broken Window Theory Of Despair"
 description: "Maven Research #77: The Broken Window Theory Of Despair."
 pubDate: "2025-09-23"
 heroImage: "https://images.unsplash.com/photo-1518005020951-eccb494ad742?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The Broken Window Theory of Despair
 
@@ -38,7 +35,3 @@ The beauty of the Broken Window Theory is that it is self-sustaining. Once enoug
 You will be left alone in the ruins of your own making—a master of the social ghost town.
 
 > "A single unrepaired slight is the beginning of a magnificent silence."
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

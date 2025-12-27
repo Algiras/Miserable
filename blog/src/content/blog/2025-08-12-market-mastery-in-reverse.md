@@ -1,12 +1,9 @@
 ---
-
 title: "Market Mastery In Reverse"
 description: "Maven Research #66: Market Mastery In Reverse."
 pubDate: "2025-08-12"
 heroImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&h=900&fit=crop"
 ---
-
-Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # Market Mastery in Reverse
 
@@ -37,7 +34,3 @@ In the *Resident's Log (Feb 12)*, the subject illustrates "The 3 AM Portfolio Ch
 :::
 
 > "The market can stay irrational longer than you can stay solvent. The Maven can stay miserable longer than the market can stay irrational."
-
----
-
-*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

@@ -1,0 +1,628 @@
+1
+00:00:00,000 --> 00:00:02,919
+Chapter, Case Study Archive, Expanded Edition.
+
+2
+00:00:03,879 --> 00:00:08,060
+This archive contains the summary data for the first 53 weeks of the experiment.
+
+3
+00:00:08,640 --> 00:00:13,919
+Each entry represents a single data point in the asterisk observational evidence for the MAVEN.
+
+4
+00:00:16,649 --> 00:00:19,550
+Phase 1, The Foundation, Weeks 1-13.
+
+5
+00:00:20,570 --> 00:00:22,609
+Ask Week 1, The Desert Strategy.
+
+6
+00:00:23,329 --> 00:00:26,929
+The subject began by reducing water intake and increasing caffeine.
+
+7
+00:00:27,469 --> 00:00:30,629
+Result, elevated heart rate and decreased sleep quality.
+
+8
+00:00:30,629 --> 00:00:33,109
+Theoretical Validation, The Kitchen.
+
+9
+00:00:34,170 --> 00:00:36,890
+Asterisk Week 2, Sleep Inertia Engineering.
+
+10
+00:00:37,549 --> 00:00:40,329
+Usage of multiple alarms set for 9-minute intervals.
+
+11
+00:00:40,829 --> 00:00:44,590
+The subject reported a state of groggy despair until 2 p.m. daily.
+
+12
+00:00:45,530 --> 00:00:47,770
+Week 3, The Aesthetic of Neglect.
+
+13
+00:00:48,549 --> 00:00:50,509
+Initial withdrawal from grooming rituals.
+
+14
+00:00:50,969 --> 00:00:54,990
+The subject reported a 15% increase in social distancing from colleagues.
+
+15
+00:00:55,929 --> 00:00:57,509
+Week 4, Nutritional Nihilism.
+
+16
+00:00:58,149 --> 00:01:00,549
+Exclusive consumption of processed foods.
+
+17
+00:01:00,630 --> 00:01:03,049
+Reported mood, heavy and gray.
+
+18
+00:01:04,170 --> 00:01:06,670
+Esch Kweip 5, The Sedentary Mastery.
+
+19
+00:01:07,329 --> 00:01:10,230
+A 72-hour period of zero physical movement.
+
+20
+00:01:10,930 --> 00:01:13,769
+The subject reported a Kouche calcification effect.
+
+21
+00:01:14,750 --> 00:01:17,370
+Week 6, The Soundscape of Agitation.
+
+22
+00:01:18,109 --> 00:01:20,370
+Exposure to constant low-level white noise.
+
+23
+00:01:20,750 --> 00:01:21,950
+Increased cortisol noted.
+
+24
+00:01:21,950 --> 00:01:25,409
+Isk Wevin, The Architecture of Anxiety.
+
+25
+00:01:25,489 --> 00:01:27,709
+Workspace orientation shift.
+
+26
+00:01:27,989 --> 00:01:30,930
+Decreased prospect resulted in chronic scanning behavior.
+
+27
+00:01:31,930 --> 00:01:34,010
+Week 8, The Anesthetic of Hygiene.
+
+28
+00:01:34,750 --> 00:01:36,310
+Skipped three consecutive showers.
+
+29
+00:01:36,870 --> 00:01:38,969
+The subject's own scent served as a shield.
+
+30
+00:01:39,489 --> 00:01:42,030
+Week 9, Chronotypes of Chaos.
+
+31
+00:01:42,030 --> 00:01:44,590
+Total abandonment of sleep schedule.
+
+32
+00:01:44,909 --> 00:01:47,030
+Biological noon reached at 11 p.m.
+
+33
+00:01:47,989 --> 00:01:48,390
+Esk.
+
+34
+00:01:48,730 --> 00:01:50,530
+Week 10, The Texture of Discomfort.
+
+35
+00:01:51,310 --> 00:01:53,469
+Replacement of office chair with a wooden stool.
+
+36
+00:01:53,930 --> 00:01:55,230
+Tactile static maximize.
+
+37
+00:01:56,409 --> 00:01:58,969
+Esk Week 11, Artificial Light Exposure.
+
+38
+00:01:59,670 --> 00:02:01,390
+100% LED lighting.
+
+39
+00:02:01,769 --> 00:02:03,870
+No exposure to the sun for seven days.
+
+40
+00:02:04,890 --> 00:02:07,370
+Esk Week 12, The Desert Strategy.
+
+41
+00:02:07,769 --> 00:02:08,330
+Refined.
+
+42
+00:02:09,030 --> 00:02:11,530
+Intentional dehydration during a high-stakes meeting.
+
+43
+00:02:11,849 --> 00:02:13,250
+Peak and crying achieved.
+
+44
+00:02:14,250 --> 00:02:16,509
+Esk Week 13, Phase 1 Audit.
+
+45
+00:02:17,129 --> 00:02:18,330
+The foundation is set.
+
+46
+00:02:18,330 --> 00:02:20,650
+The body is effectively dismantled.
+
+47
+00:02:22,870 --> 00:02:24,150
+Phase 2, The Ingredients.
+
+48
+00:02:24,250 --> 00:02:25,389
+Weeks 1426.
+
+49
+00:02:26,490 --> 00:02:28,810
+Esk Week 14, The Mechanics of Imbalance.
+
+50
+00:02:28,810 --> 00:02:32,990
+The subject began misinterpreting neutral emails as slights.
+
+51
+00:02:33,949 --> 00:02:36,250
+Week 15, Numerical Obsession.
+
+52
+00:02:37,009 --> 00:02:40,110
+Tracking steps versus emails in a recursive loop.
+
+53
+00:02:41,030 --> 00:02:43,669
+Esk Week 16, The Fragility of Comfort.
+
+54
+00:02:44,370 --> 00:02:47,389
+A single broken pen resulted in a four-hour dead hour.
+
+55
+00:02:48,569 --> 00:02:51,129
+Esk Week 17, Peak-End Engineering.
+
+56
+00:02:51,870 --> 00:02:55,509
+Ending every day by reading one-star reviews of their favorite hobbies.
+
+57
+00:02:56,569 --> 00:02:58,789
+Esk Week 18, The Paradox of Vida.
+
+58
+00:02:58,810 --> 00:02:59,229
+Ending every day by reading one-star reviews of choice.
+
+59
+00:02:59,889 --> 00:03:02,710
+Spent the entire week researching a new toothbrush.
+
+60
+00:03:03,710 --> 00:03:06,490
+Esk Week 19, The Antifragility of Ego.
+
+61
+00:03:07,250 --> 00:03:09,389
+Refusing to admit a minor error to a friend.
+
+62
+00:03:09,789 --> 00:03:11,330
+Friendship effectively suspended.
+
+63
+00:03:12,330 --> 00:03:14,270
+Esk Week 20, Sunk Cost Personality.
+
+64
+00:03:15,189 --> 00:03:18,449
+Spending 10 hours retelling a story of failure from 2008.
+
+65
+00:03:18,949 --> 00:03:21,990
+Esk Week 21, Intellectualization of Avoidance.
+
+66
+00:03:22,689 --> 00:03:24,810
+Reading Kierkegaard to avoid doing the dishes.
+
+67
+00:03:25,870 --> 00:03:27,949
+Esk Week 22, Negative Filtering.
+
+68
+00:03:27,949 --> 00:03:31,349
+Found the flaw in every positive interaction this week.
+
+69
+00:03:32,250 --> 00:03:34,150
+Esk Week 23, Vapid Goals.
+
+70
+00:03:34,330 --> 00:03:34,810
+Esk!
+
+71
+00:03:35,409 --> 00:03:37,949
+Setting a goal to become a better person eventually.
+
+72
+00:03:38,949 --> 00:03:41,590
+Esk Week 24, The Atrogenics of the Self.
+
+73
+00:03:42,189 --> 00:03:45,710
+Attempted a self-care routine that resulted in a panic attack.
+
+74
+00:03:46,569 --> 00:03:49,009
+Esk Week 25, The Narrative Lock-In.
+
+75
+00:03:49,009 --> 00:03:52,830
+Deciding that they are the type of person who is always late.
+
+76
+00:03:53,310 --> 00:03:56,370
+Esk Week 26, Phase 2, Audit.
+
+77
+00:03:56,870 --> 00:03:58,870
+The mind is now sufficiently fragile.
+
+78
+00:03:59,229 --> 00:04:00,270
+The seasoning is complete.
+
+79
+00:04:02,960 --> 00:04:04,939
+Esk Week 23, The Main Courses.
+
+80
+00:04:04,939 --> 00:04:06,960
+Esk Weeks 27 to 39.
+
+81
+00:04:07,460 --> 00:04:10,699
+Esk Week 27, Masterclass of the Dead Hour.
+
+82
+00:04:10,699 --> 00:04:12,699
+Esk Week 24, Zero Emails Answered.
+
+83
+00:04:13,000 --> 00:04:14,599
+450 Memes Viewed.
+
+84
+00:04:15,099 --> 00:04:17,339
+Esk Week 28, Corporate Gaslighting.
+
+85
+00:04:17,560 --> 00:04:17,899
+Esk Week 28, Corporate Gaslighting.
+
+86
+00:04:17,899 --> 00:04:21,519
+Esk Week 28, Convincing a co-worker that the meeting wasn't actually cancelled.
+
+87
+00:04:22,600 --> 00:04:25,259
+Esk Week 29, The LinkedIn Mirage.
+
+88
+00:04:25,980 --> 00:04:29,240
+Esk Week 29, The LinkedIn Mirage.
+
+89
+00:04:29,300 --> 00:04:32,420
+Esk Week 30, Digital Nomadic Nihilism.
+
+90
+00:04:32,879 --> 00:04:34,480
+Esk Week 30, Digital Nomadic Nihilism.
+
+91
+00:04:34,480 --> 00:04:39,399
+Esk Week 31, The Gig Economy of the Soul.
+
+92
+00:04:40,100 --> 00:04:43,600
+Attempting three side hustles simultaneously and failing all.
+
+93
+00:04:44,740 --> 00:04:47,600
+Esk Weeks, Week 32, Resume of Regrets.
+
+94
+00:04:48,300 --> 00:04:50,920
+Updating account with all the jobs they didn't get.
+
+95
+00:04:51,860 --> 00:04:53,800
+Esk Week 33, The Aesthetics of Debt.
+
+96
+00:04:54,519 --> 00:04:56,939
+Buying a designer bag with the last of the red money.
+
+97
+00:04:58,000 --> 00:05:00,660
+Esk Week 34, The Subscription Trap.
+
+98
+00:05:01,019 --> 00:05:04,600
+A $250 bill for services not used in six months.
+
+99
+00:05:05,920 --> 00:05:08,860
+Esk Week 35, The Broken Window Theory, asked.
+
+100
+00:05:09,399 --> 00:05:12,019
+Letting a coffee stain stay on the wall for a week.
+
+101
+00:05:13,019 --> 00:05:15,639
+The ledger was meticulous every unreturned favor.
+
+102
+00:05:16,060 --> 00:05:17,779
+Every kindness left unacknowledged.
+
+103
+00:05:18,120 --> 00:05:22,459
+Every debt of obligation that had quietly accumulated like dust in the corners of a room.
+
+104
+00:05:22,819 --> 00:05:26,920
+Week by week, the subject had turned their own life into an accounting exercise.
+
+105
+00:05:27,379 --> 00:05:29,939
+Assigning dollar values to the weight of human connection.
+
+106
+00:05:29,939 --> 00:05:31,420
+A ride to the hospital?
+
+107
+00:05:31,899 --> 00:05:35,160
+Not a gesture of support, but a transaction unfulfilled.
+
+108
+00:05:35,560 --> 00:05:37,160
+Fourteen unanswered texts?
+
+109
+00:05:37,560 --> 00:05:40,620
+Not a failure of communication, but a deliberate protocol.
+
+110
+00:05:41,180 --> 00:05:45,800
+The numbers grew, the balances tilted, and the ledger itself became a kind of altar.
+
+111
+00:05:46,779 --> 00:05:48,199
+Then came the digital wasteland.
+
+112
+00:05:48,199 --> 00:05:50,879
+Minimalism was not a philosophy.
+
+113
+00:05:51,420 --> 00:05:52,120
+It was a ritual.
+
+114
+00:05:52,699 --> 00:05:58,620
+One hundred videos consumed, each one promising liberation, each one delivering only more noise.
+
+115
+00:05:59,040 --> 00:06:01,600
+The infinite scroll became a kind of meditation.
+
+116
+00:06:02,279 --> 00:06:04,500
+Six hours dissolved into nothingness.
+
+117
+00:06:04,959 --> 00:06:08,100
+Time itself unraveling like thread between fingers.
+
+118
+00:06:08,759 --> 00:06:10,120
+Loneliness was not a feeling.
+
+119
+00:06:10,720 --> 00:06:11,459
+It was a setting.
+
+120
+00:06:11,819 --> 00:06:15,480
+A Discord server with 4,000 ghosts, all silent, all waiting.
+
+121
+00:06:15,480 --> 00:06:17,519
+The home was stripped bare.
+
+122
+00:06:18,060 --> 00:06:19,579
+Gray panels replacing color.
+
+123
+00:06:20,180 --> 00:06:21,399
+Art replaced by absence.
+
+124
+00:06:22,240 --> 00:06:24,240
+White rice for 21 meals in a row.
+
+125
+00:06:24,879 --> 00:06:25,439
+Not hunger.
+
+126
+00:06:26,019 --> 00:06:26,620
+Not discipline.
+
+127
+00:06:27,480 --> 00:06:29,180
+Just the slow erosion of taste.
+
+128
+00:06:30,100 --> 00:06:31,300
+The body followed suit.
+
+129
+00:06:31,680 --> 00:06:34,060
+A hotel room for a week no place to settle.
+
+130
+00:06:34,560 --> 00:06:35,540
+No walls to remember.
+
+131
+00:06:36,379 --> 00:06:38,540
+The neck ached from staring down.
+
+132
+00:06:38,920 --> 00:06:41,019
+The spine curved under the weight of a screen.
+
+133
+00:06:41,839 --> 00:06:42,980
+Sleep without a pillow.
+
+134
+00:06:43,740 --> 00:06:44,459
+Not rest.
+
+135
+00:06:44,459 --> 00:06:45,720
+Not punishment.
+
+136
+00:06:46,279 --> 00:06:47,939
+Just another texture of discomfort.
+
+137
+00:06:48,439 --> 00:06:49,620
+Another layer of numbness.
+
+138
+00:06:50,600 --> 00:06:52,480
+The library of unread books grew.
+
+139
+00:06:53,339 --> 00:06:55,720
+Freud's complete works sat unopened.
+
+140
+00:06:56,180 --> 00:06:59,339
+Their spines gathering dust like the subject's own intentions.
+
+141
+00:06:59,959 --> 00:07:01,420
+Productivity became a cult.
+
+142
+00:07:01,839 --> 00:07:04,000
+Twenty hours spent color-coding a to-do list.
+
+143
+00:07:04,420 --> 00:07:05,939
+Each task a false promise.
+
+144
+00:07:06,420 --> 00:07:07,839
+Each category a cage.
+
+145
+00:07:09,120 --> 00:07:10,459
+A podcast was started.
+
+146
+00:07:10,699 --> 00:07:13,439
+Three seconds of silence recorded, then abandoned.
+
+147
+00:07:13,439 --> 00:07:17,879
+A dinner party of cold soup, because warmth was too much effort.
+
+148
+00:07:18,199 --> 00:07:20,259
+And finally, the art of being boring.
+
+149
+00:07:20,480 --> 00:07:25,060
+An entire week spent talking about the weather, as if the sky were the only thing left worth
+
+150
+00:07:25,060 --> 00:07:25,459
+mentioning.
+
+151
+00:07:26,120 --> 00:07:27,259
+The loop was perfect.
+
+152
+00:07:27,259 --> 00:07:28,259
+No progress.
+
+153
+00:07:28,500 --> 00:07:29,100
+No regression.
+
+154
+00:07:29,540 --> 00:07:32,759
+Just the quiet hum of stagnation validated at last.
+
+155
+00:07:33,699 --> 00:07:34,079
+Stable.
+
+156
+00:07:34,620 --> 00:07:35,120
+Predictable.
+
+157
+00:07:35,540 --> 00:07:35,939
+Miserable.
+

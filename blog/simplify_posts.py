@@ -11,7 +11,7 @@ from pathlib import Path
 
 # Configuration
 BASE_DIR = Path(__file__).parent / "src/content/blog"
-OLLAMA_MODEL = "qwen2.5:7b"  # Larger model for better rewriting
+OLLAMA_MODEL = "ministral:8b"  # Better model for preserving quality
 BACKUP_DIR = Path(__file__).parent / "backup_originals"
 
 def check_ollama():
@@ -33,8 +33,8 @@ def check_ollama():
 
 def simplify_blog_post(filepath: Path) -> str:
     """
-    Use LLM to rewrite blog post with only headings and paragraphs.
-    Removes all bold, italic, quotes, lists, callouts, etc.
+    Use LLM to clean up problematic markdown formatting while preserving writing quality.
+    Only removes elements that cause transcription issues.
     """
     
     with open(filepath, 'r', encoding='utf-8') as f:
@@ -53,26 +53,30 @@ def simplify_blog_post(filepath: Path) -> str:
         frontmatter = ""
         body = content
     
-    prompt = f"""Rewrite this blog post to use ONLY headings and paragraphs. Remove ALL formatting:
+    prompt = f"""You are a professional editor preparing this blog post for audio transcription. Your goal is to preserve the sophisticated writing style and intellectual depth while removing ONLY the markdown formatting that causes transcription problems.
 
-RULES:
-1. Keep headings (# ## ### ####) - preserve the hierarchy
-2. Convert everything else to plain paragraphs
-3. NO bold (**text**)
-4. NO italic (*text*)
-5. NO quotes (> text)
-6. NO lists (- or 1.)
-7. NO callouts (::: blocks)
-8. NO code blocks
-9. NO tables
-10. Convert list items into flowing paragraph text
-11. Convert quotes into regular paragraphs
-12. Preserve the meaning and content, just simplify the formatting
+PRESERVE:
+- All sophisticated vocabulary and complex sentence structures
+- The author's unique voice and tone
+- Philosophical depth and nuanced arguments
+- Headings (# ## ### ####) - keep the hierarchy exactly as is
+- Paragraph breaks and flow
+
+REMOVE/CONVERT (these cause transcription issues):
+- Bold (**text**) → convert to regular text, preserving the emphasis through word choice
+- Italic (*text*) → convert to regular text
+- Block quotes (> text) → convert to regular paragraphs, you may add "As noted:" or similar if needed for context
+- Lists (- or 1.) → convert to flowing paragraphs with transition words
+- Callout blocks (::: blocks) → convert to regular paragraphs, preserving the warning/note content
+- Code blocks → convert to regular text if present
+- Tables → convert to prose if present
+
+CRITICAL: Do NOT dumb down the writing. Do NOT simplify vocabulary. Do NOT shorten sentences unnecessarily. The goal is ONLY to remove markdown formatting, not to change the writing quality.
 
 Original content:
 {body}
 
-Rewritten (headings and paragraphs only):"""
+Cleaned version (preserve sophistication, remove only formatting):"""
 
     try:
         result = subprocess.run(

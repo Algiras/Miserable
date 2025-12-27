@@ -1,9 +1,12 @@
 ---
+
 title: "Sedentary Mastery"
 description: "Maven Research #5: Sedentary Mastery."
 pubDate: "2025-01-15"
 heroImage: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1600&h=900&fit=crop"
 ---
+
+Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # Sedentary Mastery
 
@@ -28,3 +31,7 @@ Research into sedentary behavior suggests that prolonged inactivity is not merel
 Notice how your joints begin to feel like rusty hinges. Revel in the sensation of your body becoming a heavy, uncooperative anchor. You aren't just sitting; you are *becoming* the furniture. 
 
 > "Movement is a distraction from the void. Silence the body to hear the soul's despair."
+
+---
+
+*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

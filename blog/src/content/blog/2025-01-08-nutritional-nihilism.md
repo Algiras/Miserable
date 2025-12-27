@@ -1,9 +1,12 @@
 ---
+
 title: "Nutritional Nihilism"
 description: "Maven Research #3: Nutritional Nihilism."
 pubDate: "2025-01-08"
 heroImage: "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=1600&h=900&fit=crop"
 ---
+
+Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # Nutritional Nihilism
 
@@ -27,3 +30,7 @@ They say "you are what you eat." If you want to be a miserable, lethargic heap o
 By consistently feeding yourself food that makes you feel physically ill, you eliminate the possibility of a "good mood." It’s hard to feel optimistic when your gut is actively protesting your life choices. 
 
 *Chef's Tip: If you feel a "craving" for an apple, quickly watch a 15-second ad for a double-bacon cheeseburger to recalibrate your desires.*
+
+---
+
+*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

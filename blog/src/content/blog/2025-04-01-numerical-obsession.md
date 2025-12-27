@@ -1,9 +1,12 @@
 ---
+
 title: "Numerical Obsession"
 description: "Maven Research #27: Numerical Obsession."
 pubDate: "2025-04-01"
 heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1600&h=900&fit=crop"
 ---
+
+Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # Numerical Obsession
 
@@ -34,3 +37,7 @@ In the *Resident's Log (July 29)*, we see this theory in action. The subject des
 :::
 
 > "Give a man a fish, and he eats for a day. Give a man a metric, and he worries for a lifetime."
+
+---
+
+*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

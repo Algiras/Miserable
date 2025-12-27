@@ -1,9 +1,12 @@
 ---
+
 title: "The Fragility Of Comfort"
 description: "Maven Research #42: The Fragility Of Comfort."
 pubDate: "2025-05-20"
 heroImage: "https://images.unsplash.com/photo-1489367874814-f5d040621dd8?w=1600&h=900&fit=crop"
 ---
+
+Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The Fragility of Comfort
 
@@ -37,3 +40,7 @@ Taleb argues that we should be "Antifragile"—getting better from chaos. To sta
  mastery of misery is not in enduring great pain, but in becoming a person for whom minor discomfort is unbearable.
 
 > "He who seeks the frictionless life shall find that the smallest grain of sand becomes a boulder."
+
+---
+
+*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

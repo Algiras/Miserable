@@ -1,9 +1,12 @@
 ---
+
 title: "The Small Talk Trench"
 description: "Maven Research #81: The Small Talk Trench."
 pubDate: "2025-10-07"
 heroImage: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1600&h=900&fit=crop"
 ---
+
+Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # Small Talk as a Trench
 
@@ -34,3 +37,7 @@ In the *Resident's Log (Aug 30)*, the subject illustrates "The 'Catch Up' Mirage
 :::
 
 > "The most dangerous thing in the world is a real conversation. Stick to the weather. The weather is always failing."
+
+---
+
+*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

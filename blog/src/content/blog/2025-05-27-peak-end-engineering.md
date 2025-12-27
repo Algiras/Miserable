@@ -1,9 +1,12 @@
 ---
+
 title: "Peak End Engineering"
 description: "Maven Research #43: Peak End Engineering."
 pubDate: "2025-05-27"
 heroImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1600&h=900&fit=crop"
 ---
+
+Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # Peak-End Engineering
 
@@ -35,3 +38,7 @@ To ensure that your life history is a curated collection of regrets, apply the f
 By mastering Peak-End Engineering, you gain the power to rewrite your own history. You don't need to live a miserable life; you only need to live a life with miserable endings. The "Experiencing Self" might be occasionally happy, but the "Remembering Self"—the one who actually lives with your biography—will be perpetually dissatisfied.
 
 > "A beautiful symphony is ruined by a single off-key note at the finale. Ensure your life is a series of such notes."
+
+---
+
+*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

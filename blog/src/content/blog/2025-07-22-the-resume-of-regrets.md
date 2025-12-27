@@ -1,9 +1,12 @@
 ---
+
 title: "The Resume Of Regrets"
 description: "Maven Research #60: The Resume Of Regrets."
 pubDate: "2025-07-22"
 heroImage: "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=1600&h=900&fit=crop"
 ---
+
+Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The Resume of Regrets
 
@@ -36,3 +39,7 @@ In the *Resident's Log (Oct 29)*, the subject illustrates "The Sunk Cost Career.
 :::
 
 > "The hardest thing to bury is the life you didn't live. Keep the shovel handy."
+
+---
+
+*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

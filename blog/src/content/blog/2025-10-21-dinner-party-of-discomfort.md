@@ -1,9 +1,12 @@
 ---
+
 title: "Dinner Party Of Discomfort"
 description: "Maven Research #85: Dinner Party Of Discomfort."
 pubDate: "2025-10-21"
 heroImage: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1600&h=900&fit=crop"
 ---
+
+Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The Dinner Party of Discomfort
 
@@ -34,3 +37,7 @@ In the *Resident's Log (Dec 2)*, the subject illustrates "The Awkward Silence." 
 :::
 
 > "A good host makes you feel at home. A Maven makes you realize why you hate being home. Be the Maven."
+
+---
+
+*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

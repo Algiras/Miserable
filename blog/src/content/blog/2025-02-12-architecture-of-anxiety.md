@@ -1,9 +1,12 @@
 ---
+
 title: "Architecture Of Anxiety"
 description: "Maven Research #13: Architecture Of Anxiety."
 pubDate: "2025-02-12"
 heroImage: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1600&h=900&fit=crop"
 ---
+
+Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The Architecture of Anxiety
 
@@ -34,3 +37,7 @@ In the *Resident's Log (Oct 14)*, the subject illustrates the ultimate "Architec
 :::
 
 > "Give a man a view, and he dreams. Give a man a wall, and he ruminates. Be the man with the wall."
+
+---
+
+*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

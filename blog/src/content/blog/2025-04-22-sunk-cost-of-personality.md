@@ -1,9 +1,12 @@
 ---
+
 title: "Sunk Cost Of Personality"
 description: "Maven Research #34: Sunk Cost Of Personality."
 pubDate: "2025-04-22"
 heroImage: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1600&h=900&fit=crop"
 ---
+
+Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The Sunk Cost of Personality
 
@@ -34,3 +37,7 @@ In the *Resident's Log (April 22)*, the subject illustrates "Regretting 2014." B
 :::
 
 > "A man who cannot change his mind cannot change anything. A man who cannot change his personality is finally, truly, safely stuck."
+
+---
+
+*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

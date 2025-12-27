@@ -1,9 +1,12 @@
 ---
+
 title: "The Circadian Shuffle"
 description: "Maven Research #1: The Circadian Shuffle."
 pubDate: "2025-01-01"
 heroImage: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=1600&h=900&fit=crop"
 ---
+
+Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The Circadian Shuffle
 
@@ -27,3 +30,7 @@ Sleep is the enemy of misery. When you sleep well, your brain clear-cuts the wee
 
 ### A Note from the Chef
 If you accidentally fall asleep before 1:00 AM, do not panic. Simply set an alarm for 3:00 AM to check your email. The stress of a work notification in the middle of the night is the perfect garnish for a ruined tomorrow.
+
+---
+
+*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

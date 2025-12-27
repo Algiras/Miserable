@@ -1,9 +1,12 @@
 ---
+
 title: "Cult Of The Productivity Hack"
 description: "Maven Research #90: Cult Of The Productivity Hack."
 pubDate: "2025-11-05"
 heroImage: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1600&h=900&fit=crop"
 ---
+
+Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # The Cult of the Productivity Hack
 
@@ -34,3 +37,7 @@ In the *Resident's Log (Aug 15)*, the subject illustrates "The Morning Routine f
 :::
 
 > "A sharp axe is useless if you spend all day sharpening it. Keep the stone spinning."
+
+---
+
+*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

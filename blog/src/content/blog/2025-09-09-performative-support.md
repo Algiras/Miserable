@@ -1,9 +1,12 @@
 ---
+
 title: "Performative Support"
 description: "Maven Research #74: Performative Support."
 pubDate: "2025-09-09"
 heroImage: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1600&h=900&fit=crop"
 ---
+
+Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # Performative Support
 
@@ -34,3 +37,7 @@ In the *Resident's Log (July 22)*, the subject illustrates "Assuming the Worst i
 :::
 
 > "The hand that gives is always above the hand that takes. Keep your hand as high as possible."
+
+---
+
+*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

@@ -1,9 +1,12 @@
 ---
+
 title: "Family System Entropy"
 description: "Maven Research #72: Family System Entropy."
 pubDate: "2025-09-02"
 heroImage: "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1600&h=900&fit=crop"
 ---
+
+Welcome to another installment in our ongoing series: *Miserable: How to Fail at Life*. Today's topic is a personal favorite—a masterclass in self-sabotage that's both accessible and devastatingly effective.
 
 # Family System Entropy
 
@@ -34,3 +37,7 @@ In the *Resident's Log (Dec 24)*, the subject illustrates "Year-End Regrets." Th
 :::
 
 > "A family is a mountain. You can clim it, or you can let it sit on your chest. Choose the weight."
+
+---
+
+*This post is part of the "Miserable" series—a satirical guide to failing at life with style. For more recipes for disaster, check out the full collection at [miserable.cloud](https://miserable.cloud/).*

@@ -1,38 +1,47 @@
 ---
+
 title: "The Resume Of Regrets"
 description: "Maven Research #60: The Resume Of Regrets."
 pubDate: "2025-07-22"
 heroImage: "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=1600&h=900&fit=crop"
 ---
 
-# The Resume of Regrets
+**How to Craft the Perfect Resume of Regrets (A Step-by-Step Guide to Professional Self-Sabotage)**
 
-In the late 19th century, the patent offices of Europe and America were flooded with the designs of "Failed Inventors"—men who had spent their lives and fortunes on machines that didn't work. When these men were interviewed, they rarely spoke of their own technical errors. Instead, they produced long, detailed "Manuscripts of Obstruction"—lists of the people, institutions, and family members who had supposedly prevented their success. They had converted their life's work into a **Resume of Regrets**.
+Let’s be honest—your career is already a masterclass in missed opportunities, half-baked decisions, and the art of looking like a genius in hindsight. But why settle for *just* a mediocre life when you can turn it into a *curated* disaster? Welcome to **"The Resume of Regrets"**, where every job change is a "pivot," every rejection is a "perfect opportunity you missed," and your future self is already writing you off as a cautionary tale. This isn’t therapy; it’s *career alchemy*—the dark art of turning your life into a cautionary Wikipedia page. And the best part? No one will ever accuse you of *trying* too hard.
 
-In cognitive psychology, **Counterfactual Thinking** is the process of imagining alternative outcomes to past events—the "What Ifs." While this can be a tool for learning, the Maven uses it for **Retrospective Stagnation**.
+---
 
-By framing your career not as a series of choices, but as a series of "Closed Doors," you ensure that your past is a source of permanent, unfixable dissatisfaction.
+### **The Resume of Regrets**
+**Yields:** A career that feels like a Netflix documentary about your own failure, complete with dramatic narration and a slow-motion exit shot.
 
-## The Omission Bias as a Shield
+#### **Ingredients:**
+- 1 cup of "I left because the culture wasn’t right for me" (use immediately after every job)
+- 2 tbsp of "I had the idea first, but the timing was off" (for every industry trend you didn’t invent)
+- 1 tsp of "They didn’t appreciate my vision" (for every manager who didn’t give you a raise)
+- ½ cup of "I was waiting for the right opportunity" (to be used indefinitely)
+- 1 dash of "I could’ve been a CEO if only…" (adjust to taste)
+- 1 lifetime supply of "What ifs" (store in a mason jar, label it "Future Me’s Nightmares")
 
-Social psychology identifies the **Omission Bias**—the tendency to judge harmful actions (doing something) more severely than harmful inactions (not doing something). To stay miserable, you must master the art of the **Strategic Omission**. 
+#### **Instructions:**
 
-If you didn't apply for the promotion, you didn't "fail"; you merely "didn't act." This allows you to live in a fantasy world where you *would* have succeeded if only you had tried, while never actually having to risk the stress of trying.
+1. **The "Pivot" Archive**
+   Reframed every job you’ve left as a "pivot" that failed because of someone else. *"I left that company right before they went public because my manager didn’t understand my vision."* (Pro tip: If the company *didn’t* go public, just say it was "a lesson learned.") This keeps your ego "antifragile" while ensuring your bank account stays as fragile as a house of cards in a hurricane.
 
-## Instructions for a Career of Could-Have-Beens
+2. **The "Ghost" Network**
+   Keep a running list of former colleagues who’ve outpaced you. Use their success as proof of your own "bad luck." *"If I had stayed at X, I would be where Y is now."* (Bonus points if Y is a toxic cult leader or a fraud. Authenticity is key.) This is upward social comparison on steroids—because nothing says "I’m thriving" like comparing yourself to people you’ve already written off.
 
-1.  **The "Pivot" Archive**: Reframe every job you've left as a "Pivot" that failed because of someone else. "I left that company right before they went public because my manager didn't understand my vision." This keeps your ego "Antifragile" (see *Part 2*) while keeping your bank account empty.
-2.  **The "Ghost" Network**: Keep a list of former colleagues who have become more successful than you. Use their success as a metric for your own "Bad Luck." "If I had stayed at X, I would be where Y is now." This is "Upward Social Comparison" (see *Numerical Obsession*) on a chronological scale.
-3.  **The "Perfect Opportunity" Mirage**: Convince yourself that you are just waiting for the "Right Move." Use "Maximization" (see *The Paradox of Choice*) to reject any real opportunity that isn't perfect. This ensures you spend your whole life standing in the "Hallway of Potential" (see *Part 3*).
-4.  **The Resume of Excuses**: When asked about your career, never talk about what you *did*. Talk about why you *couldn't* do what you wanted. "I had the idea for Uber in 2005, but I didn't have the funding." (see *The Intellectualization of Avoidance*).
+3. **The "Perfect Opportunity" Mirage**
+   Convince yourself you’re just waiting for the *right* move. Use "maximization" (see: *The Paradox of Choice*) to reject any real opportunity that isn’t perfect. This ensures you spend your whole life standing in the "hallway of potential," waving at doors that only open for other people. (Side note: If you ever *do* get a great opportunity, immediately assume it’s a trap. Trust me.)
 
-## The Result: The Human Afterthought
+4. **The Resume of Excuses**
+   When asked about your career, never talk about what you *did*. Talk about why you *couldn’t* do what you wanted. *"I had the idea for Uber in 2005, but I didn’t have the funding."* (See: *The Intellectualization of Avoidance*.) This is how you turn ambition into a victim narrative. Just don’t forget to update your LinkedIn with the latest "almost" you’re still waiting for.
 
-The goal of the Resume of Regrets is to turn you into a **Human Afterthought**. You are a person whose history is written in the "Past Conditional" tense—you *would have* been great, you *should have* been rich, you *could have* been happy. You have achieved the ultimate professional misery: a life that is entirely comprised of "If Onlys."
+---
+**Note from the Chef:**
+*"This recipe is best served cold, preferably with a side of existential dread. For maximum effect, pair with a glass of 'I could’ve been a CEO if only…' wine. Store leftovers in the 'Future Me’ fridge. Do not microwave."*
 
-::: {.callout-tip}
-## Analytic Note: The Sunk Cost Career
-In the *Resident's Log (Oct 29)*, the subject illustrates "The Sunk Cost Career." By refusing to leave a job they hate, they are adding another line to their Resume of Regrets. Every day they stay is another day they can "Regret" in the future.
-:::
+---
 
-> "The hardest thing to bury is the life you didn't live. Keep the shovel handy."
+**Conclusion:**
+So there you have it—the blueprint for a life so rich in "what ifs" that your future self will need a therapist just to read your old emails. The Resume of Regrets isn’t about regret; it’s about *curating* regret into an art form. After all, if you’re not the star of your own cautionary tale, who is? Just remember: the only thing worse than failing is *not failing enough*. Now go forth and pivot. (But not too hard—you don’t want to *actually* succeed.)

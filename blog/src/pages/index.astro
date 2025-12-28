@@ -42,6 +42,58 @@ import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
 				gap: 2rem;
 				margin-top: 4rem;
 			}
+			.audiobook-section {
+				max-width: 900px;
+				margin: 4rem auto;
+				padding: 3rem 2rem;
+				text-align: center;
+				background: var(--box-bg);
+				border-radius: 12px;
+				border: 1px solid var(--box-border);
+			}
+			.audiobook-container h2 {
+				margin: 1rem 0;
+				font-size: 2rem;
+			}
+			.audiobook-description {
+				color: var(--gray);
+				margin-bottom: 2rem;
+				font-size: 1.1rem;
+			}
+			.video-wrapper {
+				position: relative;
+				padding-bottom: 56.25%; /* 16:9 aspect ratio */
+				height: 0;
+				overflow: hidden;
+				margin: 2rem 0;
+				border-radius: 8px;
+			}
+			.video-wrapper iframe {
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				border-radius: 8px;
+			}
+			.audiobook-actions {
+				display: flex;
+				gap: 1rem;
+				justify-content: center;
+				flex-wrap: wrap;
+				margin: 2rem 0 1rem;
+			}
+			.cc-license {
+				color: var(--gray-light);
+				margin-top: 1.5rem;
+			}
+			.cc-license a {
+				color: var(--accent);
+				text-decoration: none;
+			}
+			.cc-license a:hover {
+				text-decoration: underline;
+			}
 		</style>
 	</head>
 	<body>
@@ -62,6 +114,55 @@ import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
 					From the "Anti-Mentors" to the "Somatic Shadow."
 				</p>
 				<a href="/blog" class="btn btn-primary">Enter the Void</a>
+			</section>
+
+			<section
+				class="audiobook-section reveal"
+				style="animation-delay: 0.1s"
+			>
+				<div class="audiobook-container">
+					<span class="badge">Free Audiobook</span>
+					<h2>Listen to the Full Audiobook</h2>
+					<p class="audiobook-description">
+						The complete 3-hour audiobook, narrated with AI voice
+						synthesis. Available for free under Creative Commons
+						license.
+					</p>
+					<div class="video-wrapper">
+						<iframe
+							width="560"
+							height="315"
+							src="https://www.youtube.com/embed/u-dnjEkpLLw"
+							title="Miserable: How to Fail at Life - Full Audiobook"
+							frameborder="0"
+							allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+							referrerpolicy="strict-origin-when-cross-origin"
+							allowfullscreen></iframe>
+					</div>
+					<div class="audiobook-actions">
+						<a
+							href="https://www.youtube.com/watch?v=u-dnjEkpLLw"
+							class="btn btn-primary"
+							target="_blank"
+							rel="noopener"
+						>
+							Watch on YouTube
+						</a>
+						<a href="/blog" class="btn btn-secondary">
+							Read the Blog
+						</a>
+					</div>
+					<p class="cc-license">
+						<small>
+							Licensed under <a
+								href="https://creativecommons.org/licenses/by-sa/4.0/"
+								target="_blank"
+								rel="noopener">CC BY-SA 4.0</a
+							>
+							— Free to share, remix, and build upon
+						</small>
+					</p>
+				</div>
 			</section>
 
 			<div class="grid reveal" style="animation-delay: 0.2s">
